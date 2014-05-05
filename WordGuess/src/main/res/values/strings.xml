@@ -5,4 +5,70 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="G">G</string>
+    <string name="H">H</string>
+    <string name="I">I</string>
+    <string name="J">J</string>
+    <string name="K">K</string>
+    <string name="L">L</string>
+    <string name="M">M</string>
+    <string name="N">N</string>
+    <string name="Ñ">Ñ</string>
+    <string name="O">O</string>
+    <string name="P">P</string>
+    <string name="Q">Q</string>
+    <string name="R">R</string>
+    <string name="S">S</string>
+    <string name="T">T</string>
+    <string name="U">U</string>
+    <string name="V">V</string>
+    <string name="W">W</string>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string name="Z">Z</string>
+    <string name="word">Word</string>
+    <string name="definition">Definition:</string>
+    <string name="write_word">Write the word:</string>
+    <string name="words_json_array_name">words</string>
+    <string name="word_name_json">word</string>
+    <string name="definitions_json_array_name">definitions</string>
+    <string name="send_button_text">Send</string>
+
+
+    <string-array name="spanish_alphabet">
+        <item>@string/A</item>
+        <item>@string/B</item>
+        <item>@string/C</item>
+        <item>@string/D</item>
+        <item>@string/E</item>
+        <item>@string/F</item>
+        <item>@string/G</item>
+        <item>@string/H</item>
+        <item>@string/I</item>
+        <item>@string/J</item>
+        <item>@string/K</item>
+        <item>@string/L</item>
+        <item>@string/M</item>
+        <item>@string/N</item>
+        <item>@string/Ñ</item>
+        <item>@string/O</item>
+        <item>@string/P</item>
+        <item>@string/Q</item>
+        <item>@string/R</item>
+        <item>@string/S</item>
+        <item>@string/T</item>
+        <item>@string/U</item>
+        <item>@string/V</item>
+        <item>@string/W</item>
+        <item>@string/X</item>
+        <item>@string/Y</item>
+        <item>@string/Z</item>
+    </string-array>
+
 </resources>
