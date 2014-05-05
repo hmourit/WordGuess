@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="button_ids">
+        <item>@id/but_a</item>
+        <item>@id/but_b</item>
+        <item>@id/but_c</item>
+        <item>@id/but_d</item>
+        <item>@id/but_e</item>
+        <item>@id/but_f</item>
+        <item>@id/but_g</item>
+        <item>@id/but_h</item>
+        <item>@id/but_i</item>
+        <item>@id/but_j</item>
+        <item>@id/but_k</item>
+        <item>@id/but_l</item>
+        <item>@id/but_m</item>
+        <item>@id/but_n</item>
+        <item>@id/but_nn</item>
+        <item>@id/but_o</item>
+        <item>@id/but_p</item>
+        <item>@id/but_q</item>
+        <item>@id/but_r</item>
+        <item>@id/but_s</item>
+        <item>@id/but_t</item>
+        <item>@id/but_u</item>
+        <item>@id/but_v</item>
+        <item>@id/but_w</item>
+        <item>@id/but_x</item>
+        <item>@id/but_y</item>
+        <item>@id/but_z</item>
+    </array>
+</resources>
