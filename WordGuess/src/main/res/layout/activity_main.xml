@@ -8,68 +8,96 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
-        <Button
+        <TextView
             android:id="@+id/but_a"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/A" />
+            android:text="@string/A"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_b"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/B" />
+            android:text="@string/B"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_c"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/C" />
+            android:text="@string/C"
+            android:gravity="center_horizontal"
 
-        <Button
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
+
+        <TextView
             android:id="@+id/but_d"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/D" />
+            android:text="@string/D"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_e"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/E" />
+            android:text="@string/E"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_f"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/F" />
+            android:text="@string/F"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_g"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/G" />
+            android:text="@string/G"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_h"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/H" />
+            android:text="@string/H"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_i"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/I" />
+            android:text="@string/I"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
     </LinearLayout>
 
@@ -78,68 +106,95 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
-        <Button
+        <TextView
             android:id="@+id/but_j"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/J" />
+            android:text="@string/J"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_k"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/K" />
+            android:text="@string/K"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_l"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/L" />
+            android:text="@string/L"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_m"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/M" />
+            android:text="@string/M"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_n"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/N" />
+            android:text="@string/N"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_nn"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/Ñ" />
+            android:text="@string/Ñ"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_o"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/O" />
+            android:text="@string/O"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_p"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/P" />
+            android:text="@string/P"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_q"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/Q" />
+            android:text="@string/Q"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
     </LinearLayout>
 
@@ -148,68 +203,95 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
-        <Button
+        <TextView
             android:id="@+id/but_r"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/R" />
+            android:text="@string/R"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_s"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/S" />
+            android:text="@string/S"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_t"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/T" />
+            android:text="@string/T"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_u"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/U" />
+            android:text="@string/U"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_v"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/V" />
+            android:text="@string/V"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_w"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/W" />
+            android:text="@string/W"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_x"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/X" />
+            android:text="@string/X"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_y"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/Y" />
+            android:text="@string/Y"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
-        <Button
+        <TextView
             android:id="@+id/but_z"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/Z" />
+            android:text="@string/Z"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
 
     </LinearLayout>
 
@@ -219,12 +301,19 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/definition" />
 
-    <TextView
+    <ScrollView
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:layout_weight="1"
-        android:text="New Text"
-        android:id="@+id/tv_definition" />
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="New Text"
+            android:id="@+id/tv_definition" />
+
+    </ScrollView>
 
     <TextView
         android:layout_width="wrap_content"

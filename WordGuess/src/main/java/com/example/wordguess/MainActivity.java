@@ -12,6 +12,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import java.util.Iterator;
+
 
 public class MainActivity extends Activity {
 
@@ -21,50 +23,125 @@ public class MainActivity extends Activity {
 
     Resources res;
 
+    Iterator<Integer> letterIds;
+    boolean debug = false;
+    String currentWord = "";
+    int activeLetterId;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        tvDefinition = (TextView) findViewById(R.id.tv_definition);
-        etWord = (EditText) findViewById(R.id.et_word);
+        loadUI();
+        setCallbacks();
 
         res = getResources();
-        TypedArray tarray = res.obtainTypedArray(R.array.button_ids);
 
-        for(int i = 0; i< tarray.length(); i++){
-            int butLetter = tarray.getResourceId(i,0);
+        letterIds = Utils.getCycleIterator(getResources().obtainTypedArray(R.array.button_ids));
+        activeLetterId = letterIds.next();
+        loadWordAndDefinition((TextView) findViewById(activeLetterId));
 
-            ((Button) findViewById(butLetter)).setOnClickListener(new View.OnClickListener() {
+    }
+
+    /**
+     * Load UI elements.
+     */
+    private void loadUI() {
+        tvDefinition = (TextView) findViewById(R.id.tv_definition);
+        etWord = (EditText) findViewById(R.id.et_word);
+        butSend = (Button) findViewById(R.id.but_send);
+    }
+
+    /**
+     * Set callbacks for UI elements.
+     */
+    private void setCallbacks() {
+
+        etWord.setOnLongClickListener(new View.OnLongClickListener() {
+            @Override
+            public boolean onLongClick(View view) {
+                if (!debug) {
+                    activateDebug();
+                } else {
+                    deactivateDebug();
+                }
+                return true;
+            }
+        });
+
+
+        butSend.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                // checks introduced word and load next one
+                TextView activeTextViewLetter = (TextView) findViewById(activeLetterId);
+                if (currentWord.equals(etWord.getText().toString().trim().toLowerCase())) {
+                    activeTextViewLetter.setBackgroundColor(Color.GREEN);
+                } else {
+                    activeTextViewLetter.setBackgroundColor(Color.RED);
+                }
+                etWord.setText("");
+                activeLetterId = letterIds.next();
+                loadWordAndDefinition((TextView) findViewById(activeLetterId));
+            }
+        });
+    }
+
+    /**
+     * Activates debugging mode, i.e., shows desired word as hint and makes letters clickable.
+     */
+    private void activateDebug() {
+
+        res = getResources();
+        TypedArray buttonIds = res.obtainTypedArray(R.array.button_ids);
+        for (int i = 0; i < buttonIds.length(); i++) {
+            int butLetter = buttonIds.getResourceId(i, 0);
+            findViewById(butLetter).setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    // when a letter is clicked, it retrieves a random word starting with that
-                    // letter and a random definition
-                    // it sets etWord's hint to the word (stupid debugging)
-                    String starts = ((Button) view).getText().toString().toLowerCase();
-                    Word w = DBAccess.getRWordStarting(starts, res);
-                    if (w == null){
-                        etWord.setHint("null");
-                    }else{
-                        etWord.setHint(w.getName());
-                        tvDefinition.setText(w.getRandomDefinition());
-                    }
+                    loadWordAndDefinition((TextView) view);
                 }
             });
         }
 
-        butSend = (Button) findViewById(R.id.but_send);
-        butSend.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                // checks whether hint and written text are equal
-                if (etWord.getHint().equals(etWord.getText().toString().trim())) {
-                    etWord.setBackgroundColor(Color.GREEN);
-                } else {
-                    etWord.setBackgroundColor(Color.RED);
-                }
+        if (!currentWord.equals("")) {
+            etWord.setHint(currentWord);
+        }
+        debug = true;
+    }
+
+    /**
+     * Deactivates debugging mode, i.e., hides hint and removes onClick callbacks.
+     */
+    private void deactivateDebug() {
+
+        res = getResources();
+        TypedArray buttonIds = res.obtainTypedArray(R.array.button_ids);
+        for (int i = 0; i < buttonIds.length(); i++) {
+            int butLetter = buttonIds.getResourceId(i, 0);
+            findViewById(butLetter).setOnClickListener(null);
+        }
+
+        etWord.setHint(R.string.word);
+        debug = false;
+    }
+
+    /**
+     * Loads definition for a word starting with a letter.
+     */
+    private void loadWordAndDefinition(TextView textView) {
+        String startsWith = textView.getText().toString().toLowerCase();
+        Word w = DBAccess.getRWordStarting(startsWith, res);
+        if (w != null) {
+            currentWord = w.getName().toLowerCase();
+            tvDefinition.setText(w.getRandomDefinition());
+            if (debug) {
+                etWord.setHint(w.getName());
             }
-        });
+        } else {
+            // TODO: react to error
+        }
     }
 
     @Override
