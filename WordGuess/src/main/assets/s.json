@@ -1,0 +1,5433 @@
+{
+  "words": [
+    {
+      "definitions": [
+        "Adjetivo Relativo al sujeto.", 
+        "Relativo a nuestro modo de pensar o de sentir, y no al objeto en sí mismo.", 
+        "GRAMÁTICA, LÓGICA Relativo al sujeto, o que tiene la función de sujeto (gramatical o lógico)."
+      ], 
+      "n_definitions": 3, 
+      "word": "subjetivo", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "j", 
+        "e", 
+        "t", 
+        "i", 
+        "v", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Locución adverbial DERECHO Sujeto a juicio, bajo la decisión de un juez; se aplica a subjuntivo, -va", 
+        "Adjetivo Que se adjunta como elemento subordinado. V. modo subjuntivo; verbo (uso de los modos)."
+      ], 
+      "n_definitions": 2, 
+      "word": "sub", 
+      "includes": [
+        "s", 
+        "u", 
+        "b"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Sublevamiento."
+      ], 
+      "n_definitions": 1, 
+      "word": "sublevación", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "l", 
+        "e", 
+        "v", 
+        "a", 
+        "c", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / pronominal Alzar en sedición o motín.", 
+        "Verbo transitivo (figurado) Excitar indignación, ira o protesta."
+      ], 
+      "n_definitions": 2, 
+      "word": "sublevar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "l", 
+        "e", 
+        "v", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de sublimar.", 
+        "Efecto de sublimar."
+      ], 
+      "n_definitions": 2, 
+      "word": "sublimación", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "l", 
+        "i", 
+        "m", 
+        "a", 
+        "c", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino QUÍMICA Sustancia obtenida por sublimación.", 
+        "Sublimado corrosivo, o simplemente ˜, compuesto tóxico de dos átomos de cloro con uno de mercurio. úsase como desinfectante."
+      ], 
+      "n_definitions": 2, 
+      "word": "sublimado", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "l", 
+        "i", 
+        "m", 
+        "a", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Engrandecer, ensalzar.", 
+        "Volatilizar un cuerpo sólido y volverlo sólido otra vez sin pasar aparentemente por el estado   líquido.", 
+        "En el psicoanálisis, resolver un estado o sedimento morboso en una actividad moral o intelectualmente generosa o superior."
+      ], 
+      "n_definitions": 3, 
+      "word": "sublimar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "l", 
+        "i", 
+        "m", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Excelso, eminente. -", 
+        "Adjetivo - sustantivo Emoción estética que nos produce lo bello cuando va acompañado de grandiosidad o elevación inabarcables para el entendimiento."
+      ], 
+      "n_definitions": 2, 
+      "word": "sublime", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "l", 
+        "i", 
+        "m", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Carácter de aquellas percepciones sensoriales, u otras actividades psíquicas, de las que el sujeto no llega a tener conciencia.", 
+        "Que está por debajo de las posibilidades de percepción visual o sonora del hombre."
+      ], 
+      "n_definitions": 2, 
+      "word": "subliminal", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "l", 
+        "i", 
+        "m", 
+        "i", 
+        "n", 
+        "a", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Sublimar, engrandecer, exaltar, ensalzar."
+      ], 
+      "n_definitions": 1, 
+      "word": "sublimizar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "l", 
+        "i", 
+        "m", 
+        "i", 
+        "z", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Situado debajo de la lengua."
+      ], 
+      "n_definitions": 1, 
+      "word": "sublingual", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "l", 
+        "i", 
+        "n", 
+        "g", 
+        "u", 
+        "a", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Conjunto de las actividades que se realizan bajo la superficie del mar, con fines científicos, deportivos, militares, etc.", 
+        "Conjunto de conocimientos y técnicas necesarios para practicar tales actividades."
+      ], 
+      "n_definitions": 2, 
+      "word": "submarinismo", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "m", 
+        "a", 
+        "r", 
+        "i", 
+        "n", 
+        "i", 
+        "s", 
+        "m", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Que practica el submarinismo. -", 
+        "Adjetivo Perteneciente o relativo al submarinismo. -", 
+        "Sustantivo masculino Individuo de la armada especializado en el servicio de submarinos."
+      ], 
+      "n_definitions": 3, 
+      "word": "submarinista", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "m", 
+        "a", 
+        "r", 
+        "i", 
+        "n", 
+        "i", 
+        "s", 
+        "t", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que está bajo la superficie del mar.", 
+        "Perteneciente o relativo a lo que está o se efectúa debajo de la superficie del mar. -", 
+        "Sustantivo masculino Buque submarino.", 
+        "(figurado) Infiltrado.", 
+        "CHILE. Sistema de tortura que consiste en introducir la cabeza de la víctima en un recipiente de agua hasta que esté próximo a la inconsciencia."
+      ], 
+      "n_definitions": 5, 
+      "word": "submarino", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "m", 
+        "a", 
+        "r", 
+        "i", 
+        "n", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Situado debajo de la mandíbula inferior."
+      ], 
+      "n_definitions": 1, 
+      "word": "submaxilar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "m", 
+        "a", 
+        "x", 
+        "i", 
+        "l", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Inferior a lo normal. -", 
+        "Adjetivo - sustantivo común Persona afectada de una deficiencia mental de carácter patológico.   suboficial", 
+        "Sustantivo masculino Categoría militar que comprende los grados superiores a los de tropa e inferiores a los de oficial."
+      ], 
+      "n_definitions": 3, 
+      "word": "subnormal", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "n", 
+        "o", 
+        "r", 
+        "m", 
+        "a", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Sujeción a la orden o dominio de uno.", 
+        "GRAMÁTICA Dependencia en que se hallan ciertos elementos gramaticales con respecto a otros."
+      ], 
+      "n_definitions": 2, 
+      "word": "subordinación", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "o", 
+        "r", 
+        "d", 
+        "i", 
+        "n", 
+        "a", 
+        "c", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo [pers.] Sujeto a otra.", 
+        "GRAMÁTICA [palabra u oración] Que depende gramaticalmente de otra. V. oración subordinada."
+      ], 
+      "n_definitions": 2, 
+      "word": "subordinado", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "o", 
+        "r", 
+        "d", 
+        "i", 
+        "n", 
+        "a", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo  femenino GRAMÁTICA Principal (oración).", 
+        "GRAMÁTICA Conjunción ˜, la que enlaza la oración principal con la subordinada e indica el carácter de esta subordinación."
+      ], 
+      "n_definitions": 2, 
+      "word": "subordinante", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "o", 
+        "r", 
+        "d", 
+        "i", 
+        "n", 
+        "a", 
+        "n", 
+        "t", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / pronominal Sujetar [pers. o cosas] a la dependencia de otras.", 
+        "Clasificar [algunas cosas inferiores en orden] respecto de otras.", 
+        "GRAMÁTICA Supeditar unos elementos gramaticales a otros."
+      ], 
+      "n_definitions": 3, 
+      "word": "subordinar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "o", 
+        "r", 
+        "d", 
+        "i", 
+        "n", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Situado debajo de las branquias."
+      ], 
+      "n_definitions": 1, 
+      "word": "subranquial", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "r", 
+        "a", 
+        "n", 
+        "q", 
+        "u", 
+        "i", 
+        "a", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Señalar por debajo con una raya en lo escrito [una letra, palabra, etc.]. Sirve esp. para indicar que en lo impreso [lo subrayado] se ha de poner en cursiva.", 
+        "(figurado) Recalcar [las palabras].", 
+        "(figurado) Insistir [en algo]."
+      ], 
+      "n_definitions": 3, 
+      "word": "subrayar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "r", 
+        "a", 
+        "y", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que se pretende u obtiene con subrepción.", 
+        "Que se hace o toma ocultamente y a escondidas."
+      ], 
+      "n_definitions": 2, 
+      "word": "subrepticio", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "r", 
+        "e", 
+        "p", 
+        "t", 
+        "i", 
+        "c", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / pronominal DERECHO Sustituir o poner una persona o cosa en lugar [de otra]."
+      ], 
+      "n_definitions": 1, 
+      "word": "subrogar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "r", 
+        "o", 
+        "g", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo (poco usado) Disculpar [un desacierto o delito].", 
+        "Remediar [un defecto] o resarcir [un daño].", 
+        "Resolver o solucionar [una dificultad]."
+      ], 
+      "n_definitions": 3, 
+      "word": "subsanar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "a", 
+        "n", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / pronominal Suscribir.   subscriptor, -ra", 
+        "Sustantivo masculino, sustantivo femenino Suscriptor."
+      ], 
+      "n_definitions": 2, 
+      "word": "subscribir", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "c", 
+        "r", 
+        "i", 
+        "b", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino, sustantivo femenino Persona que hace las veces de secretario. -", 
+        "Sustantivo masculino En España, jefe superior de un departamento ministerial, después del ministro."
+      ], 
+      "n_definitions": 2, 
+      "word": "subsecretario", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "e", 
+        "c", 
+        "r", 
+        "e", 
+        "t", 
+        "a", 
+        "r", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo / pronominal Seguir una cosa inmediatamente a otra."
+      ], 
+      "n_definitions": 1, 
+      "word": "subseguir", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "e", 
+        "g", 
+        "u", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Conceder subsidio (socorro) [a una persona o corporación]."
+      ], 
+      "n_definitions": 1, 
+      "word": "subsidiar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "i", 
+        "d", 
+        "i", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que se da en socorro o subsidio a uno.", 
+        "DERECHO [acción o responsabilidad] Que suple o robustece a otra principal.", 
+        "Anglic. Auxiliar."
+      ], 
+      "n_definitions": 3, 
+      "word": "subsidiario", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "i", 
+        "d", 
+        "i", 
+        "a", 
+        "r", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Socorro o auxilio extraordinario de carácter económico.", 
+        "Contribución impuesta al comercio y a la industria.", 
+        "Auxilio concedido por la Sede apostólica a los reyes de España sobre las rentas eclesiásticas de sus reinos.", 
+        "Ayuda económica, generalmente de carácter oficial, que se otorga para satisfacer determinadas necesidades: ˜ familiar, suplemento salarial que, generalmente con carácter temporal, concede el Estado en concepto de ayuda, a las familias numerosas; ˜ de paro o de desempleo,  aportación económica sustitutiva del salario que el estado entrega a la población activa, o parte de ella, que no tiene trabajo remunerado.", 
+        "COLOMBIA, ECUADOR Zozobra."
+      ], 
+      "n_definitions": 5, 
+      "word": "subsidio", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "i", 
+        "d", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que sigue inmediatamente.", 
+        "Después del siguiente."
+      ], 
+      "n_definitions": 2, 
+      "word": "subsiguiente", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "i", 
+        "g", 
+        "u", 
+        "i", 
+        "e", 
+        "n", 
+        "t", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino El hecho de subsistir.", 
+        "Conjunto de medios necesarios para el sustento de la vida humana.", 
+        "FILOSOFÍA Complemento último de la sustancia o acto por el cual una sustancia se hace incomunicable a otra."
+      ], 
+      "n_definitions": 3, 
+      "word": "subsistencia", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "i", 
+        "s", 
+        "t", 
+        "e", 
+        "n", 
+        "c", 
+        "i", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Permanecer, durar una cosa o conservarse.", 
+        "Vivir, mantener la vida.", 
+        "FILOSOFÍA Existir con   todas las condiciones propias de su ser o de su naturaleza."
+      ], 
+      "n_definitions": 3, 
+      "word": "subsistir", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "i", 
+        "s", 
+        "t", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Relativo a la velocidad inferior a la del sonido."
+      ], 
+      "n_definitions": 1, 
+      "word": "subsónico", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "o", 
+        "n", 
+        "i", 
+        "c", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Sustancia."
+      ], 
+      "n_definitions": 1, 
+      "word": "substancia", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "t", 
+        "a", 
+        "n", 
+        "c", 
+        "i", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Sustancial."
+      ], 
+      "n_definitions": 1, 
+      "word": "substancial", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "t", 
+        "a", 
+        "n", 
+        "c", 
+        "i", 
+        "a", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Sustanciar."
+      ], 
+      "n_definitions": 1, 
+      "word": "substanciar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "t", 
+        "a", 
+        "n", 
+        "c", 
+        "i", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Sustancioso."
+      ], 
+      "n_definitions": 1, 
+      "word": "substancioso", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "t", 
+        "a", 
+        "n", 
+        "c", 
+        "i", 
+        "o", 
+        "s", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / pronominal  GRAMÁTICA Sustantivar."
+      ], 
+      "n_definitions": 1, 
+      "word": "substantivar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "t", 
+        "a", 
+        "n", 
+        "t", 
+        "i", 
+        "v", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Sustitución."
+      ], 
+      "n_definitions": 1, 
+      "word": "substitución", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "t", 
+        "i", 
+        "t", 
+        "u", 
+        "c", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Sustituir."
+      ], 
+      "n_definitions": 1, 
+      "word": "substituir", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "t", 
+        "i", 
+        "t", 
+        "u", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo masculino Sustitutivo."
+      ], 
+      "n_definitions": 1, 
+      "word": "substitutivo", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "t", 
+        "i", 
+        "t", 
+        "u", 
+        "t", 
+        "i", 
+        "v", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Pp. irreg. de substituir. -", 
+        "Sustantivo masculino, sustantivo femenino Sustituto (persona)."
+      ], 
+      "n_definitions": 2, 
+      "word": "substituto", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "t", 
+        "i", 
+        "t", 
+        "u", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino MATEMÁTICAS Sustraendo."
+      ], 
+      "n_definitions": 1, 
+      "word": "substraendo", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "t", 
+        "r", 
+        "a", 
+        "e", 
+        "n", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Sustraer."
+      ], 
+      "n_definitions": 1, 
+      "word": "substraer", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "t", 
+        "r", 
+        "a", 
+        "e", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Sustrato."
+      ], 
+      "n_definitions": 1, 
+      "word": "substrato", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "t", 
+        "r", 
+        "a", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Terreno que está debajo de la capa laborable o, en gral., debajo de una capa de tierra.", 
+        "Parte profunda del terreno a la cual no llegan los aprovechamientos superficiales de los predios.", 
+        "CHILE. Sótano."
+      ], 
+      "n_definitions": 3, 
+      "word": "subsuelo", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "u", 
+        "e", 
+        "l", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Incluir algo como componente en una síntesis o clasificación más abarcadora.", 
+        "Considerar algo como parte de un conjunto más amplio o como caso particular sometido a un principio o norma general."
+      ], 
+      "n_definitions": 2, 
+      "word": "subsumir", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "s", 
+        "u", 
+        "m", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino MILITAR Empleo superior del cuerpo de suboficiales.   subterfugio", 
+        "Sustantivo masculino Efugio, escapatoria."
+      ], 
+      "n_definitions": 2, 
+      "word": "subteniente", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "t", 
+        "e", 
+        "n", 
+        "i", 
+        "e", 
+        "n", 
+        "t", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Poner subtítulo [a una cosa]."
+      ], 
+      "n_definitions": 1, 
+      "word": "subtitular", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "t", 
+        "i", 
+        "t", 
+        "u", 
+        "l", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Título secundario puesto a veces después del principal.", 
+        "En las películas cinematográficas en versión original, escrito superpuesto a las imágenes que traduce los diálogos de los actores."
+      ], 
+      "n_definitions": 2, 
+      "word": "subtítulo", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "t", 
+        "i", 
+        "t", 
+        "u", 
+        "l", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que se halla bajo los trópicos."
+      ], 
+      "n_definitions": 1, 
+      "word": "subtropical", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "t", 
+        "r", 
+        "o", 
+        "p", 
+        "i", 
+        "c", 
+        "a", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Edificio, terreno o campo próximo a la ciudad. -", 
+        "Adjetivo Relativo a un suburbio. -", 
+        "Sustantivo masculino Habitante de un suburbio."
+      ], 
+      "n_definitions": 3, 
+      "word": "suburbano", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "u", 
+        "r", 
+        "b", 
+        "a", 
+        "n", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Barrio, arrabal o aldea cerca de una gran ciudad y dentro de su jurisdicción; esp., el habitado por gente de débil condición económica."
+      ], 
+      "n_definitions": 1, 
+      "word": "suburbio", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "u", 
+        "r", 
+        "b", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / pronominal Dar o atribuir a una cosa menos valor o importancia de la que en realidad tiene."
+      ], 
+      "n_definitions": 1, 
+      "word": "subvalorar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "v", 
+        "a", 
+        "l", 
+        "o", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de subvenir.", 
+        "Efecto de subvenir.", 
+        "Cantidad con que se subviene; esp. en lenguaje administrativo, cantidad con que el Estado u otra corporación pública dota una institución, servicio, etc., que no administra directamente."
+      ], 
+      "n_definitions": 3, 
+      "word": "subvención", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "v", 
+        "e", 
+        "n", 
+        "c", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Favorecer con una subvención."
+      ], 
+      "n_definitions": 1, 
+      "word": "subvencionar", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "v", 
+        "e", 
+        "n", 
+        "c", 
+        "i", 
+        "o", 
+        "n", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Auxiliar, socorrer.", 
+        "Costear, sufragar el pago de cierta cosa."
+      ], 
+      "n_definitions": 2, 
+      "word": "subvenir", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "v", 
+        "e", 
+        "n", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Capaz de subvertir, especialmente el orden social o moral establecido, o que tiende a ello."
+      ], 
+      "n_definitions": 1, 
+      "word": "subversivo", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "v", 
+        "e", 
+        "r", 
+        "s", 
+        "i", 
+        "v", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Trastornar, revolver, destruir. úsase gralte. en sentido moral."
+      ], 
+      "n_definitions": 1, 
+      "word": "subvertir", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "v", 
+        "e", 
+        "r", 
+        "t", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Yacer o estar echado debajo de otra cosa.   subyugar", 
+        "Verbo transitivo / pronominal Avasallar, dominar poderosa o violentamente."
+      ], 
+      "n_definitions": 2, 
+      "word": "subyacer", 
+      "includes": [
+        "s", 
+        "u", 
+        "b", 
+        "y", 
+        "a", 
+        "c", 
+        "e", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Chupar, extraer algún jugo o cosa análoga con los labios.", 
+        "Absorber."
+      ], 
+      "n_definitions": 2, 
+      "word": "succionar", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "c", 
+        "i", 
+        "o", 
+        "n", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Estar una persona o cosa en lugar de otra o seguirse a ella.", 
+        "Entrar como heredero o legatario en posesión de los bienes de un difunto.", 
+        "Descender, proceder. -", 
+        "Verbo impersonal Efectuarse un hecho."
+      ], 
+      "n_definitions": 4, 
+      "word": "suceder", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "e", 
+        "d", 
+        "e", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de suceder.", 
+        "Efecto de suceder.", 
+        "Conjunto de bienes, derechos y obligaciones que, al morir una persona, son transmisibles a sus herederos o a sus legatarios.", 
+        "Prole, descendencia directa.", 
+        "Entrada o continuación de una persona o cosa en lugar de otra.", 
+        "Prosecución, continuación ordenada de personas, cosas, sucesos, etc.", 
+        "MATEMÁTICAS Conjunto ordenado de términos, que cumplen una ley determinada: ˜ convergente, aquella que tiene límite.", 
+        "HISTORIA NATURAL Proceso ordenado de desarrollo del ecosistema en que las comunidades se van sustituyendo a lo largo del tiempo."
+      ], 
+      "n_definitions": 8, 
+      "word": "sucesión", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "e", 
+        "s", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que sucede o se sigue a otra cosa."
+      ], 
+      "n_definitions": 1, 
+      "word": "sucesivo", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "e", 
+        "s", 
+        "i", 
+        "v", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Cosa que sucede, esp. si es de alguna importancia.", 
+        "Transcurso del tiempo.", 
+        "(anticuado) Éxito, resultado de un negocio.", 
+        "Hecho delictivo o accidente desgraciado."
+      ], 
+      "n_definitions": 4, 
+      "word": "suceso", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "e", 
+        "s", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Que sucede a uno o sobreviene en su lugar."
+      ], 
+      "n_definitions": 1, 
+      "word": "sucesor", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "e", 
+        "s", 
+        "o", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Calidad de sucio.", 
+        "Inmundicia, porquería.", 
+        "Basura, polvo, manchas o cualquier cosa que ensucia.", 
+        "(figurado) Dicho o hecho sucio."
+      ], 
+      "n_definitions": 4, 
+      "word": "suciedad", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "i", 
+        "e", 
+        "d", 
+        "a", 
+        "d"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Recogido o ceñido por abajo.", 
+        "Breve, compendioso."
+      ], 
+      "n_definitions": 2, 
+      "word": "sucinto", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "i", 
+        "n", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que tiene manchas o impurezas.", 
+        "Que se ensucia fácilmente.", 
+        "Que produce suciedad.", 
+        "(figurado) Manchado con pecados o con   imperfecciones.", 
+        "Deshonesto u obsceno.", 
+        "[color] Confuso y turbio.", 
+        "Con daño, infección o impureza. -", 
+        "Adverbio de modo (figurado) Hablando de algunos juegos, sin la debida observancia de sus reglas."
+      ], 
+      "n_definitions": 8, 
+      "word": "sucio", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Unidad monetaria de Ecuador."
+      ], 
+      "n_definitions": 1, 
+      "word": "sucre", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "r", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Sustancioso, muy nutritivo."
+      ], 
+      "n_definitions": 1, 
+      "word": "suculento", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "u", 
+        "l", 
+        "e", 
+        "n", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Ceder, rendirse, someterse.", 
+        "Morir, perecer.", 
+        "DEPORTES Ser derrotado un deportista o un equipo.", 
+        "DERECHO Perder el pleito."
+      ], 
+      "n_definitions": 4, 
+      "word": "sucumbir", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "u", 
+        "m", 
+        "b", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo femenino Establecimiento que sirve de ampliación a otro central del cual depende."
+      ], 
+      "n_definitions": 1, 
+      "word": "sucursal", 
+      "includes": [
+        "s", 
+        "u", 
+        "c", 
+        "u", 
+        "r", 
+        "s", 
+        "a", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Sudadero.", 
+        "(familiar) Sudor copioso.", 
+        "Prenda, habitualmente de tejido plástico, que usan ciertos deportistas para favorecer la sudación."
+      ], 
+      "n_definitions": 3, 
+      "word": "sudadera", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "a", 
+        "d", 
+        "e", 
+        "r", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo De África del Sur.", 
+        "De la República de Sudáfrica, nación del sur de África."
+      ], 
+      "n_definitions": 2, 
+      "word": "sudafricano", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "a", 
+        "f", 
+        "r", 
+        "i", 
+        "c", 
+        "a", 
+        "n", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Suramericano."
+      ], 
+      "n_definitions": 1, 
+      "word": "sudamericano", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "a", 
+        "m", 
+        "e", 
+        "r", 
+        "i", 
+        "c", 
+        "a", 
+        "n", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo De Sudán, región del centro de África y nación del oeste de África. -", 
+        "Adjetivo - sustantivo masculino Familia de lenguas del tronco negroafricano, habladas en el centro y el oeste de esta región, que se divide en nueve grupos: atlántico, nigeriosenegalés,  songay, voltaico,  guineo, nigerocamerunés, ubangui, chadiano y central."
+      ], 
+      "n_definitions": 2, 
+      "word": "sudanés", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "a", 
+        "n", 
+        "e", 
+        "s"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo / transitivo Exhalar el sudor.", 
+        "(por extensión,) (figurado) Destilar las plantas [algunas gotas de jugo].", 
+        "Verbo intransitivo (figurado) Destilar agua algunas cosas impregnadas de humedad.", 
+        "(familiar) Trabajar con fatiga y desvelo: ˜ la camiseta, DEPORTES, competir con total entrega. -", 
+        "Verbo transitivo Empapar en sudor.", 
+        "(figurado,) (familiar) Dar [una cosa], esp. a disgusto.", 
+        "(figurado,) (familiar) Conseguir una cosa con mucho esfuerzo."
+      ], 
+      "n_definitions": 7, 
+      "word": "sudar", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino (poco usado) Sudadero (lienzo).", 
+        "Lienzo que se pone sobre el rostro de los difuntos o en que se envuelve el cadáver: santo ˜, aquel con que José de Arimatea cubrió el cuerpo de Cristo, cuando lo bajó de la Cruz."
+      ], 
+      "n_definitions": 2, 
+      "word": "sudario", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "a", 
+        "r", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Punto del horizonte entre el sur y el este, a igual distancia de ambos.", 
+        "Viento que sopla de esta parte."
+      ], 
+      "n_definitions": 2, 
+      "word": "sudeste", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "e", 
+        "s", 
+        "t", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo común Persona que, en la guerra de Secesión estadounidense, era partidaria del Sur."
+      ], 
+      "n_definitions": 1, 
+      "word": "sudista", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "i", 
+        "s", 
+        "t", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Punto del horizonte entre el sur y el oeste, a igual distancia de ambos.", 
+        "Viento que sopla de esta parte."
+      ], 
+      "n_definitions": 2, 
+      "word": "sudoeste", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "o", 
+        "e", 
+        "s", 
+        "t", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Serosidad clara y transparente secretada por las glándulas sudoríparas de la piel.", 
+        "(figurado) Jugo que sudan las plantas.", 
+        "Gotas que salen y se destilan de las cosas que contienen humedad.", 
+        "Trabajo y fatiga. -", 
+        "Sustantivo masculino plural Curación que se hace en los enfermos aplicándoles medicinas que les obliguen a sudar copiosa o frecuentemente."
+      ], 
+      "n_definitions": 5, 
+      "word": "sudor", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "o", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo masculino Medicamento que hace sudar."
+      ], 
+      "n_definitions": 1, 
+      "word": "sudorífico", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "o", 
+        "r", 
+        "i", 
+        "f", 
+        "i", 
+        "c", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que segrega el sudor."
+      ], 
+      "n_definitions": 1, 
+      "word": "sudoríparo", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "o", 
+        "r", 
+        "i", 
+        "p", 
+        "a", 
+        "r", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que está sudando mucho.", 
+        "Muy propenso a sudar."
+      ], 
+      "n_definitions": 2, 
+      "word": "sudoroso", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "o", 
+        "r", 
+        "o", 
+        "s", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Punto del horizonte que media entre el sur y el sudeste.", 
+        "Viento que sopla de esta parte."
+      ], 
+      "n_definitions": 2, 
+      "word": "sudsudeste", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "s", 
+        "u", 
+        "d", 
+        "e", 
+        "s", 
+        "t", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Punto del horizonte que media entre el sur y el sudoeste.", 
+        "Viento que sopla de esta parte."
+      ], 
+      "n_definitions": 2, 
+      "word": "sudsudoeste", 
+      "includes": [
+        "s", 
+        "u", 
+        "d", 
+        "s", 
+        "u", 
+        "d", 
+        "o", 
+        "e", 
+        "s", 
+        "t", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo De Suecia, nación del norte de Europa. -", 
+        "Adjetivo - sustantivo masculino Lengua perteneciente   al grupo germánico nórdico, idioma oficial de esta nación europea. FR. Fig. Hacerse uno el ˜ , desentenderse de una cosa; fingir que no se entiende."
+      ], 
+      "n_definitions": 2, 
+      "word": "sueco", 
+      "includes": [
+        "s", 
+        "u", 
+        "e", 
+        "c", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Parte del calzado que toca al suelo: media ˜, pieza de cuero con que se remienda el calzado y que cubre la planta desde el enfranque a la punta.", 
+        "Planta de las pezuñas de las reses.", 
+        "Cuero vacuno curtido.", 
+        "Pedazo de cuero que se pega a la punta del taco con que se juega al billar.", 
+        "Pedazo de cuero que se pone en la espiga de los grifos para cerrar herméticamente el paso del agua.", 
+        "Lenguado.", 
+        "Zócalo (de un edificio).", 
+        "Madero puesto debajo de un tabique para levantarlo.", 
+        "(figurado,) (familiar) Filete de carne seco y duro.", 
+        "En el lenguaje de la droga, tableta de hachís.", 
+        "VETERINARIA Palma del casco de los animales. -", 
+        "Sustantivo femenino, plural En algunas órdenes religiosas, sandalias."
+      ], 
+      "n_definitions": 12, 
+      "word": "suela", 
+      "includes": [
+        "s", 
+        "u", 
+        "e", 
+        "l", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino (anticuado) moneda de diversos países (vigésima parte de la libra respectiva): ˜ bueno o burgalés, ant. moneda castellana; ˜ de oro, ant. moneda bizantina; ˜ menor, ochosén.", 
+        "Remuneración asignada a un individuo por el desempeño de un cargo o servicio profesional: a ˜, mediante retribución fija.", 
+        "Sólido (moneda)."
+      ], 
+      "n_definitions": 3, 
+      "word": "sueldo", 
+      "includes": [
+        "s", 
+        "u", 
+        "e", 
+        "l", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Superficie de la tierra: ˜ natal, patria.", 
+        "(figurado) Tierra o mundo.", 
+        "Territorio (de una nación).", 
+        "Sitio o solar de un edificio.", 
+        "Pavimento.", 
+        "Piso de un cuarto o vivienda.", 
+        "(poco usado) Casco de las caballerías.", 
+        "(figurado) Superficie inferior de algunas cosas.", 
+        "Poso (sedimento).", 
+        "(figurado,) (poco usado) Término, fin.", 
+        "DEPORTES En gimnasia deportiva y rítmica, superficie tapizada de doce metros cuadrados donde se efectúan diversos ejercicios.", 
+        "ANDALUCÍA Cava que se da alrededor de un olivo. -", 
+        "Sustantivo masculino plural Grano que, recogida la parva, queda en la era.", 
+        "Paja o grano que queda de un año a otro en los pajares o en los graneros.", 
+        "DERECHO Terreno destinado a   siembra o producciones herbáceas."
+      ], 
+      "n_definitions": 15, 
+      "word": "suelo", 
+      "includes": [
+        "s", 
+        "u", 
+        "e", 
+        "l", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Pp. irreg. de soltar. -", 
+        "Adjetivo Ligero, veloz.", 
+        "Expedito, ágil.", 
+        "Tratándose del lenguaje, estilo, etc., fácil, corriente.", 
+        "Libre, atrevido.", 
+        "[pers.] Que padece diarrea.", 
+        "Poco compacto, disgregado.", 
+        "Separado y que no hace juego ni forma con otras cosas la unión debida.", 
+        "Holgado, no ceñido.", 
+        "No envasado o no empaquetado. -", 
+        "Adjetivo - sustantivo masculino Conjunto de monedas fraccionarias de plata o calderilla. -", 
+        "Sustantivo masculino Escrito inserto en un periódico que no tiene la extensión del artículo ni es mera gacetilla. -", 
+        "Adjetivo TAUROMAQUIA [toro] Que sale de la lidia por su propia iniciativa, sin fijarse en el engaño."
+      ], 
+      "n_definitions": 13, 
+      "word": "suelto", 
+      "includes": [
+        "s", 
+        "u", 
+        "e", 
+        "l", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Acto de dormir.", 
+        "Gana de dormir.", 
+        "Acto de representarse en la fantasía de uno, mientras duerme, sucesos o especies.", 
+        "Estos mismos sucesos o especies que se representan.", 
+        "Cosa fantástica y sin fundamento o razón.", 
+        "Sueño dorado, anhelo, ilusión halagüeña, desiderátum.", 
+        "Sueño de las plantas, posición que adoptan las hojas, folíolos, pétalos, etc., en relación con las alternativas de día y noche, o con luz y calor muy intensos. FR. Estar en siete sueños , dormir profundamente. A ˜ suelto , con sueño profundo."
+      ], 
+      "n_definitions": 7, 
+      "word": "sueño", 
+      "includes": [
+        "s", 
+        "u", 
+        "e", 
+        "n", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Parte acuosa de la sangre y otros líquidos animales que se separa del coágulo de estos humores cuando salen del organismo.", 
+        "Suero de la leche, parte líquida que se separa al coagularse la leche.", 
+        "MEDICINA Disolución en agua de ciertas sales, o suero del hombre, o de ciertos animales, preparado convenientemente, que se administra en inyecciones."
+      ], 
+      "n_definitions": 3, 
+      "word": "suero", 
+      "includes": [
+        "s", 
+        "u", 
+        "e", 
+        "r", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Encadenamiento de los sucesos, considerado como fortuito o casual.", 
+        "Circunstancia de ser, por mera casualidad, favorable o adverso lo que sucede.", 
+        "Suerte favorable.", 
+        "Aquello que ocurre o puede ocurrir para bien o para mal de personas o cosas.", 
+        "Medio casual empleado para adivinar lo por venir, p. ej., abrir un libro al azar e interpretar las primeras palabras.", 
+        "Casualidad a que se   fía la resolución de una cosa.", 
+        "(especialmente) Sorteo hecho para elegir los mozos destinados a cubrir el cupo del servicio militar.", 
+        "Lance de la lidia taurina.", 
+        "Estado, condición.", 
+        "Género o especie de una cosa.", 
+        "Manera de hacer una cosa.", 
+        "Parte de tierra de labor separada de otras por sus lindes.", 
+        "Con los números ordinales primera, segunda, tercera, etc., calidad respectiva de los géneros o de otra cosa.", 
+        "IMPRENTA Conjunto de tipos fundidos en una misma matriz.", 
+        "ARGENTINA., URUGUAY Medida de superficie.", 
+        "ARGENTINA. Carne (en el juego de la taba).", 
+        "PERÚ. Billete de lotería. FR. De ˜ que , loc. conj. que indica consecuencia y resultado. Por ˜ , afortunadamente."
+      ], 
+      "n_definitions": 17, 
+      "word": "suerte", 
+      "includes": [
+        "s", 
+        "u", 
+        "e", 
+        "r", 
+        "t", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Especie de jersey de lana."
+      ], 
+      "n_definitions": 1, 
+      "word": "suéter", 
+      "includes": [
+        "s", 
+        "u", 
+        "e", 
+        "t", 
+        "e", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Capacidad, aptitud.", 
+        "(figurado,)  (despectivo) Presunción, engreimiento."
+      ], 
+      "n_definitions": 2, 
+      "word": "suficiencia", 
+      "includes": [
+        "s", 
+        "u", 
+        "f", 
+        "i", 
+        "c", 
+        "i", 
+        "e", 
+        "n", 
+        "c", 
+        "i", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Bastante para lo que se necesita.", 
+        "Apto o idóneo.", 
+        "(figurado) Pedante, que habla con afectación de magisterio."
+      ], 
+      "n_definitions": 3, 
+      "word": "suficiente", 
+      "includes": [
+        "s", 
+        "u", 
+        "f", 
+        "i", 
+        "c", 
+        "i", 
+        "e", 
+        "n", 
+        "t", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Añadidura de sufijos."
+      ], 
+      "n_definitions": 1, 
+      "word": "sufijación", 
+      "includes": [
+        "s", 
+        "u", 
+        "f", 
+        "i", 
+        "j", 
+        "a", 
+        "c", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo GRAMÁTICA Con forma o función de sufijo.", 
+        "Relativo a los sufijos."
+      ], 
+      "n_definitions": 2, 
+      "word": "sufijal", 
+      "includes": [
+        "s", 
+        "u", 
+        "f", 
+        "i", 
+        "j", 
+        "a", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / pronominal GRAMÁTICA En la derivación de palabras, añadir sufijos."
+      ], 
+      "n_definitions": 1, 
+      "word": "sufijar", 
+      "includes": [
+        "s", 
+        "u", 
+        "f", 
+        "i", 
+        "j", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Pp. irreg. de sufijar. -", 
+        "Adjetivo - sustantivo masculino GRAMÁTICA Afijo que se coloca detrás de las palabras para formar derivados."
+      ], 
+      "n_definitions": 2, 
+      "word": "sufijo", 
+      "includes": [
+        "s", 
+        "u", 
+        "f", 
+        "i", 
+        "j", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Ayudar o favorecer [a uno].", 
+        "Costear, satisfacer.", 
+        "Verbo intransitivo AMÉRICA Votar a un candidato o una propuesta, dictamen, etc."
+      ], 
+      "n_definitions": 3, 
+      "word": "sufragar", 
+      "includes": [
+        "s", 
+        "u", 
+        "f", 
+        "r", 
+        "a", 
+        "g", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Apreciación por la cual uno se muestra favorable a alguien o a algo.", 
+        "Voto (en una asamblea).", 
+        "Sistema electoral para la provisión de cargos: ˜ restringido,   aquel en que se reserva el voto para los ciudadanos que reúnan ciertas condiciones; ˜ universal, aquel en que con contadas excepciones tienen derecho a votar todos los ciudadanos.", 
+        "Obra buena que se aplica para las almas del purgatorio. -", 
+        "Sustantivo masculino plural Consuetas."
+      ], 
+      "n_definitions": 5, 
+      "word": "sufragio", 
+      "includes": [
+        "s", 
+        "u", 
+        "f", 
+        "r", 
+        "a", 
+        "g", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo común Persona que, en Inglaterra a principios de siglo, se manifestaba a favor de la concesión del sufragio femenino.", 
+        "Persona partidaria del sufragio femenino."
+      ], 
+      "n_definitions": 2, 
+      "word": "sufragista", 
+      "includes": [
+        "s", 
+        "u", 
+        "f", 
+        "r", 
+        "a", 
+        "g", 
+        "i", 
+        "s", 
+        "t", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que sufre con resignación.", 
+        "[color] Que disimula lo sucio. -", 
+        "Adjetivo - sustantivo masculino Marido consentidor."
+      ], 
+      "n_definitions": 3, 
+      "word": "sufrido", 
+      "includes": [
+        "s", 
+        "u", 
+        "f", 
+        "r", 
+        "i", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Hecho de padecer un dolor, físico o moral, más o menos prolongado.", 
+        "Paciencia, conformidad con que se sufre una cosa."
+      ], 
+      "n_definitions": 2, 
+      "word": "sufrimiento", 
+      "includes": [
+        "s", 
+        "u", 
+        "f", 
+        "r", 
+        "i", 
+        "m", 
+        "i", 
+        "e", 
+        "n", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Padecer.", 
+        "Verbo pronominal, Recibir con resignación un daño moral o físico.", 
+        "(por analogía) Aguantar, tolerar.", 
+        "Permitir, consentir.", 
+        "Sostener, resistir.", 
+        "Pagar (un delito con una pena).", 
+        "Oprimir [la parte de una pieza de madera o de hierro] opuesta a aquello en que se golpea.", 
+        "Ser el objeto en que se produce un cambio, acción o fenómeno.", 
+        "Someterse a una prueba o examen."
+      ], 
+      "n_definitions": 9, 
+      "word": "sufrir", 
+      "includes": [
+        "s", 
+        "u", 
+        "f", 
+        "r", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de sugerir.", 
+        "Lo sugerido."
+      ], 
+      "n_definitions": 2, 
+      "word": "sugerencia", 
+      "includes": [
+        "s", 
+        "u", 
+        "g", 
+        "e", 
+        "r", 
+        "e", 
+        "n", 
+        "c", 
+        "i", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Hacer entrar o despertar en el ánimo de alguno [una idea o especie]."
+      ], 
+      "n_definitions": 1, 
+      "word": "sugerir", 
+      "includes": [
+        "s", 
+        "u", 
+        "g", 
+        "e", 
+        "r", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de sugerir.", 
+        "Especie sugerida.", 
+        "Acción de sugestionar.", 
+        "Efecto de sugestionar."
+      ], 
+      "n_definitions": 4, 
+      "word": "sugestión", 
+      "includes": [
+        "s", 
+        "u", 
+        "g", 
+        "e", 
+        "s", 
+        "t", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Inspirar una persona [a otra] palabras o actos involuntarios, esp. cuando es para un fin concreto.", 
+        "(en general) Dominar la voluntad [de una persona] llevándola a obrar en determinado sentido. -", 
+        "Verbo pronominal  Experimentar sugestión."
+      ], 
+      "n_definitions": 3, 
+      "word": "sugestionar", 
+      "includes": [
+        "s", 
+        "u", 
+        "g", 
+        "e", 
+        "s", 
+        "t", 
+        "i", 
+        "o", 
+        "n", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que sugiere o sugestiona.", 
+        "Que se presenta como muy emocionante, atrayente o prometedor."
+      ], 
+      "n_definitions": 2, 
+      "word": "sugestivo", 
+      "includes": [
+        "s", 
+        "u", 
+        "g", 
+        "e", 
+        "s", 
+        "t", 
+        "i", 
+        "v", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo común Persona que se suicida. -", 
+        "Adjetivo (figurado) [acto o conducta] Que daña o destruye al propio agente."
+      ], 
+      "n_definitions": 2, 
+      "word": "suicida", 
+      "includes": [
+        "s", 
+        "u", 
+        "i", 
+        "c", 
+        "i", 
+        "d", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo pronominal Quitarse violenta y voluntariamente la vida."
+      ], 
+      "n_definitions": 1, 
+      "word": "suicidar", 
+      "includes": [
+        "s", 
+        "u", 
+        "i", 
+        "c", 
+        "i", 
+        "d", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Acción de suicidarse.", 
+        "Efecto de suicidarse."
+      ], 
+      "n_definitions": 2, 
+      "word": "suicidio", 
+      "includes": [
+        "s", 
+        "u", 
+        "i", 
+        "c", 
+        "i", 
+        "d", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo masculino Mamífero de la familia de los suidos. -", 
+        "Sustantivo masculino plural Familia de artiodáctilos suiformes de pequeño tamaño y patas delgadas; como el cerdo y el jabalí."
+      ], 
+      "n_definitions": 2, 
+      "word": "suido", 
+      "includes": [
+        "s", 
+        "u", 
+        "i", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo masculino Mamífero del suborden de los suiformes. -", 
+        "Sustantivo masculino plural Suborden de mamíferos artiodáctilos con las extremidades  cortas  y tetradáctilas, que incluye tres familias: súidos, tayásidos e hipopotámidos."
+      ], 
+      "n_definitions": 2, 
+      "word": "suiforme", 
+      "includes": [
+        "s", 
+        "u", 
+        "i", 
+        "f", 
+        "o", 
+        "r", 
+        "m", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino MÚSICA Obra en la que se reúnen varias composiciones parecidas para formar un conjunto.", 
+        "En los hoteles, serie de varias habitaciones unidas que se alquilan a una sola persona.", 
+        "Séquito."
+      ], 
+      "n_definitions": 3, 
+      "word": "suite", 
+      "includes": [
+        "s", 
+        "u", 
+        "i", 
+        "t", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo De Suiza, nación del centro de Europa. -", 
+        "Sustantivo masculino El que formaba parte de la suiza (soldadesca).", 
+        "(desusado) Persona muy adicta, que secunda ciegamente las iniciativas de otro.", 
+        "Bollo especial de harina, huevo y azúcar.", 
+        "Chocolate con nata."
+      ], 
+      "n_definitions": 5, 
+      "word": "suizo", 
+      "includes": [
+        "s", 
+        "u", 
+        "i", 
+        "z", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de sujetar.", 
+        "Unión con que una cosa está sujeta.", 
+        "RETÓRICA Figura que consiste en hacer el orador o el escritor preguntas a que él mismo responde.", 
+        "RETÓRICA Anticipación o prolepsis."
+      ], 
+      "n_definitions": 4, 
+      "word": "sujeción", 
+      "includes": [
+        "s", 
+        "u", 
+        "j", 
+        "e", 
+        "c", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Que sujeta. -", 
+        "sustantivo masculino Sostén, prenda interior femenina.", 
+        "Pieza del biquini que sujeta el pecho."
+      ], 
+      "n_definitions": 3, 
+      "word": "sujetador", 
+      "includes": [
+        "s", 
+        "u", 
+        "j", 
+        "e", 
+        "t", 
+        "a", 
+        "d", 
+        "o", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Pinza para sujetar papeles.", 
+        "Instrumento de otra forma, destinado al mismo objeto."
+      ], 
+      "n_definitions": 2, 
+      "word": "sujetapapeles", 
+      "includes": [
+        "s", 
+        "u", 
+        "j", 
+        "e", 
+        "t", 
+        "a", 
+        "p", 
+        "a", 
+        "p", 
+        "e", 
+        "l", 
+        "e", 
+        "s"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Someter al dominio de alguno.", 
+        "Afirmar o contener [una cosa] con la fuerza.", 
+        "Aplicar [a alguna cosa] un objeto para que no se caiga, desordene, etc..", 
+        "TAUROMAQUIA Obligar al toro a mantener la vista fija en el engaño."
+      ], 
+      "n_definitions": 4, 
+      "word": "sujetar", 
+      "includes": [
+        "s", 
+        "u", 
+        "j", 
+        "e", 
+        "t", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Pp. irreg. de sujetar. -", 
+        "Adjetivo Expuesto o propenso a una cosa. -", 
+        "Sustantivo masculino (anticuado) Asunto o materia sobre que se habla o escribe.", 
+        "Persona innominada, esp. cuando se alude a ella despectivamente.", 
+        "Sujeto activo, ECONOMÍA, el que puede exigir el cumplimiento de obligaciones tributarias; únicamente el Estado.", 
+        "Sujeto pasivo, ECONOMÍA, la persona natural o jurídica obligada a tributar.", 
+        "FILOSOFÍA El espíritu humano considerado en oposición al mundo externo.", 
+        "GRAMÁTICA En la oración, persona o cosa de la cual se dice algo, a diferencia del predicado.", 
+        "LÓGICA Ser del cual se predica o anuncia alguna cosa."
+      ], 
+      "n_definitions": 9, 
+      "word": "sujeto", 
+      "includes": [
+        "s", 
+        "u", 
+        "j", 
+        "e", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Pez marino pequeño, de color plateado y ojos grandes (Argentina silus).", 
+        "SANTANDER Abichón."
+      ], 
+      "n_definitions": 2, 
+      "word": "sula", 
+      "includes": [
+        "s", 
+        "u", 
+        "l", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Sustancia química derivada de la sulfonamida, que por su poderosa acción bacteriostática se emplea en el tratamiento de diversas enfermedades infecciosas."
+      ], 
+      "n_definitions": 1, 
+      "word": "sulfamida", 
+      "includes": [
+        "s", 
+        "u", 
+        "l", 
+        "f", 
+        "a", 
+        "m", 
+        "i", 
+        "d", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Impregnar o bañar con un sulfato [alguna cosa]; (especialmente) [las vides y otras plantas] con sulfato de cobre."
+      ], 
+      "n_definitions": 1, 
+      "word": "sulfatar", 
+      "includes": [
+        "s", 
+        "u", 
+        "l", 
+        "f", 
+        "a", 
+        "t", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Sal o éster del ácido sulfúrico."
+      ], 
+      "n_definitions": 1, 
+      "word": "sulfato", 
+      "includes": [
+        "s", 
+        "u", 
+        "l", 
+        "f", 
+        "a", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Relativo a las combinaciones del azufre con el hidrógeno.", 
+        "Ácido ˜, hidrácido de fórmula H2S, gaseoso, incoloro, inflamable y   tóxico, que huele a huevos podridos."
+      ], 
+      "n_definitions": 2, 
+      "word": "sulfhídrico", 
+      "includes": [
+        "s", 
+        "u", 
+        "l", 
+        "f", 
+        "h", 
+        "i", 
+        "d", 
+        "r", 
+        "i", 
+        "c", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo QUÍMICA [cuerpo] Que se halla en estado de sulfuro.", 
+        "(figurado) Irascible."
+      ], 
+      "n_definitions": 2, 
+      "word": "sulfurado", 
+      "includes": [
+        "s", 
+        "u", 
+        "l", 
+        "f", 
+        "u", 
+        "r", 
+        "a", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Combinar [un cuerpo] con el azufre. -", 
+        "Verbo transitivo / pronominal (figurado) Irritar, encolerizar."
+      ], 
+      "n_definitions": 2, 
+      "word": "sulfurar", 
+      "includes": [
+        "s", 
+        "u", 
+        "l", 
+        "f", 
+        "u", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Sulfúreo.", 
+        "Ácido ˜, SO4H2, líquido oleoso, muy cáustico, de muchas aplicaciones industriales de acción deshidratante.", 
+        "ECUADOR Irascible."
+      ], 
+      "n_definitions": 3, 
+      "word": "sulfúrico", 
+      "includes": [
+        "s", 
+        "u", 
+        "l", 
+        "f", 
+        "u", 
+        "r", 
+        "i", 
+        "c", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Compuesto de azufre y otro elemento o radical derivados del ácido sulfhídrico."
+      ], 
+      "n_definitions": 1, 
+      "word": "sulfuro", 
+      "includes": [
+        "s", 
+        "u", 
+        "l", 
+        "f", 
+        "u", 
+        "r", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Sulfúreo.", 
+        "Que contiene azufre.", 
+        "Compuesto ˜, aquel en que este elemento tiene una valencia más baja que los compuestos sulfúricos."
+      ], 
+      "n_definitions": 3, 
+      "word": "sulfuroso", 
+      "includes": [
+        "s", 
+        "u", 
+        "l", 
+        "f", 
+        "u", 
+        "r", 
+        "o", 
+        "s", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Emperador de los turcos.", 
+        "Príncipe o gobernador mahometano."
+      ], 
+      "n_definitions": 2, 
+      "word": "sultán", 
+      "includes": [
+        "s", 
+        "u", 
+        "l", 
+        "t", 
+        "a", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Agregado de muchas cosas, y más comúnmente de dinero.", 
+        "Acción de sumar.", 
+        "Resultado de sumar.", 
+        "Lo más sustancial e importante de una cosa.", 
+        "Recopilación de todas las partes de una ciencia o facultad.", 
+        "MATEMÁTICAS Cantidad equivalente a dos o más homogéneas. FR. En ˜ , en resumen."
+      ], 
+      "n_definitions": 6, 
+      "word": "suma", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Que suma. -", 
+        "Sustantivo femenino Máquina utilizada para sumar o restar."
+      ], 
+      "n_definitions": 2, 
+      "word": "sumador", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "a", 
+        "d", 
+        "o", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino MATEMÁTICAS Cantidad parcial que ha de añadirse a otra u otras para formar la suma."
+      ], 
+      "n_definitions": 1, 
+      "word": "sumando", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "a", 
+        "n", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Recopilar, compendiar [una materia].", 
+        "MATEMÁTICAS Reunir en una sola [varias cantidades homogéneas].", 
+        "Componer [varias cantidades] una total. -", 
+        "Verbo pronominal Adherirse uno a una doctrina u opinión, o agregarse a un grupo.   sumarial", 
+        "Adjetivo DERECHO Relativo al sumario o a la sumaria."
+      ], 
+      "n_definitions": 5, 
+      "word": "sumar", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Reducido a compendio; breve, sucinto.", 
+        "Juicio civil ˜, aquel en que se procede brevemente y se prescinde de algunos trámites del juicio ordinario. -", 
+        "Sustantivo masculino Resumen, compendio o suma.", 
+        "Inscripción al principio de un capítulo, en que se indican los temas a desarrollar.", 
+        "DERECHO Conjunto de actuaciones encaminadas a preparar el juicio criminal, haciendo constar la perpetración de los delitos con las circunstancias que puedan influir en su calificación, determinar la culpabilidad y prevenir el castigo de los delincuentes."
+      ], 
+      "n_definitions": 5, 
+      "word": "sumario", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "a", 
+        "r", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Superl. de sumario.", 
+        "DERECHO [juicio] Que tiene una tramitación brevísima según señala la ley."
+      ], 
+      "n_definitions": 2, 
+      "word": "sumarísimo", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "a", 
+        "r", 
+        "i", 
+        "s", 
+        "i", 
+        "m", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo [empresa, comercio] Que funciona ilegalmente para evitar el pago de impuestos. sumergir", 
+        "Verbo transitivo Meter [una cosa] debajo del agua o de otro líquido.", 
+        "(figurado) Abismar, hundir.", 
+        "Verbo pronominal (figurado) Abstraerse, concentrarse."
+      ], 
+      "n_definitions": 4, 
+      "word": "sumergido", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "e", 
+        "r", 
+        "g", 
+        "i", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo De Sumeria, antigua región de la baja Mesopotamia. -", 
+        "Sustantivo masculino Lengua sumeria."
+      ], 
+      "n_definitions": 2, 
+      "word": "sumerio", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "e", 
+        "r", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de sumergir.", 
+        "Efecto de sumergir."
+      ], 
+      "n_definitions": 2, 
+      "word": "sumersión", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "e", 
+        "r", 
+        "s", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Ápice o extremo más alto de una cosa."
+      ], 
+      "n_definitions": 1, 
+      "word": "sumidad", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "i", 
+        "d", 
+        "a", 
+        "d"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Conducto o canal por donde se sumen las aguas.", 
+        "Rejilla para el desagüe, que se coloca en patios y azoteas.", 
+        "PUERTO RICO Pozo negro.", 
+        "PUERTO RICO Tremedal."
+      ], 
+      "n_definitions": 4, 
+      "word": "sumidero", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "i", 
+        "d", 
+        "e", 
+        "r", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Proveer a uno [de algo que necesita].   suministro", 
+        "Sustantivo masculino Acción de suministrar.", 
+        "Efecto de suministrar.", 
+        "Provisión de víveres y utensilios para la población, clientela, tropas, penados, etc."
+      ], 
+      "n_definitions": 4, 
+      "word": "suministrar", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "i", 
+        "n", 
+        "i", 
+        "s", 
+        "t", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / pronominal Hundir o meter debajo de la tierra o del agua.", 
+        "Verbo transitivo Consumir (el sacerdote). -", 
+        "Verbo pronominal Hundirse o formar una concavidad anormal alguna parte del cuerpo como la boca, el pecho, etc.", 
+        "(figurado) Abatirse."
+      ], 
+      "n_definitions": 4, 
+      "word": "sumir", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de someter.", 
+        "Efecto de someter.", 
+        "Rendimiento u obsequiosa urbanidad con palabras o acciones.", 
+        "DERECHO Acto por el cual uno se somete a otra jurisdicción, renunciando o perdiendo su domicilio y fuero."
+      ], 
+      "n_definitions": 4, 
+      "word": "sumisión", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "i", 
+        "s", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Obediente, subordinado.", 
+        "Rendido, subyugado."
+      ], 
+      "n_definitions": 2, 
+      "word": "sumiso", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "i", 
+        "s", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino El colmo, lo sumo. sunna", 
+        "Sustantivo femenino Conjunto de preceptos que se atribuyen a Mahoma (570-632), y a los cuatro califas ortodoxos.", 
+        "(por extensión) Religión musulmana."
+      ], 
+      "n_definitions": 3, 
+      "word": "súmmum", 
+      "includes": [
+        "s", 
+        "u", 
+        "m", 
+        "m", 
+        "u", 
+        "m"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Relativo al lujo."
+      ], 
+      "n_definitions": 1, 
+      "word": "suntuario", 
+      "includes": [
+        "s", 
+        "u", 
+        "n", 
+        "t", 
+        "u", 
+        "a", 
+        "r", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Calidad de suntuoso."
+      ], 
+      "n_definitions": 1, 
+      "word": "suntuosidad", 
+      "includes": [
+        "s", 
+        "u", 
+        "n", 
+        "t", 
+        "u", 
+        "o", 
+        "s", 
+        "i", 
+        "d", 
+        "a", 
+        "d"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Magnífico, grande y costoso.", 
+        "[pers.] Magnífico en su gesto y porte."
+      ], 
+      "n_definitions": 2, 
+      "word": "suntuoso", 
+      "includes": [
+        "s", 
+        "u", 
+        "n", 
+        "t", 
+        "u", 
+        "o", 
+        "s", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo (poco usado) Sujetar, oprimir con vigor o violencia.", 
+        "Avasallar.", 
+        "Subordinar [una cosa a otra].", 
+        "Condicionar [una cosa al cumplimiento de otra]. -", 
+        "Verbo pronominal Someterse alguien a una persona o cosa."
+      ], 
+      "n_definitions": 5, 
+      "word": "supeditar", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "d", 
+        "i", 
+        "t", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo (familiar) Superior, magnífico, muy bueno o muy completo.", 
+        "Sustantivo masculino  (familiar) Supermercado. -", 
+        "Sustantivo femenino Gasolina de calidad superior. -", 
+        "Adverbio Estupendamente, muy bien."
+      ], 
+      "n_definitions": 4, 
+      "word": "súper", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Abundancia muy grande."
+      ], 
+      "n_definitions": 1, 
+      "word": "superabundancia", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "a", 
+        "b", 
+        "u", 
+        "n", 
+        "d", 
+        "a", 
+        "n", 
+        "c", 
+        "i", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Abundar con extremo o rebosar."
+      ], 
+      "n_definitions": 1, 
+      "word": "superabundar", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "a", 
+        "b", 
+        "u", 
+        "n", 
+        "d", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Dar [a alguien] más alimento de lo normal."
+      ], 
+      "n_definitions": 1, 
+      "word": "superalimentar", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "a", 
+        "l", 
+        "i", 
+        "m", 
+        "e", 
+        "n", 
+        "t", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Sobrepujar, exceder.", 
+        "Vencer obstáculos o dificultades. -", 
+        "Verbo pronominal Hacer alguien una cosa mayor que en ocasiones anteriores."
+      ], 
+      "n_definitions": 3, 
+      "word": "superar", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino En el comercio, exceso del haber o caudal sobre el debe u obligaciones de la caja.", 
+        "En la administración pública, exceso de los ingresos sobre los gastos.", 
+        "(por extensión) Abundancia o exceso de algo que se considera necesario."
+      ], 
+      "n_definitions": 3, 
+      "word": "superávit", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "a", 
+        "v", 
+        "i", 
+        "t"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Bombardero que tiene gran capacidad de carga, y un extenso campo de acción. superchería", 
+        "Sustantivo femenino Engaño, dolo, fraude."
+      ], 
+      "n_definitions": 2, 
+      "word": "superbombardero", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "b", 
+        "o", 
+        "m", 
+        "b", 
+        "a", 
+        "r", 
+        "d", 
+        "e", 
+        "r", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Situado encima de las cejas: arco ˜, reborde en forma de arco que tiene el hueso frontal en la parte correspondiente a la sobreceja.", 
+        "Perteneciente o relativo a la región de las cejas."
+      ], 
+      "n_definitions": 2, 
+      "word": "superciliar", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "c", 
+        "i", 
+        "l", 
+        "i", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino FÍSICA Desaparición brusca y total de la resistencia de algunos materiales cuando su temperatura desciende por debajo de un cierto límite."
+      ], 
+      "n_definitions": 1, 
+      "word": "superconductividad", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "c", 
+        "o", 
+        "n", 
+        "d", 
+        "u", 
+        "c", 
+        "t", 
+        "i", 
+        "v", 
+        "i", 
+        "d", 
+        "a", 
+        "d"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino FÍSICA [material] Que presenta el fenómeno de la superconductividad."
+      ], 
+      "n_definitions": 1, 
+      "word": "superconductor", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "c", 
+        "o", 
+        "n", 
+        "d", 
+        "u", 
+        "c", 
+        "t", 
+        "o", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Persona que posee cualidades que exceden de lo normal, esp. las condiciones intelectuales."
+      ], 
+      "n_definitions": 1, 
+      "word": "superdotado", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "d", 
+        "o", 
+        "t", 
+        "a", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino FILOLOGÍA Lengua que se extiende por el territorio de otra lengua, y cuyos hablantes la abandonan para adoptar esta última, legando, sin embargo,   algunos rasgos a la lengua adoptada.", 
+        "Acción por la cual una lengua que se ha difundido por el territorio de otra, comunica a ésta algunos de sus rasgos, si bien desaparece al adoptar sus hablantes la lengua que se hablaba en aquel territorio.", 
+        "Rasgo que una lengua invasora lega a otra sobre cuyo territorio se ha extendido, cuando la abandonan sus hablantes para adoptar la que se hablaba en aquel territorio."
+      ], 
+      "n_definitions": 3, 
+      "word": "superestrato", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "e", 
+        "s", 
+        "t", 
+        "r", 
+        "a", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Parte de una construcción que está por encima del suelo.", 
+        "MARINA Conjunto de construcciones que están sobre la cubierta de un barco."
+      ], 
+      "n_definitions": 2, 
+      "word": "superestructura", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "e", 
+        "s", 
+        "t", 
+        "r", 
+        "u", 
+        "c", 
+        "t", 
+        "u", 
+        "r", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Relativo a la superficie.", 
+        "Que está o se queda en ella.", 
+        "(figurado) Aparente, sin solidez.", 
+        "Frívolo, sin fundamento."
+      ], 
+      "n_definitions": 4, 
+      "word": "superficial", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "f", 
+        "i", 
+        "c", 
+        "i", 
+        "a", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Parte externa de un cuerpo que lo limita por todos lados.", 
+        "(figurado) Apariencia externa.", 
+        "GEOMETRÍA Extensión en que sólo se consideran dos dimensiones: ˜ asférica, superficie de una lente no esférica, p. ej., que tiene sección parabólica o elíptica; ˜ cilíndrica, superficie curva engendrada por una recta que se mueve quedando siempre paralela a una misma dirección; ˜ cónica, la engendrada por una línea recta que se mueve pasando constantemente por un punto fijo y teniendo por directriz una curva; ˜ curva, la que no es plana ni compuesta de superficies planas; ˜ de onda, en un movimiento ondulatorio, la formada por los puntos que, en un momento dado, se hallan a igual distancia de sus respectivas posiciones de equilibrio; ˜ esférica, la de la esfera; ˜ plana (o plano), la que puede contener una línea recta en cualquier posición."
+      ], 
+      "n_definitions": 3, 
+      "word": "superficie", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "f", 
+        "i", 
+        "c", 
+        "i", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo No necesario, que está de más."
+      ], 
+      "n_definitions": 1, 
+      "word": "superfluo", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "f", 
+        "l", 
+        "u", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Ser superior al hombre actual y a cuyo tipo debe tender la humanidad, según ciertos filósofos.   superintendente", 
+        "Sustantivo común Persona a cuyo cargo está la dirección superior de una cosa."
+      ], 
+      "n_definitions": 2, 
+      "word": "superhombre", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "h", 
+        "o", 
+        "m", 
+        "b", 
+        "r", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino, sustantivo femenino Persona que dirige una congregación o comunidad.", 
+        "Persona que manda y dirige cualquier cosa."
+      ], 
+      "n_definitions": 2, 
+      "word": "superior", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "i", 
+        "o", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Preeminencia, excelencia o ventaja en una persona o cosa respecto de otra.", 
+        "Persona o conjunto de personas de superior autoridad."
+      ], 
+      "n_definitions": 2, 
+      "word": "superioridad", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "i", 
+        "o", 
+        "r", 
+        "i", 
+        "d", 
+        "a", 
+        "d"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo [cualidad o modificación] Que tiene un grado muy alto o el grado más alto. -", 
+        "Adjetivo - sustantivo masculino Adjetivo y adverbio que expresa esta cualidad o modificación. Distinto de los grados positivo y comparativo."
+      ], 
+      "n_definitions": 2, 
+      "word": "superlativo", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "l", 
+        "a", 
+        "t", 
+        "i", 
+        "v", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Tienda donde el cliente puede servirse a sí mismo los diversos productos."
+      ], 
+      "n_definitions": 1, 
+      "word": "supermercado", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "m", 
+        "e", 
+        "r", 
+        "c", 
+        "a", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Ministro con unas competencias más amplias o superiores a las de cualquier otro."
+      ], 
+      "n_definitions": 1, 
+      "word": "superministro", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "m", 
+        "i", 
+        "n", 
+        "i", 
+        "s", 
+        "t", 
+        "r", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Etapa final explosiva de la vida de una estrella."
+      ], 
+      "n_definitions": 1, 
+      "word": "supernova", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "n", 
+        "o", 
+        "v", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que excede o está fuera del número establecido.", 
+        "[militar] En situación análoga a la de excedencia. -", 
+        "Sustantivo masculino, sustantivo femenino Empleado que trabaja en una oficina pública sin figurar en la plantilla."
+      ], 
+      "n_definitions": 3, 
+      "word": "supernumerario", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "n", 
+        "u", 
+        "m", 
+        "e", 
+        "r", 
+        "a", 
+        "r", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Petrolero de más de 70", 
+        "Toneladas de desplazamiento."
+      ], 
+      "n_definitions": 2, 
+      "word": "superpetrolero", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "p", 
+        "e", 
+        "t", 
+        "r", 
+        "o", 
+        "l", 
+        "e", 
+        "r", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Poblado en demasía."
+      ], 
+      "n_definitions": 1, 
+      "word": "superpoblado", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "p", 
+        "o", 
+        "b", 
+        "l", 
+        "a", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / pronominal Sobreponer (poner encima)."
+      ], 
+      "n_definitions": 1, 
+      "word": "superponer", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "p", 
+        "o", 
+        "n", 
+        "e", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino País dotado de una fuerte industria y ejército, en especial con armamento atómico.   superproducción", 
+        "Sustantivo femenino Exceso de producción.", 
+        "Obra cinematográfica o teatral que se presenta como excepcionalmente importante y de gran costo.", 
+        "Proceso económico en el que se obtienen cantidades superiores a las necesarias de un determinado producto."
+      ], 
+      "n_definitions": 4, 
+      "word": "superpotencia", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "p", 
+        "o", 
+        "t", 
+        "e", 
+        "n", 
+        "c", 
+        "i", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Movimiento artístico que se desarrolló en Francia después de la guerra de 1914- 1918. Tiende a representar, abandonando toda preocupación por el estilo, la vida profunda del subconsciente, la labor del instinto que se desarrolla más allá de los límites de la razón. El arte superrealista es inmediato, irreflexivo, y está despojado de toda referencia a lo real."
+      ], 
+      "n_definitions": 1, 
+      "word": "superrealismo", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "r", 
+        "e", 
+        "a", 
+        "l", 
+        "i", 
+        "s", 
+        "m", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo De velocidad superior a la del sonido: avión ˜, el que se mueve a velocidad superior a la del sonido; onda supersónica, la sonora de frecuencia superior a la que puede percibir el oído humano."
+      ], 
+      "n_definitions": 1, 
+      "word": "supersónico", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "s", 
+        "o", 
+        "n", 
+        "i", 
+        "c", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Propensión, causada por temor o ignorancia, a atribuir carácter sobrenatural u oculto a determinados acontecimientos.", 
+        "Creencia en vanos presagios producidos por acontecimientos puramente fortuitos."
+      ], 
+      "n_definitions": 2, 
+      "word": "superstición", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "s", 
+        "t", 
+        "i", 
+        "c", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Relativo a la superstición.", 
+        "[pers.] Que tiene superstición."
+      ], 
+      "n_definitions": 2, 
+      "word": "supersticioso", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "s", 
+        "t", 
+        "i", 
+        "c", 
+        "i", 
+        "o", 
+        "s", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / pronominal Otorgar [a cosas o personas] mayor valor del que realmente tienen."
+      ], 
+      "n_definitions": 1, 
+      "word": "supervalorar", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "v", 
+        "a", 
+        "l", 
+        "o", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo masculino [producto comercial] Que tiene un gran éxito de ventas."
+      ], 
+      "n_definitions": 1, 
+      "word": "superventas", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "v", 
+        "e", 
+        "n", 
+        "t", 
+        "a", 
+        "s"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Inspeccionar [un trabajo, una empresa, etc.]."
+      ], 
+      "n_definitions": 1, 
+      "word": "supervisar", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "v", 
+        "i", 
+        "s", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Que supervisa, o inspecciona."
+      ], 
+      "n_definitions": 1, 
+      "word": "supervisor", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "v", 
+        "i", 
+        "s", 
+        "o", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de sobrevivir.", 
+        "Efecto de sobrevivir.", 
+        "Gracia concedida a uno para gozar una renta o pensión después de haber fallecido el que la obtenía.", 
+        "(figurado) Lo que queda de algo que ya no existe."
+      ], 
+      "n_definitions": 4, 
+      "word": "supervivencia", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "v", 
+        "i", 
+        "v", 
+        "e", 
+        "n", 
+        "c", 
+        "i", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Sobrevivir."
+      ], 
+      "n_definitions": 1, 
+      "word": "supervivir", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "e", 
+        "r", 
+        "v", 
+        "i", 
+        "v", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Posición de una persona tendida sobre el dorso, o de la mano con la palma hacia arriba.", 
+        "Movimiento del antebrazo que hace volver la mano hacia arriba."
+      ], 
+      "n_definitions": 2, 
+      "word": "supinación", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "i", 
+        "n", 
+        "a", 
+        "c", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que está tendido sobre el dorso.", 
+        "Referente a la supinación.", 
+        "Aplicado a ciertos estados de ánimo, acciones o cualidades, necio, estólido. V. ignorancia supina. -", 
+        "Sustantivo masculino Forma nominal del verbo, propia de algunas lenguas indoeuropeas antiguas, esp. del latín y, entre las actuales, del rumano."
+      ], 
+      "n_definitions": 4, 
+      "word": "supino", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "i", 
+        "n", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Falsificar [un escrito] con palabras o cláusulas que alteren el sentido que antes tenía.", 
+        "Ocupar con malas artes el lugar [de otro]. suplementario, -ria", 
+        "Adjetivo Que sirve para suplir una cosa o completarla.", 
+        "V. ángulo, arco ˜."
+      ], 
+      "n_definitions": 4, 
+      "word": "suplantar", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "l", 
+        "a", 
+        "n", 
+        "t", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Acción de suplir.", 
+        "Efecto de suplir.", 
+        "Complemento (lo que falta añadir).", 
+        "Capítulo o tomo que se añade a un libro. Número u hoja adicional de un periódico o revista.", 
+        "Ángulo, arco suplementario."
+      ], 
+      "n_definitions": 5, 
+      "word": "suplemento", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "l", 
+        "e", 
+        "m", 
+        "e", 
+        "n", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de suplir una persona a otra.", 
+        "Efecto de suplir una persona a otra.", 
+        "Tiempo que dura esta acción."
+      ], 
+      "n_definitions": 3, 
+      "word": "suplencia", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "l", 
+        "e", 
+        "n", 
+        "c", 
+        "i", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Que suple."
+      ], 
+      "n_definitions": 1, 
+      "word": "suplente", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "l", 
+        "e", 
+        "n", 
+        "t", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que suple una falta.", 
+        "Suplementario. -", 
+        "Adjetivo - sustantivo masculino Aparato telefónico conectado a uno principal."
+      ], 
+      "n_definitions": 3, 
+      "word": "supletorio", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "l", 
+        "e", 
+        "t", 
+        "o", 
+        "r", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de suplicar.", 
+        "Efecto de suplicar.", 
+        "Memorial o escrito en que se suplica.", 
+        "DERECHO Cláusula final de un escrito dirigido a la autoridad   administrativa o judicial en solicitud de una resolución."
+      ], 
+      "n_definitions": 4, 
+      "word": "súplica", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "l", 
+        "i", 
+        "c", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Rogar o pedir [una cosa] con humildad.", 
+        "DERECHO Recurrir contra el auto del tribunal superior [ante el mismo]."
+      ], 
+      "n_definitions": 2, 
+      "word": "suplicar", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "l", 
+        "i", 
+        "c", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Lesión corporal o muerte infligida como castigo.", 
+        "(figurado) Lugar donde el reo padece este castigo.", 
+        "Grave tormento físico o moral."
+      ], 
+      "n_definitions": 3, 
+      "word": "suplicio", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "l", 
+        "i", 
+        "c", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Completar [lo que falta en una cosa], o remediar la carencia [de ella].", 
+        "Ponerse en lugar [de uno] para hacer sus veces.", 
+        "Disimular uno [un defecto] de otro.", 
+        "GRAMÁTICA Dar por supuesto [lo que sólo se contiene implícitamente] en la oración o frase. -", 
+        "Verbo pronominal ANDALUCÍA  Aguantarse, conformarse."
+      ], 
+      "n_definitions": 5, 
+      "word": "suplir", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "l", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino (familiar) Suposición, conjetura."
+      ], 
+      "n_definitions": 1, 
+      "word": "suponer", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "o", 
+        "n", 
+        "e", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Dar por sentada o existente [una cosa].", 
+        "Traer consigo, importar.", 
+        "Conjeturar, calcular [algo] por las señales e indicios que se tienen. -", 
+        "Verbo intransitivo (desusado) Tener autoridad o representación en una comunidad."
+      ], 
+      "n_definitions": 4, 
+      "word": "suponer", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "o", 
+        "n", 
+        "e", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de suponer.", 
+        "Efecto de suponer.", 
+        "Lo que se supone.", 
+        "(poco usado) Autoridad, distinción.", 
+        "(poco usado) Impostura, falsedad.", 
+        "DERECHO Delito cometido por quienes fingen que un niño ha nacido de una mujer que no es su madre.", 
+        "LÓGICA Acepción de un término en lugar de otro."
+      ], 
+      "n_definitions": 7, 
+      "word": "suposición", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "o", 
+        "s", 
+        "i", 
+        "c", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Cilindro, cono u ovoide de una materia medicamentosa sólida para ser introducida en el ano, vagina, uretra, etc."
+      ], 
+      "n_definitions": 1, 
+      "word": "supositorio", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "o", 
+        "s", 
+        "i", 
+        "t", 
+        "o", 
+        "r", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Relativo a un poder u organismo superiores al gobierno de cada nación."
+      ], 
+      "n_definitions": 1, 
+      "word": "supranacional", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "r", 
+        "a", 
+        "n", 
+        "a", 
+        "c", 
+        "i", 
+        "o", 
+        "n", 
+        "a", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Situado encima de los riñones; v. cápsula suprarrenal.   suprasensible", 
+        "Adjetivo Que está más allá de los sentidos."
+      ], 
+      "n_definitions": 2, 
+      "word": "suprarrenal", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "r", 
+        "a", 
+        "r", 
+        "r", 
+        "e", 
+        "n", 
+        "a", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Filete de la parte más ancha del tronco de algunos pescados", 
+        "Consejo supremo de la Inquisición."
+      ], 
+      "n_definitions": 2, 
+      "word": "suprema", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "r", 
+        "e", 
+        "m", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Grado supremo en cualquier línea.", 
+        "Preeminencia, superioridad jerárquica."
+      ], 
+      "n_definitions": 2, 
+      "word": "supremacía", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "r", 
+        "e", 
+        "m", 
+        "a", 
+        "c", 
+        "i", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Altísimo.", 
+        "Que no tiene superior en su línea.", 
+        "Último.", 
+        "[momento, instante] De vital importancia, decisivo. -", 
+        "Sustantivo masculino por elipsis. Tribunal supremo. -", 
+        "Sustantivo femenino Pechuga de pollo o de otras aves cocinada con salsa bechamel y servida fría."
+      ], 
+      "n_definitions": 6, 
+      "word": "supremo", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "r", 
+        "e", 
+        "m", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de suprimir.", 
+        "Efecto de suprimir."
+      ], 
+      "n_definitions": 2, 
+      "word": "supresión", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "r", 
+        "e", 
+        "s", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Hacer cesar, hacer desaparecer.", 
+        "Omitir, pasar por alto."
+      ], 
+      "n_definitions": 2, 
+      "word": "suprimir", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "r", 
+        "i", 
+        "m", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Pp. irreg. de suponer. -", 
+        "Adjetivo Pretendido, falso, pseudo.", 
+        "Sustantivo masculino Objeto que no se expresa en la proposición, pero es aquello de que depende la verdad de ella.", 
+        "Hipótesis.", 
+        "DERECHO Presupuesto en que se explican las operaciones de una partición.", 
+        "FILOSOFÍA Todo ser que es principio de sus acciones. -", 
+        "Locución adverbial Por ˜, ciertamente. -", 
+        "Locución causal ˜ que, puesto que. 9"
+      ], 
+      "n_definitions": 8, 
+      "word": "supuesto", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "u", 
+        "e", 
+        "s", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Formar o echar pus."
+      ], 
+      "n_definitions": 1, 
+      "word": "supurar", 
+      "includes": [
+        "s", 
+        "u", 
+        "p", 
+        "u", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Punto cardinal diametralmente opuesto al norte.", 
+        "Viento que sopla de esta parte.", 
+        "Lugar de la Tierra o de la esfera celeste que cae del lado del polo antártico, respecto de otro con el cual se le compara."
+      ], 
+      "n_definitions": 3, 
+      "word": "sur", 
+      "includes": [
+        "s", 
+        "u", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Hacer surcos [en la tierra].", 
+        "(en general) Hacer rayas [en alguna cosa] parecidas a los surcos que se hacen en la tierra.", 
+        "(figurado) Ir o caminar por un fluido cortándolo."
+      ], 
+      "n_definitions": 3, 
+      "word": "surcar", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "c", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Hendedura que se hace en la tierra con el arado: a ˜, haza que   está contigua a otra o sólo surco por medio; echarse al ˜, desistir de la empresa o trabajo.", 
+        "Señal o hendedura prolongada que deja una cosa que pasa sobre otra.", 
+        "Arruga profunda o prolongada sobre una superficie o tegumento.", 
+        "Huella que se graba en la superficie de un disco.", 
+        "COLOMBIA Lomo o caballón."
+      ], 
+      "n_definitions": 5, 
+      "word": "surco", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "c", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Habitante del Sur de un país."
+      ], 
+      "n_definitions": 1, 
+      "word": "sureño", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "e", 
+        "n", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Deporte náutico consistente en dejarse llevar por la cresta de una ola sobre una tabla especial."
+      ], 
+      "n_definitions": 1, 
+      "word": "surf", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "f"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Surtir, brotar el agua.", 
+        "Fondear.", 
+        "(figurado) Alzarse, manifestarse, salir."
+      ], 
+      "n_definitions": 3, 
+      "word": "surgir", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "g", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Suricato."
+      ], 
+      "n_definitions": 1, 
+      "word": "suricata", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "i", 
+        "c", 
+        "a", 
+        "t", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Exceso de trabajo intelectual que pesa sobre alguien.", 
+        "Sobrefatiga, agotamiento."
+      ], 
+      "n_definitions": 2, 
+      "word": "surmenaje", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "m", 
+        "e", 
+        "n", 
+        "a", 
+        "j", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Del sudoeste. suroriental", 
+        "Adjetivo Del sudeste."
+      ], 
+      "n_definitions": 2, 
+      "word": "suroccidental", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "o", 
+        "c", 
+        "c", 
+        "i", 
+        "d", 
+        "e", 
+        "n", 
+        "t", 
+        "a", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Superrealismo."
+      ], 
+      "n_definitions": 1, 
+      "word": "surrealismo", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "r", 
+        "e", 
+        "a", 
+        "l", 
+        "i", 
+        "s", 
+        "m", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino (figurado,) (familiar) Supuesto personaje anónimo de mucha importancia."
+      ], 
+      "n_definitions": 1, 
+      "word": "sursuncorda;", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "s", 
+        "u", 
+        "n", 
+        "c", 
+        "o", 
+        "r", 
+        "d", 
+        "a", 
+        ";"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Sudsudeste."
+      ], 
+      "n_definitions": 1, 
+      "word": "sursureste", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "s", 
+        "u", 
+        "r", 
+        "e", 
+        "s", 
+        "t", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Artículo de comercio que se ofrece como mezcla de diversas clases.", 
+        "Sustantivo masculino Acción de surtir o surtirse.", 
+        "Efecto de surtir o surtirse.", 
+        "Lo que se previene o sirve para surtir (proveer)."
+      ], 
+      "n_definitions": 4, 
+      "word": "surtido", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "t", 
+        "i", 
+        "d", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Que surte o provee. -", 
+        "Sustantivo masculino Chorro de agua que brota, esp. hacia arriba.", 
+        "Aparato vaporizador de un automóvil.", 
+        "Aparato que distribuye gasolina."
+      ], 
+      "n_definitions": 4, 
+      "word": "surtidor", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "t", 
+        "i", 
+        "d", 
+        "o", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / pronominal Proveer [a alguno] de una cosa.", 
+        "Verbo intransitivo   Brotar, salir el agua, y más en particular hacia arriba."
+      ], 
+      "n_definitions": 2, 
+      "word": "surtir", 
+      "includes": [
+        "s", 
+        "u", 
+        "r", 
+        "t", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Capaz de recibir modificación o impresión.", 
+        "Picajoso, quisquilloso, sentido, delicado."
+      ], 
+      "n_definitions": 2, 
+      "word": "susceptible", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "c", 
+        "e", 
+        "p", 
+        "t", 
+        "i", 
+        "b", 
+        "l", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Levantar, promover."
+      ], 
+      "n_definitions": 1, 
+      "word": "suscitar", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "c", 
+        "i", 
+        "t", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Levantar o sostener [una cosa] en alto.", 
+        "Verbo pronominal, Detener por algún tiempo [una acción u obra].", 
+        "(especialmente,) (figurado) Privar temporalmente [a uno del sueldo o empleo] que tenía.", 
+        "Negar la aprobación [de una disciplina a un examinando] hasta nuevo examen.", 
+        "Causar admiración.", 
+        "Verbo pronominal Asegurarse el caballo sobre las piernas con los brazos al aire."
+      ], 
+      "n_definitions": 6, 
+      "word": "suspender", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "p", 
+        "e", 
+        "n", 
+        "d", 
+        "e", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino anglic. Detención momentánea de la acción dramática.", 
+        "Sentimiento angustioso de espera o curiosidad."
+      ], 
+      "n_definitions": 2, 
+      "word": "suspense", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "p", 
+        "e", 
+        "n", 
+        "s", 
+        "e"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de suspender.", 
+        "Efecto de suspender.", 
+        "Aquello con que está suspendida alguna cosa.", 
+        "Conjunto de las piezas y mecanismos destinados a hacer elástico el apoyo de la carrocería de un automóvil sobre los ejes de las ruedas.", 
+        "Censura eclesiástica o corrección gubernativa que priva del uso del oficio, beneficio o empleo de sus emolumentos.", 
+        "Tensión continuada que se produce en el ánimo del espectador o lector, ante el desarrollo de un argumento.", 
+        "Admiración, asombro.", 
+        "FONÉTICA Mantenimiento de la entonación al final de un período.", 
+        "MÚSICA Prolongación de una nota que forma parte de un acorde, sobre el siguiente, produciendo disonancia.", 
+        "QUÍMICA Estado de un cuerpo, cuyas partículas se mezclan con el fluido, sin deshacerse en él.", 
+        "RETÓRICA Figura consistente en diferir la declaración del concepto a que va encaminado lo dicho, a fin de avivar el interés del lector u oyente."
+      ], 
+      "n_definitions": 11, 
+      "word": "suspensión", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "p", 
+        "e", 
+        "n", 
+        "s", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Pp. irreg. de suspender. -", 
+        "Adjetivo Admirado, perplejo. -", 
+        "Sustantivo masculino Nota de haber sido suspendido en examen. -", 
+        "Adjetivo - sustantivo Alumno   suspendido. -", 
+        "Sustantivo masculino AMÉRICA Suspense. FR. En ˜ , diferida la resolución o su cumplimiento."
+      ], 
+      "n_definitions": 5, 
+      "word": "suspenso", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "p", 
+        "e", 
+        "n", 
+        "s", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que sirve para suspender o levantar en alto. -", 
+        "Sustantivo masculino Vendaje para sostener el escroto.", 
+        "ANATOMÍA Ligamento situado entre el diafragma y la porción media de la cara superior del hígado."
+      ], 
+      "n_definitions": 3, 
+      "word": "suspensorio", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "p", 
+        "e", 
+        "n", 
+        "s", 
+        "o", 
+        "r", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Calidad de suspicaz.", 
+        "Especie sugerida por la sospecha o desconfianza."
+      ], 
+      "n_definitions": 2, 
+      "word": "suspicacia", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "p", 
+        "i", 
+        "c", 
+        "a", 
+        "c", 
+        "i", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Propenso a concebir sospechas."
+      ], 
+      "n_definitions": 1, 
+      "word": "suspicaz", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "p", 
+        "i", 
+        "c", 
+        "a", 
+        "z"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Dar suspiros.", 
+        "Suspirar uno por una cosa, desearla con ansia:"
+      ], 
+      "n_definitions": 2, 
+      "word": "suspirar", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "p", 
+        "i", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Aspiración profunda seguida de una espiración audible que gralte. es expresión de pena, anhelo, fatiga, alivio, etc.", 
+        "Último ˜, el de la muerte.", 
+        "Golosina que se hace de harina, azúcar y huevo.", 
+        "(figurado) Instante (momento).", 
+        "Pito pequeño de vidrio.", 
+        "MÚSICA Pausa breve y signo que la representa.", 
+        "ANDALUCÍA, CHILE. Trinitaria (flor).", 
+        "ARGENTINA., CHILE. Nombre que se da a varias especies de enredaderas convolvuláceas ( gén. Ipomoca)."
+      ], 
+      "n_definitions": 8, 
+      "word": "suspiro", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "p", 
+        "i", 
+        "r", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Apoyo o sostén de una cosa."
+      ], 
+      "n_definitions": 1, 
+      "word": "sustentáculo", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "t", 
+        "e", 
+        "n", 
+        "t", 
+        "a", 
+        "c", 
+        "u", 
+        "l", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / pronominal  Mantener: sustentarse de esperanzas, mantener una opinión.", 
+        "Conservar una cosa en su ser o estado.", 
+        "Sostener una cosa para que no se caiga o tuerza.", 
+        "Defender o sostener una cierta opinión. -", 
+        "Verbo pronominal Nutrirse, alimentarse.", 
+        "Mantener un cuerpo en un medio, sin caer o haciéndolo muy lentamente."
+      ], 
+      "n_definitions": 6, 
+      "word": "sustentar", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "t", 
+        "e", 
+        "n", 
+        "t", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Mantenimiento, alimento.", 
+        "Lo que sirve para dar permanencia o vigor a una cosa.", 
+        "Sostén o apoyo."
+      ], 
+      "n_definitions": 3, 
+      "word": "sustento", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "t", 
+        "e", 
+        "n", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de sustituir.", 
+        "Efecto de sustituir.", 
+        "DERECHO Nombramiento de heredero o   legatario hecho en reemplazo de otro nombramiento de la misma índole. -", 
+        "Sustantivo femenino, plural MATEMÁTICAS Operación que consiste en, dado un conjunto de n elementos de un cierto orden, cambiar el orden de colocación de los mismos."
+      ], 
+      "n_definitions": 4, 
+      "word": "sustitución", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "t", 
+        "i", 
+        "t", 
+        "u", 
+        "c", 
+        "i", 
+        "o", 
+        "n"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Poner [a una pers. o cosa] en lugar de otra."
+      ], 
+      "n_definitions": 1, 
+      "word": "sustituir", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "t", 
+        "i", 
+        "t", 
+        "u", 
+        "i", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que reemplaza o sustituye a algo o a alguien."
+      ], 
+      "n_definitions": 1, 
+      "word": "sustitutorio", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "t", 
+        "i", 
+        "t", 
+        "u", 
+        "t", 
+        "o", 
+        "r", 
+        "i", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Impresión repentina de miedo o pavor.", 
+        "(figurado) Preocupación vehemente por alguna adversidad o daño que se teme.", 
+        "PERÚ. Fuerte crisis nerviosa."
+      ], 
+      "n_definitions": 3, 
+      "word": "susto", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "t", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Apartar, separar, extraer.", 
+        "Hurtar, robar fraudulentamente.", 
+        "MATEMÁTICAS Restar. -", 
+        "Verbo pronominal Faltar al cumplimiento de un deber, de una palabra, desistir de lo que se tenía proyectado, etc.."
+      ], 
+      "n_definitions": 4, 
+      "word": "sustraer", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "t", 
+        "r", 
+        "a", 
+        "e", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Hablar quedo produciendo un murmullo sordo.", 
+        "(figurado) Moverse con ruido suave el aire, el agua, etc. -", 
+        "Verbo impersonal Empezarse a divulgar una cosa secreta."
+      ], 
+      "n_definitions": 3, 
+      "word": "susurrar", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "u", 
+        "r", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Ruido suave que resulta de hablar quedo.", 
+        "(figurado) Ruido suave que naturalmente hacen algunas cosas."
+      ], 
+      "n_definitions": 2, 
+      "word": "susurro", 
+      "includes": [
+        "s", 
+        "u", 
+        "s", 
+        "u", 
+        "r", 
+        "r", 
+        "o"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Delgado, delicado, tenue.", 
+        "(figurado) Agudo, perspicaz."
+      ], 
+      "n_definitions": 2, 
+      "word": "sutil", 
+      "includes": [
+        "s", 
+        "u", 
+        "t", 
+        "i", 
+        "l"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Calidad de sutil.", 
+        "Dicho o concepto excesivamente agudo y falto de profundidad o exactitud.", 
+        "(figurado) Instinto de los animales.", 
+        "TEOLOGÍA Dote del cuerpo glorioso, que consiste en poder penetrar por otro cuerpo."
+      ], 
+      "n_definitions": 4, 
+      "word": "sutileza", 
+      "includes": [
+        "s", 
+        "u", 
+        "t", 
+        "i", 
+        "l", 
+        "e", 
+        "z", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Adelgazar, atenuar una cosa.", 
+        "(especialmente) Limar, perfeccionar.", 
+        "(figurado) Discurrir ingeniosamente."
+      ], 
+      "n_definitions": 3, 
+      "word": "sutilizar", 
+      "includes": [
+        "s", 
+        "u", 
+        "t", 
+        "i", 
+        "l", 
+        "i", 
+        "z", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino ANATOMÍA Línea de unión de dos huesos del cráneo.", 
+        "BOTÁNICA Línea de unión de   dos márgenes adyacentes.", 
+        "CIRUGÍA Costura con que se reúnen los labios de una herida."
+      ], 
+      "n_definitions": 3, 
+      "word": "sutura", 
+      "includes": [
+        "s", 
+        "u", 
+        "t", 
+        "u", 
+        "r", 
+        "a"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Efectuar una sutura. suyo"
+      ], 
+      "n_definitions": 1, 
+      "word": "suturar", 
+      "includes": [
+        "s", 
+        "u", 
+        "t", 
+        "u", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - pronombre posesivo Forma de 3ª persona que expresa que la cosa no es poseída ni por el que habla ni por el que escucha. Como adjetivo se usa siempre detrás del nombre o se apocopa en su si lo precede; como pronombre puede usarse en forma absoluta o precedido del artículo; con la terminación del masculino singular se usa también como pronombre neutro.", 
+        "La suya, intención o voluntad determinada:", 
+        "Los suyos, personas propias y unidas a otra por parentesco, amistad, servidumbre, etc. -", 
+        "Locución adverbial De suyo, naturalmente, sin ayuda ajena."
+      ], 
+      "n_definitions": 4, 
+      "word": "suyo;", 
+      "includes": [
+        "s", 
+        "u", 
+        "y", 
+        "o", 
+        ";"
+      ], 
+      "starts": "s"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino DEPORTES En boxeo, movimiento semicircular del brazo de abajo arriba, de modo que pueda golpear al adversario con el dorso de la mano en el momento de ascender.", 
+        "DEPORTES Movimiento del jugador del golf al ir a golpear la pelota.", 
+        "MÚSICA Cualidad rítmica característica y primordial en la música de jazz."
+      ], 
+      "n_definitions": 3, 
+      "word": "swing", 
+      "includes": [
+        "s", 
+        "w", 
+        "i", 
+        "n", 
+        "g"
+      ], 
+      "starts": "s"
+    }
+  ]
+}

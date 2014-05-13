@@ -1,0 +1,4999 @@
+{
+  "words": [
+    {
+      "definitions": [
+        "Verbo intransitivo Encallar un barco en tierra."
+      ], 
+      "n_definitions": 1, 
+      "word": "zabordar", 
+      "includes": [
+        "z", 
+        "a", 
+        "b", 
+        "o", 
+        "r", 
+        "d", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Plaza o calle donde se venden ropas.", 
+        "COLOMBIA Saque (establecimiento)."
+      ], 
+      "n_definitions": 2, 
+      "word": "zacatín", 
+      "includes": [
+        "z", 
+        "a", 
+        "c", 
+        "a", 
+        "t", 
+        "i", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo (poco usado) Adornar, guarnecer [una cosa]."
+      ], 
+      "n_definitions": 1, 
+      "word": "zafar", 
+      "includes": [
+        "z", 
+        "a", 
+        "f", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo MARINA Desembarazar, quitar [los estorbos de una cosa]. -", 
+        "Verbo pronominal Escaparse o esconderse para evitar un encuentro o riesgo.", 
+        "(figurado) Excusarse de hacer una cosa; librarse de una molestia.", 
+        "Salirse del canto de la rueda la correa de una máquina.", 
+        "AMÉRICA Dislocarse. -", 
+        "Verbo intransitivo AMÉRICA Incurrir en un desliz.", 
+        "ARGENTINA., PUERTO RICO Faltar a otro, no guardarle respeto. -", 
+        "Verbo transitivo COLOMBIA Exceptuar, excluir."
+      ], 
+      "n_definitions": 8, 
+      "word": "zafar", 
+      "includes": [
+        "z", 
+        "a", 
+        "f", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino  Acción  de desembarazar una parte de la embarcación, disponiéndola para determinada faena.", 
+        "Efecto de dicha acción.", 
+        "(figurado) Riza.", 
+        "Riña."
+      ], 
+      "n_definitions": 4, 
+      "word": "zafarrancho", 
+      "includes": [
+        "z", 
+        "a", 
+        "f", 
+        "a", 
+        "r", 
+        "r", 
+        "a", 
+        "n", 
+        "c", 
+        "h", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Calidad de zafio."
+      ], 
+      "n_definitions": 1, 
+      "word": "zafiedad", 
+      "includes": [
+        "z", 
+        "a", 
+        "f", 
+        "i", 
+        "e", 
+        "d", 
+        "a", 
+        "d"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Tosco, inculto, grosero.", 
+        "PERÚ. Desalmado."
+      ], 
+      "n_definitions": 2, 
+      "word": "zafio", 
+      "includes": [
+        "z", 
+        "a", 
+        "f", 
+        "i", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Piedra fina, variedad azul del corindón.", 
+        "Zafiro blanco, corindón incoloro y transparente."
+      ], 
+      "n_definitions": 2, 
+      "word": "zafiro", 
+      "includes": [
+        "z", 
+        "a", 
+        "f", 
+        "i", 
+        "r", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo MARINA Libre, desembarazado.", 
+        "(figurado,) (poco usado) Libre, sin daño."
+      ], 
+      "n_definitions": 2, 
+      "word": "zafo", 
+      "includes": [
+        "z", 
+        "a", 
+        "f", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Vasija de metal en que se ponen a escurrir las medidas para el aceite.", 
+        "Vasija de metal para guardar el aceite."
+      ], 
+      "n_definitions": 2, 
+      "word": "zafra", 
+      "includes": [
+        "z", 
+        "a", 
+        "f", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Sufra.", 
+        "RÍO DE LA PLATA.   Aprovechamiento y venta del ganado o de sus productos."
+      ], 
+      "n_definitions": 2, 
+      "word": "zafra", 
+      "includes": [
+        "z", 
+        "a", 
+        "f", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Cosecha de la caña dulce.", 
+        "Fabricación del azúcar de caña, y p. ext., del de remolacha.", 
+        "Tiempo que dura esta fabricación."
+      ], 
+      "n_definitions": 3, 
+      "word": "zafra", 
+      "includes": [
+        "z", 
+        "a", 
+        "f", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino MINERÍA Escombro (de una mina)."
+      ], 
+      "n_definitions": 1, 
+      "word": "zafra", 
+      "includes": [
+        "z", 
+        "a", 
+        "f", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Óxido de cobalto mezclado con cuarzo con que se da color azul a la loza y al vidrio."
+      ], 
+      "n_definitions": 1, 
+      "word": "zafre", 
+      "includes": [
+        "z", 
+        "a", 
+        "f", 
+        "r", 
+        "e"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Parte posterior de algunas cosas.", 
+        "Carga que se acomoda en la trasera de un carruaje.", 
+        "DEPORTES Línea de defensa de un equipo. -", 
+        "Sustantivo masculino El postrero en el juego. -", 
+        "Locución adverbial A la, a, o en, ˜, atrás o detrás."
+      ], 
+      "n_definitions": 5, 
+      "word": "zaga", 
+      "includes": [
+        "z", 
+        "a", 
+        "g", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Muchacho adolescente, mozo.", 
+        "Pastor mozo a las órdenes del rabadán.", 
+        "Mozo que ayudaba al mayoral en los coches de camino. zagal", 
+        "Sustantivo masculino Zagalejo."
+      ], 
+      "n_definitions": 4, 
+      "word": "zagal", 
+      "includes": [
+        "z", 
+        "a", 
+        "g", 
+        "a", 
+        "l"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Muchacha soltera.", 
+        "Pastora joven."
+      ], 
+      "n_definitions": 2, 
+      "word": "zagala", 
+      "includes": [
+        "z", 
+        "a", 
+        "g", 
+        "a", 
+        "l", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino, sustantivo femenino Adolescente."
+      ], 
+      "n_definitions": 1, 
+      "word": "zagalón", 
+      "includes": [
+        "z", 
+        "a", 
+        "g", 
+        "a", 
+        "l", 
+        "o", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Remo corto con pala plana que no se apoya en la embarcación.", 
+        "CHILE. Albañal, atarjea."
+      ], 
+      "n_definitions": 2, 
+      "word": "zagual", 
+      "includes": [
+        "z", 
+        "a", 
+        "g", 
+        "u", 
+        "a", 
+        "l"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Pieza cubierta a modo de vestíbulo en la entrada de una casa."
+      ], 
+      "n_definitions": 1, 
+      "word": "zaguán", 
+      "includes": [
+        "z", 
+        "a", 
+        "g", 
+        "u", 
+        "a", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Dim. de zaguán.", 
+        "Aposento de palacio donde está la guardia del príncipe.", 
+        "Escolta de guardia que acompaña a pie a las personas reales."
+      ], 
+      "n_definitions": 3, 
+      "word": "zaguanete", 
+      "includes": [
+        "z", 
+        "a", 
+        "g", 
+        "u", 
+        "a", 
+        "n", 
+        "e", 
+        "t", 
+        "e"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que va en zaga.", 
+        "[carro] Que lleva exceso de carga en la parte de atrás. -", 
+        "Sustantivo masculino DEPORTES Jugador que se coloca detrás en el juego de   pelota.", 
+        "DEPORTES Jugador de la defensa de un equipo."
+      ], 
+      "n_definitions": 4, 
+      "word": "zaguero", 
+      "includes": [
+        "z", 
+        "a", 
+        "g", 
+        "u", 
+        "e", 
+        "r", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo [pájaro] Bravo, difícil de amansar.", 
+        "(figurado) Desdeñoso, intratable."
+      ], 
+      "n_definitions": 2, 
+      "word": "zahareño", 
+      "includes": [
+        "z", 
+        "a", 
+        "h", 
+        "a", 
+        "r", 
+        "e", 
+        "n", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Reprender [a uno] dándole en rostro con alguna acción o beneficio.", 
+        "Mortificar [a uno] con reprensión maligna."
+      ], 
+      "n_definitions": 2, 
+      "word": "zaherir", 
+      "includes": [
+        "z", 
+        "a", 
+        "h", 
+        "e", 
+        "r", 
+        "i", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Planta graminácea, de granos mayores que los cañamones, que se usan para alimento de las aves y para hacer pan (Sorghum bicolor).", 
+        "Grano de esta planta. -", 
+        "Sustantivo femenino, plural Gachas o puches de harinas que no se dejan espesar."
+      ], 
+      "n_definitions": 3, 
+      "word": "zahína", 
+      "includes": [
+        "z", 
+        "a", 
+        "h", 
+        "i", 
+        "n", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Calzón de cuero o paño con perniles abiertos atados a los muslos."
+      ], 
+      "n_definitions": 1, 
+      "word": "zahón", 
+      "includes": [
+        "z", 
+        "a", 
+        "h", 
+        "o", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Ahondar [un hoyo] en la tierra. -", 
+        "Verbo intransitivo Hundirse los pies en ella."
+      ], 
+      "n_definitions": 2, 
+      "word": "zahondar", 
+      "includes": [
+        "z", 
+        "a", 
+        "h", 
+        "o", 
+        "n", 
+        "d", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo común Persona a quien el vulgo atribuye la propiedad de ver lo que está oculto, esp. veneros de agua subterránea y yacimientos minerales.", 
+        "(figurado) Persona perspicaz y escudriñadora."
+      ], 
+      "n_definitions": 2, 
+      "word": "zahorí", 
+      "includes": [
+        "z", 
+        "a", 
+        "h", 
+        "o", 
+        "r", 
+        "i"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Pocilga."
+      ], 
+      "n_definitions": 1, 
+      "word": "zahúrda", 
+      "includes": [
+        "z", 
+        "a", 
+        "h", 
+        "u", 
+        "r", 
+        "d", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Traidor, falso.", 
+        "[caballería] De color castaño oscuro.", 
+        "[res] De color negro. -", 
+        "Locución adverbial A lo, o de, ˜, al soslayo:"
+      ], 
+      "n_definitions": 4, 
+      "word": "zaino", 
+      "includes": [
+        "z", 
+        "a", 
+        "i", 
+        "n", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Emboscada.", 
+        "(figurado) Lazo para cazar animales.", 
+        "Astucia maliciosa para engañar a otro.", 
+        "Escaramuza (entre soldados).", 
+        "(figurado) Alboroto repentino, reyerta, pendencia."
+      ], 
+      "n_definitions": 5, 
+      "word": "zalagarda", 
+      "includes": [
+        "z", 
+        "a", 
+        "l", 
+        "a", 
+        "g", 
+        "a", 
+        "r", 
+        "d", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Zalamelé."
+      ], 
+      "n_definitions": 1, 
+      "word": "zalama", 
+      "includes": [
+        "z", 
+        "a", 
+        "l", 
+        "a", 
+        "m", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Demostración de cariño afectada y empalagosa."
+      ], 
+      "n_definitions": 1, 
+      "word": "zalamería", 
+      "includes": [
+        "z", 
+        "a", 
+        "l", 
+        "a", 
+        "m", 
+        "e", 
+        "r", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Que hace zalamerías.", 
+        "Cariñoso, empalagoso.   zalea", 
+        "Sustantivo femenino Cuero de oveja o carnero curtido, de modo que conserve la lana.", 
+        "MÉXICO, PUERTO RICO Pelliza para cubrir el aparejo de la bestia."
+      ], 
+      "n_definitions": 4, 
+      "word": "zalamero", 
+      "includes": [
+        "z", 
+        "a", 
+        "l", 
+        "a", 
+        "m", 
+        "e", 
+        "r", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Arrastrar o menear con facilidad [una cosa], como sacudiendo una zalea."
+      ], 
+      "n_definitions": 1, 
+      "word": "zalear", 
+      "includes": [
+        "z", 
+        "a", 
+        "l", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Zacear (ahuyentar)."
+      ], 
+      "n_definitions": 1, 
+      "word": "zalear", 
+      "includes": [
+        "z", 
+        "a", 
+        "l", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Reverencia en muestra de sumisión.", 
+        "Zalamería.", 
+        "Variedad de uva, utilizada en la elaboración de vinos blancos de mesa y generosos."
+      ], 
+      "n_definitions": 3, 
+      "word": "zalema", 
+      "includes": [
+        "z", 
+        "a", 
+        "l", 
+        "e", 
+        "m", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Acción de zalear.", 
+        "Zalea.", 
+        "Tela vieja o destrozada."
+      ], 
+      "n_definitions": 3, 
+      "word": "zaleo", 
+      "includes": [
+        "z", 
+        "a", 
+        "l", 
+        "e", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino, sustantivo femenino Persona tonta y bruta.", 
+        "Persona solapada, que calla y hace su voluntad. -", 
+        "Sustantivo masculino (figurado) Embriaguez o borrachera. zamacueca", 
+        "Sustantivo femenino  AMÉRICA MERIDIONAL Baile popular de Chile, de música lenta, en compás de seis por ocho, que termina con un zapateado vivo; se baila por parejas y con figuras que consisten en vueltas y cortesías.", 
+        "Música y canto de este baile."
+      ], 
+      "n_definitions": 5, 
+      "word": "zamacuco", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "a", 
+        "c", 
+        "u", 
+        "c", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Especie de chaqueta hecha de piel con su lana o pelo.", 
+        "Piel de carnero.", 
+        "Masa redonda de hierro esponjoso que se obtiene en los hornos de pudelar."
+      ], 
+      "n_definitions": 3, 
+      "word": "zamarra", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "a", 
+        "r", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Sacudir a un lado y otro [la res o presa asida con los dientes] como hacen los lobos, perros, etc.", 
+        "(figurado) Tratar mal [a uno trayéndolo con violencia o a golpes] de una parte a otra.", 
+        "(figurado) Apretar [a uno en la disputa] poniéndolo en apuro."
+      ], 
+      "n_definitions": 3, 
+      "word": "zamarrear", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "a", 
+        "r", 
+        "r", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Planta labiada de flores blancas o encarnadas en cabezuelas vellosas (Tencrium polium).   zamarro", 
+        "Sustantivo masculino Zamarra (chaqueta).", 
+        "Piel de cordero.", 
+        "Calzón ancho, hecho con cuero de borrego y de chivo.", 
+        "(figurado) Hombre tosco, lerdo, pesado.", 
+        "Hombre astuto, pícaro, bribón. -", 
+        "Sustantivo masculino plural AMÉRICA Especie de zahones o pantalones holgados, de piel o de caucho, que se usan para montar a caballo."
+      ], 
+      "n_definitions": 7, 
+      "word": "zamarrilla", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "a", 
+        "r", 
+        "r", 
+        "i", 
+        "l", 
+        "l", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino ARGENTINA. Zamacueca.", 
+        "ARGENTINA. Samba."
+      ], 
+      "n_definitions": 2, 
+      "word": "zamba", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Correa ancha que ciñe el pecho de las caballerías de tiro.", 
+        "Francalete."
+      ], 
+      "n_definitions": 2, 
+      "word": "zambarco", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "a", 
+        "r", 
+        "c", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Persona que tiene juntas las rodillas y separadas las piernas hacia fuera. -", 
+        "Sustantivo masculino Mono americano de cola prensil (Ateles hybridus). -", 
+        "Adjetivo - sustantivo AMÉRICA Descendiente de negro e india.", 
+        "COLOMBIA, MÉXICO, PERÚ, VENEZUELA (desusado) Descendiente de negro o de cualquiera de sus mezclas (mulato, tercerón, cuarterón, quinterón) con india.", 
+        "PERÚ. (desusado) Descendiente de negro y mulata.", 
+        "PERÚ. (desusado) Descendiente de negro y cuarterona.", 
+        "CUBA, MÉXICO, PERÚ. (desusado) ˜ prieto, descendiente de negro y zamba.", 
+        "GUATEMALA [pers.] De color rojo que tira a morado.", 
+        "VENEZUELA Color rojo obscuro de los gallos.", 
+        "VENEZUELA De grandes o hermosas proporciones."
+      ], 
+      "n_definitions": 10, 
+      "word": "zambo", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Instrumento músico rústico formado por una especie de vasija de forma cilíndrica, cerrada por un extremo con una piel tensa, que tiene en el centro, bien sujeto, un carrizo, que, frotado con la mano, produce un sonido fuerte y monótono."
+      ], 
+      "n_definitions": 1, 
+      "word": "zambomba", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "o", 
+        "m", 
+        "b", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "(familiar) Interjección con que se manifiesta sorpresa."
+      ], 
+      "n_definitions": 1, 
+      "word": "¡zambomba!", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "o", 
+        "m", 
+        "b", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Porrazo, golpazo.", 
+        "Explosión, estampido.", 
+        "DEPORTES (figurado) Disparo fuerte y potente.   zambombo", 
+        "Sustantivo masculino (figurado,) (familiar) Hombre grosero y tosco."
+      ], 
+      "n_definitions": 4, 
+      "word": "zambombazo", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "o", 
+        "m", 
+        "b", 
+        "a", 
+        "z", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo (familiar) Tosco, grueso, mal formado. -", 
+        "Adjetivo - sustantivo (figurado,) (familiar) Que hace las cosas toscamente."
+      ], 
+      "n_definitions": 2, 
+      "word": "zamborotudo", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "o", 
+        "r", 
+        "o", 
+        "t", 
+        "u", 
+        "d", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Fiesta morisca o gitana con bulla y baile.", 
+        "(figurado) Algarada, ruido."
+      ], 
+      "n_definitions": 2, 
+      "word": "zambra", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Especie de barco morisco."
+      ], 
+      "n_definitions": 1, 
+      "word": "zambra", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Esconder rápidamente [una cosa] entre otras."
+      ], 
+      "n_definitions": 1, 
+      "word": "zambucar", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "u", 
+        "c", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Zambullidura.", 
+        "Treta de la esgrima."
+      ], 
+      "n_definitions": 2, 
+      "word": "zambullida", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "u", 
+        "l", 
+        "l", 
+        "i", 
+        "d", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Meter [a una pers. o cosa] debajo del agua con ímpetu.", 
+        "Verbo pronominal  (figurado) Esconderse en alguna parte o cubrirse con algo.", 
+        "(figurado) Introducirse de súbito en alguna actividad o asunto."
+      ], 
+      "n_definitions": 3, 
+      "word": "zambullir", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "u", 
+        "l", 
+        "l", 
+        "i", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Molusco bivalvo con una concha de hasta", 
+        "Cms. parecida a la concha de peregrino (Chlamys varia)."
+      ], 
+      "n_definitions": 2, 
+      "word": "zamburiña", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "b", 
+        "u", 
+        "r", 
+        "i", 
+        "n", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo De Zamora, ciudad y provincia de la comunidad autónoma de Castilla-León. -", 
+        "Sustantivo masculino Queso de oveja elaborado en Zamora, de pasta consistente, añejo, con profundo aroma y sabor fuerte."
+      ], 
+      "n_definitions": 2, 
+      "word": "zamorano", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "o", 
+        "r", 
+        "a", 
+        "n", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo común (familiar) Zampatortas."
+      ], 
+      "n_definitions": 1, 
+      "word": "zampabodigos;", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "p", 
+        "a", 
+        "b", 
+        "o", 
+        "d", 
+        "i", 
+        "g", 
+        "o", 
+        "s", 
+        ";"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Meter [una cosa en otra de prisa y de suerte que no se vea].", 
+        "Comer descompuesta y excesivamente [alguna cosa].", 
+        "Asestar, propinar. -", 
+        "Verbo pronominal Meterse de golpe en alguna parte."
+      ], 
+      "n_definitions": 4, 
+      "word": "zampar", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "p", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo común (familiar) Persona que come con exceso y brutalidad.", 
+        "Persona falta de capacidad y buena crianza.   zampón, -pona", 
+        "Adjetivo - sustantivo (familiar) Comilón, tragón."
+      ], 
+      "n_definitions": 3, 
+      "word": "zampatortas", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "p", 
+        "a", 
+        "t", 
+        "o", 
+        "r", 
+        "t", 
+        "a", 
+        "s"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino MÚSICA Instrumento rústico de viento, a modo de flauta, o compuesto de varias flautas.", 
+        "Pipiritaña.", 
+        "(figurado,) (familiar) Dicho trivial o sin sustancia."
+      ], 
+      "n_definitions": 3, 
+      "word": "zampoña", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "p", 
+        "o", 
+        "n", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Ave podicipitiforme, parecida al somormujo, de trasero romo, y cuello y pico cortos (Podiceps ruficollis)."
+      ], 
+      "n_definitions": 1, 
+      "word": "zampullín", 
+      "includes": [
+        "z", 
+        "a", 
+        "m", 
+        "p", 
+        "u", 
+        "l", 
+        "l", 
+        "i", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Planta umbelífera, de raíz fusiforme, amarilla o rojiza, jugosa y comestible (Daucus carota).", 
+        "Esta misma raíz.", 
+        "Zanahoria bastarda, planta umbelífera espinosa de hojas carnosas y flores dispuestas en umbelas blancas (Echinophora spinosa). -", 
+        "Adjetivo - sustantivo ARGENTINA. (familiar) Simple, tonto. -", 
+        "Sustantivo masculino ARGENTINA. Pinche, ayudante humilde."
+      ], 
+      "n_definitions": 5, 
+      "word": "zanahoria", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "a", 
+        "h", 
+        "o", 
+        "r", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Pierna larga de las aves desde el tarso hasta la articulación del muslo.", 
+        "(figurado) Pierna del hombre o de un animal, esp. cuando es larga y delgada.", 
+        "ARQUITECTURA Madero inclinado que sirve de apoyo a los peldaños de una escalera.", 
+        "ANDALUCÍA Alfiler grande."
+      ], 
+      "n_definitions": 4, 
+      "word": "zanca", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "c", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Paso largo."
+      ], 
+      "n_definitions": 1, 
+      "word": "zancada", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "c", 
+        "a", 
+        "d", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de cruzar uno su pierna con la de otro para derribarle.", 
+        "(figurado) Ardid con que se procura perjudicar a uno."
+      ], 
+      "n_definitions": 2, 
+      "word": "zancadilla", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "c", 
+        "a", 
+        "d", 
+        "i", 
+        "l", 
+        "l", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Andar mucho y aceleradamente."
+      ], 
+      "n_definitions": 1, 
+      "word": "zancajear", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "c", 
+        "a", 
+        "j", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Parte del estribo del coche, donde se pone el pie."
+      ], 
+      "n_definitions": 1, 
+      "word": "zancajera", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "c", 
+        "a", 
+        "j", 
+        "e", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Calcáneo.", 
+        "Parte del pie donde sobresale el talón.", 
+        "(figurado,) (familiar,) (poco usado) Zancarrón (hueso).", 
+        "(figurado) Parte del zapato o media que cubre el talón.", 
+        "(figurado,) (familiar,) (poco usado) Persona de mala figura.   zancajoso, -sa", 
+        "Adjetivo Que tiene los pies torcidos hacia afuera.", 
+        "Que tiene grandes zancajos o descubre rotos los de sus medias.", 
+        "[caballo] Que tiene los corvejones anormalmente juntos."
+      ], 
+      "n_definitions": 8, 
+      "word": "zancajo", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "c", 
+        "a", 
+        "j", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Palo alto y dispuesto con sendas horquillas, en que se afirman los pies, para andar por lugares pantanosos o hacer ejercicios gimnásticos.", 
+        "Parte inferior del faldón de la armadura de un tejado.", 
+        "Raíz aérea que poseen ciertas plantas, especialmente los árboles de los manglares, y que, partiendo de las ramas, e hincándose en el suelo, ayuda a sostener la planta.", 
+        "CONSTRUCCIÓN Madero rollizo o puntal que forma la parte principal de su andamio.", 
+        "MARINA Palo que se pone en la cabeza de los masteleros cuando se quitan los mastelerillos de juanete.", 
+        "ASTURIAS Zueco, zapato con suela de madera. LOCUCIÓN En zancos , (figurado,) en posición muy elevada y ventajosa."
+      ], 
+      "n_definitions": 6, 
+      "word": "zanco", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "c", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que tiene las zancas largas. -", 
+        "Adjetivo - sustantivo femenino Ave adaptada a la vida en zonas pantanosas, que tiene muy largos los tarsos; como la grulla. -", 
+        "Sustantivo masculino AMÉRICA Mosquito."
+      ], 
+      "n_definitions": 3, 
+      "word": "zancudo", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "c", 
+        "u", 
+        "d", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Tela de hilo muy engomada."
+      ], 
+      "n_definitions": 1, 
+      "word": "zangala", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "g", 
+        "a", 
+        "l", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino (familiar,) (poco usado) Treta, ardid."
+      ], 
+      "n_definitions": 1, 
+      "word": "zangamanga", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "g", 
+        "a", 
+        "m", 
+        "a", 
+        "n", 
+        "g", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino (familiar) Impertinencia, inoportunidad."
+      ], 
+      "n_definitions": 1, 
+      "word": "zanganada", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "g", 
+        "a", 
+        "n", 
+        "a", 
+        "d", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Andar vagando de una parte a otra sin trabajar.", 
+        "(familiar) Decir o hacer cosas inconvenientes o inoportunas."
+      ], 
+      "n_definitions": 2, 
+      "word": "zanganear", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "g", 
+        "a", 
+        "n", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo (familiar) Rasguear sin arte la guitarra.", 
+        "ANDALUCÍA (figurado) Zamarrear, sacudir."
+      ], 
+      "n_definitions": 2, 
+      "word": "zangarrear", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "g", 
+        "a", 
+        "r", 
+        "r", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Trompo saltador."
+      ], 
+      "n_definitions": 1, 
+      "word": "zangarria", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "g", 
+        "a", 
+        "r", 
+        "r", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo (familiar) Mover continua y violentamente [una cosa]. -", 
+        "verbo intransitivo (figurado) Moverse una persona de una parte a otra sin concierto ni propósito. -", 
+        "Verbo pronominal Moverse ciertas cosas por estar flojas o mal encajadas."
+      ], 
+      "n_definitions": 3, 
+      "word": "zangolotear", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "g", 
+        "o", 
+        "l", 
+        "o", 
+        "t", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo (familiar) V. niño ˜."
+      ], 
+      "n_definitions": 1, 
+      "word": "zangolotino", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "g", 
+        "o", 
+        "l", 
+        "o", 
+        "t", 
+        "i", 
+        "n", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Muchacho alto, desvaído y ocioso."
+      ], 
+      "n_definitions": 1, 
+      "word": "zangón", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "g", 
+        "o", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Ficción de una enfermedad para no trabajar.", 
+        "(figurado) Lagotería."
+      ], 
+      "n_definitions": 2, 
+      "word": "zanguanga", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "g", 
+        "u", 
+        "a", 
+        "n", 
+        "g", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo  Indolente, embrutecido por la pereza. -", 
+        "Sustantivo masculino, sustantivo femenino (familiar) Persona alta y desvaída.", 
+        "Persona mal educada o falta de gracia. -", 
+        "Sustantivo masculino Zanguayo.", 
+        "Plato típico manchego, a base de moje de patatas, bacalao, tomates y pimientos, y aderezado con ajo, aceite y nueces."
+      ], 
+      "n_definitions": 5, 
+      "word": "zanguango", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "g", 
+        "u", 
+        "a", 
+        "n", 
+        "g", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Excavación larga y angosta en la tierra.", 
+        "AMÉRICA Arroyada o surco producido por el agua corriente.", 
+        "ECUADOR Cerca, vallado."
+      ], 
+      "n_definitions": 3, 
+      "word": "zanja", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "j", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Abrir zanjas [en un terreno].", 
+        "(figurado) Resolver de modo expeditivo [un asunto]."
+      ], 
+      "n_definitions": 2, 
+      "word": "zanjar", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "j", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Torcer las piernas al andar.", 
+        "(figurado) Zancajear."
+      ], 
+      "n_definitions": 2, 
+      "word": "zanquear", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "q", 
+        "u", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo (familiar) Que tiene largas las zancas o piernas."
+      ], 
+      "n_definitions": 1, 
+      "word": "zanquilargo", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "q", 
+        "u", 
+        "i", 
+        "l", 
+        "a", 
+        "r", 
+        "g", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo (familiar) Que tiene largas y muy flacas las piernas."
+      ], 
+      "n_definitions": 1, 
+      "word": "zanquivano", 
+      "includes": [
+        "z", 
+        "a", 
+        "n", 
+        "q", 
+        "u", 
+        "i", 
+        "v", 
+        "a", 
+        "n", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Pala herrada de la mitad abajo, con un corte acerado, que usan los zapadores.", 
+        "Excavación de galería o de zanja.", 
+        "(figurado) Conjunto de actividades encubiertas con que se intenta socavar los fundamentos de una organización."
+      ], 
+      "n_definitions": 3, 
+      "word": "zapa", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Lija (piel seca).", 
+        "Piel labrada que forma grano como la lija.", 
+        "Labor que en obras de metal imita los granitos de la lija."
+      ], 
+      "n_definitions": 3, 
+      "word": "zapa", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Soldado destinado a obras de excavación."
+      ], 
+      "n_definitions": 1, 
+      "word": "zapador", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "d", 
+        "o", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Herramienta a modo de pico con dos bocas, una puntiaguda y la otra de corte angosto."
+      ], 
+      "n_definitions": 1, 
+      "word": "zapapico", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "p", 
+        "i", 
+        "c", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Trabajar con la zapa (pala).", 
+        "(por extensión) Excavar en algún sitio."
+      ], 
+      "n_definitions": 2, 
+      "word": "zapar", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo (familiar) Llevar arrastrando los vestidos."
+      ], 
+      "n_definitions": 1, 
+      "word": "zaparrastrar", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "r", 
+        "r", 
+        "a", 
+        "s", 
+        "t", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Calzado que llega a media pierna.", 
+        "Pedazo de cuero que se pone debajo del quicio de la puerta para que no rechine.", 
+        "Parte de la raíz del olivo que queda al descubierto.", 
+        "Pez marino de cuerpo oval, cabeza grande, color rosa vinoso punteado de azul sobre el dorso y los flancos, y que puede alcanzar", 
+        "M. de largo (Sparus ehrembergii; S. caeraleosticus).", 
+        "Chapa o ensanchamiento dispuesto en los pies de un trípode para evitar que, al apoyarse en el suelo, se hinquen en éste.", 
+        "Solera sobre la que descansa un pie derecho.", 
+        "Dispositivo mediante el cual un tractor eléctrico recoge la corriente de un raíl conductor.", 
+        "Superficie de fricción renovable de un freno, o sea, las partes de éste que se oprimen contra la superficie interna del tambor.", 
+        "MARINA Tablón protector que se clava en la cara inferior de la quilla.", 
+        "MARINA Pedazo de madera que se pone en la uña del ancla.", 
+        "COLOMBIA, CUBA, PUERTO RICO Zócalo de fábrica en que se apoya una pared de madera.", 
+        "CHILE. Telera del arado."
+      ], 
+      "n_definitions": 13, 
+      "word": "zapata", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "t", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Golpe dado con un zapato.", 
+        "(figurado) Golpe dado contra cualquier cosa que suena.", 
+        "(figurado) Caída y ruido que resulta de ella.", 
+        "(figurado) Golpe que las caballerías dan con el casco, cuando, al sentarlo con fuerza, resbala violentamente.", 
+        "MARINA Sacudida y golpe fuerte que da una vela."
+      ], 
+      "n_definitions": 5, 
+      "word": "zapatazo", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "t", 
+        "a", 
+        "z", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Baile, en general sin   acompañamiento instrumental y para un solo bailarín, que lo ejecuta con diversos ritmos, percutiendo vigorosamente los tacones de los zapatos en el suelo.", 
+        "Música de este baile."
+      ], 
+      "n_definitions": 2, 
+      "word": "zapateado", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "t", 
+        "e", 
+        "a", 
+        "d", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Golpear [alguna cosa] con el zapato.", 
+        "Absoluto, Dar golpes [en el suelo] con los pies descalzos;  (especialmente;) acompañar al tañido siguiendo el compás con los pies y dando palmadas.", 
+        "Golpear el conejo rápidamente [la tierra con las manos] al huir.", 
+        "Toparse o alcanzarse [las manos] la caballería cuando anda o corre.", 
+        "(figurado) Traer [a uno] a mal traer.", 
+        "ESGRIMA Dar o señalar uno muchos golpes [a su contrario con el botón o zapatilla]. -", 
+        "Verbo intransitivo Moverse el caballo aceleradamente sin mudar de sitio.", 
+        "MARINA Dar zapatazos las velas. -", 
+        "Verbo pronominal (figurado,) (poco usado) Tenerse firme con alguno en alguna contienda."
+      ], 
+      "n_definitions": 9, 
+      "word": "zapatear", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "t", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Acción de zapatear.", 
+        "Efecto de zapatear."
+      ], 
+      "n_definitions": 2, 
+      "word": "zapateo", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "t", 
+        "e", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Establecimiento donde se hacen o venden zapatos.", 
+        "Oficio de zapatero."
+      ], 
+      "n_definitions": 2, 
+      "word": "zapatería", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "t", 
+        "e", 
+        "r", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo [legumbre] Que se encrudece al echar agua fría en la olla cuando se está cociendo.", 
+        "[manjar] Que se pone correoso por estar guisado con demasiada anticipación. -", 
+        "Sustantivo masculino, sustantivo femenino Persona que tiene por oficio hacer o vender zapatos: ˜ remendón, el que los compone.", 
+        "Que no hace ninguna baza en el juego.", 
+        "LOGROÑO Persona que hace las cosas de su oficio con muy poca perfección. -", 
+        "Sustantivo masculino Armario para guardar zapatos.", 
+        "Insecto hemíptero que se desliza a gran velocidad sobre la superficie de las aguas mediante las largas patas centrales (Gerris lacustris).", 
+        "EXTREMADURA Libélula.", 
+        "Pez marino teleósteo de unos", 
+        "Cms. de largo, plateado, de cola ahorquillada y muy abierta, que vive en los mares de América tropical (Chorinemus quiebra). -", 
+        "Adjetivo - sustantivo femenino Aceituna añejada y de mal gusto."
+      ], 
+      "n_definitions": 11, 
+      "word": "zapatero", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "t", 
+        "e", 
+        "r", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Golpe dado en el pie o zapato, brincando al mismo tiempo.", 
+        "Cabriola (brinco). -", 
+        "Sustantivo femenino, plural Golpes que se dan con el zapato en el suelo en ciertos bailes."
+      ], 
+      "n_definitions": 3, 
+      "word": "zapateta", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "t", 
+        "e", 
+        "t", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Riña, alboroto, trapatiesta."
+      ], 
+      "n_definitions": 1, 
+      "word": "zapatiesta", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "t", 
+        "i", 
+        "e", 
+        "s", 
+        "t", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Zapato ligero, gralte. de comodidad o abrigo para estar en casa.", 
+        "Calzado especial para practicar determinados deportes.", 
+        "Casco de los animales de pata hendida.", 
+        "Pedazo de ante que en los instrumentos músicos de viento se pone debajo de la pala de las llaves.", 
+        "Forro del botón que tienen en la punta los floretes y las espadas negras.", 
+        "Rasgo horizontal que suelen llevar por adorno los trazos y rectos de las letras.", 
+        "Pieza de cuero, goma, etc., que sirve para mantener herméticamente adheridas dos partes diferentes, que están en comunicación, como cañerías, grifos, depósitos, etc.", 
+        "Suela del taco de billar.", 
+        "Zapata del freno en una bicicleta.", 
+        "Zapatilla de la reina, pamplina (planta).", 
+        "BOLIVIA, COLOMBIA Juego de niños.", 
+        "CHILE. Tablita de madera a la que se amarran los gallos de pelea.", 
+        "VENEZUELA Pihuela para tener atados todos los gallos."
+      ], 
+      "n_definitions": 13, 
+      "word": "zapatilla", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "t", 
+        "i", 
+        "l", 
+        "l", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Del movimiento  revolucionario agrario liderado por el mexicano Emiliano Zapata a principios del siglo <v>xx</v> o relacionado con él. -", 
+        "Adjetivo - sustantivo común [persona] Que era seguidor de Emiliano Zapata o es seguidor del Ejército Zapatista de Liberación Nacional mexicano."
+      ], 
+      "n_definitions": 2, 
+      "word": "zapatista", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "t", 
+        "i", 
+        "s", 
+        "t", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Calzado que no pasa del tobillo, con la suela de cuero y lo demás de piel, fieltro, etc.: zapatos papales, los que se calzan sobre los que se traen de ordinario."
+      ], 
+      "n_definitions": 1, 
+      "word": "zapato", 
+      "includes": [
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "t", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Odre pequeño.", 
+        "(figurado,) (familiar,) (poco usado) Persona borracha."
+      ], 
+      "n_definitions": 2, 
+      "word": "zaque", 
+      "includes": [
+        "z", 
+        "a", 
+        "q", 
+        "u", 
+        "e"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Trasegar [un líquido] de un zaque a otro.", 
+        "Transportar [un líquido] en zaques.   zaquizamí", 
+        "Sustantivo masculino Desván, gralte. a teja vana.", 
+        "Cuarto pequeño, poco limpio y desacomodado.", 
+        "(desusado) Enmaderamiento de un techo."
+      ], 
+      "n_definitions": 5, 
+      "word": "zaquear", 
+      "includes": [
+        "z", 
+        "a", 
+        "q", 
+        "u", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino, sustantivo femenino Título del emperador de Rusia. -", 
+        "Sustantivo masculino Soberano de Bulgaria. -", 
+        "Sustantivo femenino Esposa del zar."
+      ], 
+      "n_definitions": 3, 
+      "word": "zar", 
+      "includes": [
+        "z", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino (anticuado) baile que se usó en Europa durante los siglos XVI y XVII, de movimiento vivo.", 
+        "Música y canto de este baile.", 
+        "(figurado) Cosa que causa ruido estrepitoso, alboroto o molestia.", 
+        "GUATEMALA Diversión pública de indios y negros.", 
+        "MÉXICO Zurra, tunda."
+      ], 
+      "n_definitions": 5, 
+      "word": "zarabanda", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "b", 
+        "a", 
+        "n", 
+        "d", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Carbón vegetal menudo."
+      ], 
+      "n_definitions": 1, 
+      "word": "zaragalla", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "g", 
+        "a", 
+        "l", 
+        "l", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino (familiar) Gresca, alboroto, tumulto.", 
+        "Zalamería. Más us. en plural. -", 
+        "Sustantivo masculino El que entre un número y otro de circo efectúa payasadas, entorpeciendo el trabajo de los demás. -", 
+        "Adjetivo - sustantivo común (familiar) Zalamero."
+      ], 
+      "n_definitions": 4, 
+      "word": "zaragata", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "g", 
+        "a", 
+        "t", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Hierba plantaginácea, cuyo pixidio contiene numerosas semillas pequeñas, de las cuales se extrae una sustancia mucilaginosa (Plantago psillium).", 
+        "Semilla de esta planta.  zaragozano, -na", 
+        "Adjetivo - sustantivo De Zaragoza, ciudad y provincia de la comunidad autónoma de Aragón."
+      ], 
+      "n_definitions": 3, 
+      "word": "zaragatona", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "g", 
+        "a", 
+        "t", 
+        "o", 
+        "n", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino plural Especie de calzones anchos y afollados en pliegues.", 
+        "(figurado) Calzones muy anchos, largos y mal hechos.", 
+        "Planta graminácea de cañas débiles y flores en panoja compuesta de espiguillas colgantes."
+      ], 
+      "n_definitions": 3, 
+      "word": "zaragüelles", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "g", 
+        "u", 
+        "e", 
+        "l", 
+        "l", 
+        "e", 
+        "s"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Criba.", 
+        "Cedazo rectangular con fardo de red de tomiza, usado en los lagares.", 
+        "Pasador metálico para colar jalea.", 
+        "VENEZUELA Trompo, juguete.", 
+        "VENEZUELA Trompa de música."
+      ], 
+      "n_definitions": 5, 
+      "word": "zaranda", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "n", 
+        "d", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino, plural Cosas menudas, sin valor."
+      ], 
+      "n_definitions": 1, 
+      "word": "zarandajas", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "n", 
+        "d", 
+        "a", 
+        "j", 
+        "a", 
+        "s"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Limpiar [el grano o la uva] pasándolos por la zaranda.", 
+        "Colar [el dulce] con la zaranda.", 
+        "(figurado) Mover [una cosa] con ligereza y facilidad.", 
+        "(figurado,) (poco usado) Separar de lo común [lo especial y más precioso]."
+      ], 
+      "n_definitions": 4, 
+      "word": "zarandar", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "n", 
+        "d", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Zarandar. -", 
+        "Verbo pronominal (figurado) Ajetrearse, azacanarse.", 
+        "Contonearse.", 
+        "Burlarse de uno, tratarle sin consideración. -", 
+        "Verbo transitivo ARGENTINA., GUATEMALA,  MÉXICO, NICARAGUA, URUGUAY Ridiculizar e insultar a una persona en público.", 
+        "ECUADOR Mortificar [a alguien]."
+      ], 
+      "n_definitions": 6, 
+      "word": "zarandear", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "n", 
+        "d", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Acción de zarandear o zarandearse.", 
+        "Efecto de zarandear o zarandearse. zarandillo", 
+        "Sustantivo masculino Zaranda pequeña.", 
+        "(figurado) Persona viva y ágil."
+      ], 
+      "n_definitions": 4, 
+      "word": "zarandeo", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "n", 
+        "d", 
+        "e", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Ave caradriforme del tamaño de un gallo, con pico largo, delgado y encorvado por la punta (Numenius arquatus).", 
+        "LOGROÑO Garapito."
+      ], 
+      "n_definitions": 2, 
+      "word": "zarapito", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "p", 
+        "i", 
+        "t", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino MINERALOGÍA Mineral de la clase de los carbonatos, que cristaliza en el sistema cúbico, de color verde esmeralda."
+      ], 
+      "n_definitions": 1, 
+      "word": "zaratita", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "t", 
+        "i", 
+        "t", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Tela de algodón, muy ancha, muy fina y con listas o flores estampadas.", 
+        "COLOMBIA Tela burda, tosca."
+      ], 
+      "n_definitions": 2, 
+      "word": "zaraza", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "z", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino, plural Veneno para matar perros y otros animales."
+      ], 
+      "n_definitions": 1, 
+      "word": "zarazas", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "a", 
+        "z", 
+        "a", 
+        "s"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Limpiar [los conductos y las cañerías] introduciendo en ellos unas zarzas largas. -", 
+        "Verbo intransitivo Entrar el perro en los zarzales para buscar la caza.", 
+        "(figurado) Andar de una parte a   otra cruzando con diligencia un sitio."
+      ], 
+      "n_definitions": 3, 
+      "word": "zarcear", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "c", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Relativo a la zarza."
+      ], 
+      "n_definitions": 1, 
+      "word": "zarceño", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "c", 
+        "e", 
+        "n", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo V. perro ˜. -", 
+        "Sustantivo masculino Ave paseriforme de pequeño tamaño, insectívora, cuyo plumaje es de color gris pardo con matices verdes por encima y amarillo vivo por debajo (Hippolais polyglotta)."
+      ], 
+      "n_definitions": 2, 
+      "word": "zarcero", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "c", 
+        "e", 
+        "r", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Pendiente (arete).", 
+        "Hoja o brote modificado en forma de filamento voluble, que sirve a ciertas plantas para trepar.", 
+        "Señal con que se marca el ganado y que consiste en un corte que se da en la oreja para que quede colgando un pedazo.", 
+        "CHILE. Manojillo de plumas menudas que tienen algunas aves, esp. las gallinas, a cada lado de la cara, en forma de arete.", 
+        "CHILE. De ˜, de bracete o de bracero. -", 
+        "Sustantivo masculino plural TAUROMAQUIA Banderillas."
+      ], 
+      "n_definitions": 6, 
+      "word": "zarcillo", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "c", 
+        "i", 
+        "l", 
+        "l", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Almocafre."
+      ], 
+      "n_definitions": 1, 
+      "word": "zarcillo", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "c", 
+        "i", 
+        "l", 
+        "l", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo De color azul claro.", 
+        "ARGENTINA. [animal] De ojos albinos.", 
+        "BOLIVIA [pers.] Que tiene ojos de color distinto uno de otro.", 
+        "CHILE. [ojo] Que tiene una nube.", 
+        "GUATEMALA [pers.] De raza blanca."
+      ], 
+      "n_definitions": 5, 
+      "word": "zarco", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "c", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Hijo del zar, esp. el primogénito."
+      ], 
+      "n_definitions": 1, 
+      "word": "zarevitz", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "e", 
+        "v", 
+        "i", 
+        "t", 
+        "z"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Mamífero marsupial americano, de aspecto parecido a una rata, con el hocico alargado y la cola prensil (Didelphys marsupialis).", 
+        "Piel curtida de este animal."
+      ], 
+      "n_definitions": 2, 
+      "word": "zarigüeya", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "i", 
+        "g", 
+        "u", 
+        "e", 
+        "y", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Forma de gobierno absoluto, propio de los zares."
+      ], 
+      "n_definitions": 1, 
+      "word": "zarismo", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "i", 
+        "s", 
+        "m", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Relativo al zar o a la época de los zares. -", 
+        "Adjetivo - sustantivo común Partidario del zar o del zarismo."
+      ], 
+      "n_definitions": 2, 
+      "word": "zarista", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "i", 
+        "s", 
+        "t", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de zarpar.", 
+        "Mano con dedos y uñas de ciertos animales.", 
+        "(vulgar) Mano del hombre.", 
+        "Cazcarria.   zarpa", 
+        "Sustantivo femenino ARQUITECTURA Parte que en la anchura de un cimiento excede a la del muro levantado sobre él."
+      ], 
+      "n_definitions": 5, 
+      "word": "zarpa", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "p", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo / intransitivo Levar anclas, hacerse a la mar.", 
+        "Verbo intransitivo Partir o salir embarcado."
+      ], 
+      "n_definitions": 2, 
+      "word": "zarpar", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "p", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Zarpada.", 
+        "Batacazo."
+      ], 
+      "n_definitions": 2, 
+      "word": "zarpazo", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "p", 
+        "a", 
+        "z", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Halago fingido."
+      ], 
+      "n_definitions": 1, 
+      "word": "zarracatería", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "r", 
+        "a", 
+        "c", 
+        "a", 
+        "t", 
+        "e", 
+        "r", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Hombre chapucero, de poca habilidad.", 
+        "Pelagatos, pobre diablo.", 
+        "Entrometido, chisgarabís."
+      ], 
+      "n_definitions": 3, 
+      "word": "zarramplín", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "r", 
+        "a", 
+        "m", 
+        "p", 
+        "l", 
+        "i", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo (familiar) Desaliñado, desaseado."
+      ], 
+      "n_definitions": 1, 
+      "word": "zarrapastroso", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "r", 
+        "a", 
+        "p", 
+        "a", 
+        "s", 
+        "t", 
+        "r", 
+        "o", 
+        "s", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Cazcarria.", 
+        "Pingajo, harapo."
+      ], 
+      "n_definitions": 2, 
+      "word": "zarria", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "r", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Tira de cuero que se mete entre los ojales de la abarca para asegurarla con la calzadera. zarriento, -ta", 
+        "Adjetivo Que tiene zarrias I."
+      ], 
+      "n_definitions": 2, 
+      "word": "zarria", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "r", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Arbusto rosáceo de tallos sarmentosos provistos de aguijones; hojas de cinco folíolos, flores blancas o róseas y fruto en eterio de drupas (Rubus fruticosus).", 
+        "ÁLAVA ˜ lobera, escaramujo, rosal silvestre."
+      ], 
+      "n_definitions": 2, 
+      "word": "zarza", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "z", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Dim. de zarzagán.", 
+        "Cierzo que causa tempestades."
+      ], 
+      "n_definitions": 2, 
+      "word": "zarzaganillo", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "z", 
+        "a", 
+        "g", 
+        "a", 
+        "n", 
+        "i", 
+        "l", 
+        "l", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Fruto de la zarza.", 
+        "Zarza."
+      ], 
+      "n_definitions": 2, 
+      "word": "zarzamora", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "z", 
+        "a", 
+        "m", 
+        "o", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Arbusto saxifragáceo de Sudamérica que se cultiva por sus frutos comestibles (Ribes punctatum).", 
+        "Arbusto liliáceo americano, de tallos delgados y volubles y raíces cilíndricas y fibrosas  (Smilax aristolochiaefolia).", 
+        "Depurativo o bebida refrescante preparado con esta planta.", 
+        "ARGENTINA., CUBA. Planta trepadora medicinal distinta de la anterior, aunque también del género Smilax."
+      ], 
+      "n_definitions": 4, 
+      "word": "zarzaparrilla", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "z", 
+        "a", 
+        "p", 
+        "a", 
+        "r", 
+        "r", 
+        "i", 
+        "l", 
+        "l", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Tejido plano hecho con cañas, varas o mimbres.", 
+        "Conjunto de piezas de madera con que se cierran los carros y las carretas por delante y por detrás.", 
+        "COLOMBIA Desván, zaquizamí.", 
+        "ECUADOR Instrumento de viento, de agudo sonido metálico, muy parecido al barítono."
+      ], 
+      "n_definitions": 4, 
+      "word": "zarzo", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "z", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Género teatral y musical, en el que alternan partes cantadas y habladas: ˜ grande, la extensa, generalmente en tres actos.", 
+        "Obra perteneciente a este género.", 
+        "Letra o música de la misma obra.", 
+        "Plato consistente en varias clases de pescado y marisco condimentado con una salsa."
+      ], 
+      "n_definitions": 4, 
+      "word": "zarzuela", 
+      "includes": [
+        "z", 
+        "a", 
+        "r", 
+        "z", 
+        "u", 
+        "e", 
+        "l", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino (familiar) Hombre despreciable, ligero y enredador.", 
+        "Hombre que va de un lado a otro sin hacer nada de provecho.", 
+        "(desusado) Golpe repentino o acción pronta e impensada que sobreviene."
+      ], 
+      "n_definitions": 3, 
+      "word": "zascandil", 
+      "includes": [
+        "z", 
+        "a", 
+        "s", 
+        "c", 
+        "a", 
+        "n", 
+        "d", 
+        "i", 
+        "l"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Portarse como un zascandil. zata; zatara", 
+        "Sustantivo femenino Especie de balsa para transportes fluviales."
+      ], 
+      "n_definitions": 2, 
+      "word": "zascandilear", 
+      "includes": [
+        "z", 
+        "a", 
+        "s", 
+        "c", 
+        "a", 
+        "n", 
+        "d", 
+        "i", 
+        "l", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Mariposa diurna con las alas de color blanco y amarillo, que, a diferencia de otras especies afines, tiene una sola generación anual (Zegris euphem)."
+      ], 
+      "n_definitions": 1, 
+      "word": "zegris", 
+      "includes": [
+        "z", 
+        "e", 
+        "g", 
+        "r", 
+        "i", 
+        "s"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Composición estrófica, de la métrica popular hispanoárabe, propagada también a la poesía castellana. Se compone de un estribillo inicial temático y de un número variable de estrofas compuestas de tres versos monorrimos seguidos de otro verso de rima constante igual a la del estribillo."
+      ], 
+      "n_definitions": 1, 
+      "word": "zéjel", 
+      "includes": [
+        "z", 
+        "e", 
+        "j", 
+        "e", 
+        "l"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo masculino Secta religiosa budista que renuncia a toda especulación intelectual y profundización cognoscitiva."
+      ], 
+      "n_definitions": 1, 
+      "word": "zen", 
+      "includes": [
+        "z", 
+        "e", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Avesta en zendo, es decir, parafraseado del avéstico al alfabeto pehlevi.   zendo, -da", 
+        "Adjetivo - sustantivo masculino Lengua indoeuropea usada antiguamente en las provincias septentrionales de Persia."
+      ], 
+      "n_definitions": 2, 
+      "word": "zendavesta", 
+      "includes": [
+        "z", 
+        "e", 
+        "n", 
+        "d", 
+        "a", 
+        "v", 
+        "e", 
+        "s", 
+        "t", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Ceolita."
+      ], 
+      "n_definitions": 1, 
+      "word": "zeolita", 
+      "includes": [
+        "z", 
+        "e", 
+        "o", 
+        "l", 
+        "i", 
+        "t", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Globo dirigible."
+      ], 
+      "n_definitions": 1, 
+      "word": "zepelín", 
+      "includes": [
+        "z", 
+        "e", 
+        "p", 
+        "e", 
+        "l", 
+        "i", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Octava letra del alfabeto griego, equivalente al sonido z o c delante de e, i, en español.", 
+        "Nombre de la letra z. -", 
+        "Sustantivo masculino (familiar) Coche de la policía."
+      ], 
+      "n_definitions": 3, 
+      "word": "zeta", 
+      "includes": [
+        "z", 
+        "e", 
+        "t", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino RETÓRICA Figura que consiste en sobrentender un verbo o un adjetivo cuando se repite en construcciones homogéneas y sucesivas. en forma de torre escalonada con terraza, que se hallaba en los templos."
+      ], 
+      "n_definitions": 1, 
+      "word": "zeugma", 
+      "includes": [
+        "z", 
+        "e", 
+        "u", 
+        "g", 
+        "m", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Serie de líneas que forman alternativamente ángulos entrantes y salientes."
+      ], 
+      "n_definitions": 1, 
+      "word": "zigzag", 
+      "includes": [
+        "z", 
+        "i", 
+        "g", 
+        "z", 
+        "a", 
+        "g"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Andar, moverse o extenderse en zigzag."
+      ], 
+      "n_definitions": 1, 
+      "word": "zigzaguear", 
+      "includes": [
+        "z", 
+        "i", 
+        "g", 
+        "z", 
+        "a", 
+        "g", 
+        "u", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Cinc."
+      ], 
+      "n_definitions": 1, 
+      "word": "zinc", 
+      "includes": [
+        "z", 
+        "i", 
+        "n", 
+        "c"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino (familiar) Riña ruidosa o con golpes."
+      ], 
+      "n_definitions": 1, 
+      "word": "zipizape", 
+      "includes": [
+        "z", 
+        "i", 
+        "p", 
+        "i", 
+        "z", 
+        "a", 
+        "p", 
+        "e"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Unidad monetaria de Polonia."
+      ], 
+      "n_definitions": 1, 
+      "word": "zloty", 
+      "includes": [
+        "z", 
+        "l", 
+        "o", 
+        "t", 
+        "y"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Preparación a base de pan de arroz o de gelatina.", 
+        "ARQUITECTURA  Cuerpo inferior de un edificio, para zigodáctilo, \t-la \t1\tadjetivo\televar los\tbasamentos a\tun Cigodáctilo.\t\t\t\tmismo\tnivel.", 
+        ""
+      ], 
+      "n_definitions": 3, 
+      "word": "zócalo", 
+      "includes": [
+        "z", 
+        "o", 
+        "c", 
+        "a", 
+        "l", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Cigodonto."
+      ], 
+      "n_definitions": 1, 
+      "word": "zigodonto", 
+      "includes": [
+        "z", 
+        "i", 
+        "g", 
+        "o", 
+        "d", 
+        "o", 
+        "n", 
+        "t", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Construcción caldea o babilónica, ARQUITECTURA Friso (faja).", 
+        "ARQUITECTURA Miembro inferior del pedestal.", 
+        "ELECTRICIDAD Portalámparas fijo que tienen los aparatos electrónicos, para enchufar en   ellos las lámparas o tubos electrónicos.", 
+        "ELECTRICIDAD Parte fija o base de los enchufes, cortocircuitos, etc., en cuyas hembrillas penetran las clavijas.", 
+        "IMPRENTA Tarugo de madera o metálico, sobre el cual se montan los fotograbados o clisés para ponerlos al mismo nivel que los tipos.", 
+        "ARGENTINA. Especie de pedestal.", 
+        "MÉXICO Parte central de la plaza mayor, en algunas poblaciones."
+      ], 
+      "n_definitions": 7, 
+      "word": "zigurat", 
+      "includes": [
+        "z", 
+        "i", 
+        "g", 
+        "u", 
+        "r", 
+        "a", 
+        "t"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo (familiar) Zurdo. -", 
+        "Adjetivo [fruto] Que se pone acorchado y amarillo.", 
+        "ANDALUCÍA [fruto] Que está encorvado.", 
+        "CUBA, VENEZUELA [fruto o tubérculo] Que se pone como hinchado a causa de las aguas. -", 
+        "Sustantivo femenino Chatarra que, atacada con vinagre, da un tinte utilizado para teñir el cuero."
+      ], 
+      "n_definitions": 5, 
+      "word": "zocato", 
+      "includes": [
+        "z", 
+        "o", 
+        "c", 
+        "a", 
+        "t", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Zueco, chanclo."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoclo", 
+      "includes": [
+        "z", 
+        "o", 
+        "c", 
+        "l", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Relativo al Zodíaco.", 
+        "Luz ˜, débil claridad del cielo que se observa antes de la salida del Sol, dentro del crepúsculo astronómico. zodíaco", 
+        "Sustantivo masculino Zona de la esfera celeste, de 16° de anchura, ocho a cada lado de la eclíptica, dividida en doce partes iguales, llamadas signos del ˜.", 
+        "Representación material del zodíaco."
+      ], 
+      "n_definitions": 4, 
+      "word": "zodiacal", 
+      "includes": [
+        "z", 
+        "o", 
+        "d", 
+        "i", 
+        "a", 
+        "c", 
+        "a", 
+        "l"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Polinización por los animales."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoidiofilia", 
+      "includes": [
+        "z", 
+        "o", 
+        "i", 
+        "d", 
+        "i", 
+        "o", 
+        "f", 
+        "i", 
+        "l", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Crítico presumido, maligno, censurador o murmurador de las obras ajenas."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoilo", 
+      "includes": [
+        "z", 
+        "o", 
+        "i", 
+        "l", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Conjunto de características que determinan la clasificación de un organismo vivo entre los animales."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoísmo", 
+      "includes": [
+        "z", 
+        "o", 
+        "i", 
+        "s", 
+        "m", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo común Muerto reanimado mediante un rito mágico. -", 
+        "Adjetivo (figurado) Atontado."
+      ], 
+      "n_definitions": 2, 
+      "word": "zombi;", 
+      "includes": [
+        "z", 
+        "o", 
+        "m", 
+        "b", 
+        "i", 
+        ";"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Lista o faja.", 
+        "Extensión considerable de terreno.", 
+        "(por extensión) Demarcación establecida a ciertos efectos: ˜ azul, conjunto de calles en el interior de una población, en las cuales los vehículos sólo pueden aparcar   por un tiempo determinado durante el día; ˜ batial, parte del mar comprendida entre los", 
+        "Y los", 
+        "Metros de profundidad; ˜ de ensanche, la que en la cercanía de las poblaciones está destinada para que se extiendan la edificación y los servicios urbanos; ˜ franca, ECONOMÍA, espacio acotado, de libre comercio, regulado legalmente por las instituciones fiscales de un país, en el interior del cual no rigen los derechos de aduana vigentes para el resto del territorio nacional; ˜ fiscal, aquella en que rigen preceptos excepcionales en materia de tributos; ˜ industrial, la reservada especialmente para instalaciones industriales; ˜ neutra, espacio que separa los polos de un imán; ˜ polémica, aquella en que para defensa de una plaza o fortificación se establecen excepciones  legales  y gubernativas; ˜ urbana, casco de población; ˜ verde, terreno que en una ciudad se destina a arbolado o parques.", 
+        "Parte en que, con otras cuatro, se considera dividida la superficie de la Tierra por los trópicos y los círculos polares: ˜ glacial, la comprendida dentro de un círculo polar; ˜ templada, la comprendida entre un círculo polar y un trópico; ˜ tórrida, la comprendida entre ambos trópicos y dividida por el ecuador en dos partes iguales.", 
+        "Afección caracterizada por una erupción vesicular acompañada de gran ardor.", 
+        "DEPORTES Parte de un campo de baloncesto más próxima a las canastas, en forma de trapecio o rectángulo.", 
+        "DEPORTES Infracción que comete un jugador de baloncesto al permanecer más de tres segundos dentro de esa parte del campo sin estar en posesión del balón.", 
+        "DEPORTES Sistema defensivo en el que los jugadores de un equipo cubren el terreno de juego por áreas.", 
+        "GEOLOGÍA Conjunto de caras de un cristal cuyas aristas son paralelas entre sí.", 
+        "GEOMETRÍA Parte de la superficie de la esfera, comprendida entre dos planos paralelos."
+      ], 
+      "n_definitions": 12, 
+      "word": "zona", 
+      "includes": [
+        "z", 
+        "o", 
+        "n", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Sosería."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoncería", 
+      "includes": [
+        "z", 
+        "o", 
+        "n", 
+        "c", 
+        "e", 
+        "r", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Dividir [un terreno] en zonas."
+      ], 
+      "n_definitions": 1, 
+      "word": "zonificar", 
+      "includes": [
+        "z", 
+        "o", 
+        "n", 
+        "i", 
+        "f", 
+        "i", 
+        "c", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo [pers.] Soso.", 
+        "Ave zonza o tonta.   zoo", 
+        "Sustantivo masculino Abreviatura de parque zoológico."
+      ], 
+      "n_definitions": 3, 
+      "word": "zonzo", 
+      "includes": [
+        "z", 
+        "o", 
+        "n", 
+        "z", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Biología del mundo animal."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoobiología", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "b", 
+        "i", 
+        "o", 
+        "l", 
+        "o", 
+        "g", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que se alimenta de materias animales."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoófago", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "f", 
+        "a", 
+        "g", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Amor por los animales.", 
+        "Alteración sexual consistente en el amor erótico por los animales."
+      ], 
+      "n_definitions": 2, 
+      "word": "zoofilia", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "f", 
+        "i", 
+        "l", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Animal que tiene aspecto de planta. -", 
+        "Sustantivo masculino plural ZOOLOGÍA última de las cuatro grandes divisiones zoológicas, en la clasificación de Cuvier (1769-1832), que comprendía los animales que tienen aspecto de plantas."
+      ], 
+      "n_definitions": 2, 
+      "word": "zoófito", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "f", 
+        "i", 
+        "t", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Temor enfermizo que se siente ante ciertos animales."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoofobia", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "f", 
+        "o", 
+        "b", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Parte de la zoología que estudia el desarrollo de los animales."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoogenia", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "g", 
+        "e", 
+        "n", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Ciencia que estudia la distribución geográfica de los animales."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoogeografía", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "g", 
+        "e", 
+        "o", 
+        "g", 
+        "r", 
+        "a", 
+        "f", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Parte de la zoología que tiene por objeto la descripción de los animales."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoografía", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "g", 
+        "r", 
+        "a", 
+        "f", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino ZOOLOGÍA Individuo que forma parte de un cuerpo con organización colonial y cuya estructura es variable, según el papel fisiológico que deba desempeñar en el conjunto."
+      ], 
+      "n_definitions": 1, 
+      "word": "zooide", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "i", 
+        "d", 
+        "e"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Adoración, culto de los animales."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoolatría", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "l", 
+        "a", 
+        "t", 
+        "r", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Parte petrificada del cuerpo de un animal.   zoología", 
+        "Sustantivo femenino Parte de la historia natural que trata de los animales."
+      ], 
+      "n_definitions": 2, 
+      "word": "zoolito", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "l", 
+        "i", 
+        "t", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Relativo a la zoología. -", 
+        "Sustantivo masculino V. parque ˜."
+      ], 
+      "n_definitions": 2, 
+      "word": "zoológico", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "l", 
+        "o", 
+        "g", 
+        "i", 
+        "c", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Zum."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoom", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "m"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Estudio de las dimensiones de los animales."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoometría", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "m", 
+        "e", 
+        "t", 
+        "r", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que tiene forma de animal."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoomorfo", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "m", 
+        "o", 
+        "r", 
+        "f", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino LINGÜÍSTICA Nombre de animal."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoónimo", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "n", 
+        "i", 
+        "m", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Rama de la paleontología que estudia los animales fósiles."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoopaleontología", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "p", 
+        "a", 
+        "l", 
+        "e", 
+        "o", 
+        "n", 
+        "t", 
+        "o", 
+        "l", 
+        "o", 
+        "g", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Conjunto de organismos  exclusivamente animales que forman parte del plancton."
+      ], 
+      "n_definitions": 1, 
+      "word": "zooplancton", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "p", 
+        "l", 
+        "a", 
+        "n", 
+        "c", 
+        "t", 
+        "o", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Disciplina que estudia los sistemas de comunicación de los animales."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoosemiótica", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "s", 
+        "e", 
+        "m", 
+        "i", 
+        "o", 
+        "t", 
+        "i", 
+        "c", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Espermatozoide."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoospermo", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "s", 
+        "p", 
+        "e", 
+        "r", 
+        "m", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino BOTÁNICA Espora que no está cerrada en un quiste, y en cuya superficie lleva órganos filiformes a modo de cilios o flagelos que le sirven para nadar."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoospora", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "s", 
+        "p", 
+        "o", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Ordenación o clasificación metódica del reino animal."
+      ], 
+      "n_definitions": 1, 
+      "word": "zootaxia", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "t", 
+        "a", 
+        "x", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Arte de la cría de los animales domésticos."
+      ], 
+      "n_definitions": 1, 
+      "word": "zootecnia", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "t", 
+        "e", 
+        "c", 
+        "n", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Toxina o veneno de origen animal, como los de ciertos ofidios, escorpiones, arácnidos, etc."
+      ], 
+      "n_definitions": 1, 
+      "word": "zootoxina", 
+      "includes": [
+        "z", 
+        "o", 
+        "o", 
+        "t", 
+        "o", 
+        "x", 
+        "i", 
+        "n", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo común (burlesco) Persona que cecea mucho."
+      ], 
+      "n_definitions": 1, 
+      "word": "zopas", 
+      "includes": [
+        "z", 
+        "o", 
+        "p", 
+        "a", 
+        "s"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Tonto, abrutado.   zopisa", 
+        "Sustantivo femenino Brea.", 
+        "Resina de pino."
+      ], 
+      "n_definitions": 3, 
+      "word": "zopenco", 
+      "includes": [
+        "z", 
+        "o", 
+        "p", 
+        "e", 
+        "n", 
+        "c", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Gazpacho muy espeso, propio de Málaga.", 
+        "GUATEMALA Tos persistente que ataca a ciertos animales."
+      ], 
+      "n_definitions": 2, 
+      "word": "zoque", 
+      "includes": [
+        "z", 
+        "o", 
+        "q", 
+        "u", 
+        "e"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Especie de guante de madera para resguardar la mano izquierda de los cortes de la hoz al segar."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoqueta", 
+      "includes": [
+        "z", 
+        "o", 
+        "q", 
+        "u", 
+        "e", 
+        "t", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Taco que queda sobrante al labrar un madero.", 
+        "(figurado) Pedazo de pan grueso e irregular.", 
+        "Hombre de mala traza, pequeño y gordo. -", 
+        "Adjetivo - sustantivo común Persona ruda y tarda para entender."
+      ], 
+      "n_definitions": 4, 
+      "word": "zoquete", 
+      "includes": [
+        "z", 
+        "o", 
+        "q", 
+        "u", 
+        "e", 
+        "t", 
+        "e"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Basto o mal hecho."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoquetudo", 
+      "includes": [
+        "z", 
+        "o", 
+        "q", 
+        "u", 
+        "e", 
+        "t", 
+        "u", 
+        "d", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Baile popular en compás de cinco por ocho, propio de las provincias vascongadas.", 
+        "Música y canto de este baile."
+      ], 
+      "n_definitions": 2, 
+      "word": "zorcico", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "c", 
+        "i", 
+        "c", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Mazdeísmo."
+      ], 
+      "n_definitions": 1, 
+      "word": "zoroastrismo", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "o", 
+        "a", 
+        "s", 
+        "t", 
+        "r", 
+        "i", 
+        "s", 
+        "m", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Blando, tierno.", 
+        "Que no ha llegado a madurar por completo.", 
+        "[trigo] Que se siega antes de su completa madurez."
+      ], 
+      "n_definitions": 3, 
+      "word": "zorollo", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "o", 
+        "l", 
+        "l", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Pañuelo doblado que llevan a la cabeza los aragoneses y navarros.", 
+        "Moño ancho y aplastado.", 
+        "Baile popular de Andalucía, de movimiento muy vivo.", 
+        "Música y canto de este baile."
+      ], 
+      "n_definitions": 4, 
+      "word": "zorongo", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "o", 
+        "n", 
+        "g", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Mamífero carnívoro cánido, de hocico estrecho, orejas derechas y cola larga y gruesa (Vulpes vulpes).", 
+        "Hembra de esta especie: ˜ del Sahara, fenec.", 
+        "(figurado) Mujer astuta y solapada.", 
+        "Borrachera.", 
+        "Constelación boreal situada entre Hércules y Pegaso."
+      ], 
+      "n_definitions": 5, 
+      "word": "zorra", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Carro bajo y fuerte para transportar grandes pesos.", 
+        "ARGENTINA. Vagoneta."
+      ], 
+      "n_definitions": 2, 
+      "word": "zorra", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino (figurado,) (familiar) Ramera.   zorrastrón, -trona", 
+        "Adjetivo - sustantivo Pícaro, astuto y cauteloso."
+      ], 
+      "n_definitions": 2, 
+      "word": "zorra", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Cueva de zorros.", 
+        "(figurado) Azorramiento.", 
+        "(figurado) Habitación llena de humo."
+      ], 
+      "n_definitions": 3, 
+      "word": "zorrera", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "r", 
+        "e", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Astucia y cautela de la zorra.", 
+        "(figurado) Astucia y cautela del que busca su utilidad en lo que hace."
+      ], 
+      "n_definitions": 2, 
+      "word": "zorrería", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "r", 
+        "e", 
+        "r", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Vehículo que se desliza sobre los carriles y se destina a la inspección de la vía férrea."
+      ], 
+      "n_definitions": 1, 
+      "word": "zorrilla", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "r", 
+        "i", 
+        "l", 
+        "l", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino AMÉRICA Mofeta (mamífero).", 
+        "CHILE. Vehículo que sirve para lanzar gases con el fin de disolver manifestaciones.", 
+        "MÉXICO Dulce de leche cortada. -", 
+        "Adjetivo MÉXICO Remolón, disimulado, medroso.", 
+        "MÉXICO Tonto."
+      ], 
+      "n_definitions": 5, 
+      "word": "zorrillo", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "r", 
+        "i", 
+        "l", 
+        "l", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Macho de la zorra: ˜ azul ( o raposo ferrero), zorro propio de los países glaciales, cuyo pelaje espeso, largo, suave y de color gris azulado, es muy estimado en peletería; ˜ plateado del Sur, el de piel argentada que vive en los climas fríos de Patagonia y Tierra del Fuego (Dusicyon argenteus); ˜ veloz, el de pequeño tamaño, formas esbeltas y grandes orejas que vive entre el sur de Canadá y Centroamérica (Vulpes velox).", 
+        "(figurado) Hombre que afecta simpleza o insulsez, especialmente para no trabajar: hacerse el ˜, aparentar ignorancia o distracción.", 
+        "El muy taimado y astuto.", 
+        "Piel de la zorra, curtida de modo que conserve el pelo.", 
+        "Zorro marino, tiburón de hasta", 
+        "M. de largo, provisto de una larga aleta caudal asimétrica, con la cual efectúa fuertes movimientos para entontecer a sus víctimas (Alopias vulpinus). -", 
+        "Sustantivo masculino plural Utensilio para sacudir el polvo, formado por tiras de orillo, piel, etc., puestas en un mango. -", 
+        "Sustantivo masculino AMÉRICA Mofeta (mamífero).", 
+        "CHILE. Harina de trigo tostado, con miel o arrope. FR. Estar [alguien] hecho unos zorros, encontrarse en muy malas condiciones físicas.   zorro, -rra", 
+        "Adjetivo V. perro raposero."
+      ], 
+      "n_definitions": 10, 
+      "word": "zorro", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "r", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo (familiar) Que hace refunfuñando las cosas que le mandan."
+      ], 
+      "n_definitions": 1, 
+      "word": "zorronglón", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "r", 
+        "o", 
+        "n", 
+        "g", 
+        "l", 
+        "o", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Ave paseriforme de unos", 
+        "Cms. de longitud, con el plumaje de color pardo, salvo en el pecho, que es amarillento con manchas pardas (Turdus philomelus).", 
+        "Pez teleósteo de unos", 
+        "Cms. de largo, cabeza grande y lisa y hocico puntiagudo. Es de color más o menos obscuro según las estaciones del año, y se cría en mares de España (Labrus turdus).", 
+        "ANDALUCÍA Ladrón de aceitunas. -", 
+        "Adjetivo - sustantivo (figurado) Astuto, sagaz.", 
+        "AMÉRICA Tonto, papanatas.", 
+        "PUERTO RICO [chico] Inquieto y revoltoso."
+      ], 
+      "n_definitions": 8, 
+      "word": "zorzal", 
+      "includes": [
+        "z", 
+        "o", 
+        "r", 
+        "z", 
+        "a", 
+        "l"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Zoquete (persona)."
+      ], 
+      "n_definitions": 1, 
+      "word": "zote", 
+      "includes": [
+        "z", 
+        "o", 
+        "t", 
+        "e"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de zozobrar.", 
+        "Efecto de zozobrar.", 
+        "Oposición de los vientos que ponen al barco en riesgo de naufragar.", 
+        "(figurado) Inquietud, aflicción, congoja.", 
+        "Lance del juego de los dados.", 
+        "En los dados, cara opuesta a otra."
+      ], 
+      "n_definitions": 6, 
+      "word": "zozobra", 
+      "includes": [
+        "z", 
+        "o", 
+        "z", 
+        "o", 
+        "b", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Peligrar la embarcación por la fuerza y contraste de los vientos.", 
+        "(figurado) Estar en gran riesgo y muy cerca de perderse una cosa; sentir gran vacilación y acongojarse en un trance difícil. -", 
+        "Verbo intransitivo / pronominal Perderse o irse a pique.", 
+        "Verbo transitivo Hacer zozobrar."
+      ], 
+      "n_definitions": 4, 
+      "word": "zozobrar", 
+      "includes": [
+        "z", 
+        "o", 
+        "z", 
+        "o", 
+        "b", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Lugar por donde corre mucha agua."
+      ], 
+      "n_definitions": 1, 
+      "word": "zubia", 
+      "includes": [
+        "z", 
+        "u", 
+        "b", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Zapato de madera de una pieza.", 
+        "Zapato de cuero con suela de corcho o de madera.", 
+        "En oposición al coturno, significa el estilo llano de la comedia."
+      ], 
+      "n_definitions": 3, 
+      "word": "zueco", 
+      "includes": [
+        "z", 
+        "u", 
+        "e", 
+        "c", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo ALBACETE, CUENCA Zurdo, zocato. -", 
+        "Adjetivo COLOMBIA Patojo."
+      ], 
+      "n_definitions": 2, 
+      "word": "zueco", 
+      "includes": [
+        "z", 
+        "u", 
+        "e", 
+        "c", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Betún en pasta para tapar las juntas de los arcaduces y para otras obras hidráulicas.   zulla", 
+        "Sustantivo femenino Hierba leguminosa que sirve de pasto para el ganado (Hedysarum coronarium)."
+      ], 
+      "n_definitions": 2, 
+      "word": "zulaque", 
+      "includes": [
+        "z", 
+        "u", 
+        "l", 
+        "a", 
+        "q", 
+        "u", 
+        "e"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino (familiar,) (poco usado) Excremento humano."
+      ], 
+      "n_definitions": 1, 
+      "word": "zulla", 
+      "includes": [
+        "z", 
+        "u", 
+        "l", 
+        "l", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Agujero o pequeña habitación oculta que se usa para esconder a alguien o algo."
+      ], 
+      "n_definitions": 1, 
+      "word": "zulo", 
+      "includes": [
+        "z", 
+        "u", 
+        "l", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo De un pueblo negroafricano que habita en el sudeste de África.", 
+        "(figurado) [pers.] Inculto, salvaje. -", 
+        "Adjetivo - sustantivo masculino Lengua perteneciente al grupo bantú meridional, hablada en el sudeste de África."
+      ], 
+      "n_definitions": 3, 
+      "word": "zulú", 
+      "includes": [
+        "z", 
+        "u", 
+        "l", 
+        "u"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Terreno plantado de zumaque. de fácil pulimento, que puede teñirse mediante tratamiento, empleada en marquetería.", 
+        "Piel curtida con el tanino de dicho árbol.", 
+        "(familiar) Vino de uva."
+      ], 
+      "n_definitions": 3, 
+      "word": "zumacal;", 
+      "includes": [
+        "z", 
+        "u", 
+        "m", 
+        "a", 
+        "c", 
+        "a", 
+        "l", 
+        ";"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Cencerro grande.", 
+        "Bramadera (juguete).", 
+        "(figurado) Vaya, chanza ligera.", 
+        "AMÉRICA Tunda, zurra.", 
+        "GUATEMALA, MÉXICO Tira de papel o de pergamino que se pega a la cuerda en la parte superior de la cometa.", 
+        "MÉXICO Borrachera."
+      ], 
+      "n_definitions": 6, 
+      "word": "zumba", 
+      "includes": [
+        "z", 
+        "u", 
+        "m", 
+        "b", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que zumba. -", 
+        "Sustantivo masculino Timbre eléctrico que al funcionar produce un zumbido sordo. -", 
+        "Sustantivo femenino Lengüeta vibratoria, que, al entrar en vibración a causa de las sucesivas interrupciones de un circuito de corriente continua, genera una nota que sirve para \t\t\t\tindicar la\tfrecuencia\tde\tla zumacar \t1\tverbo\ttransitivo\tcorriente\texcitadora.\t-", 
+        "Adobar [las pieles] con zumaque."
+      ], 
+      "n_definitions": 4, 
+      "word": "zumbador", 
+      "includes": [
+        "z", 
+        "u", 
+        "m", 
+        "b", 
+        "a", 
+        "d", 
+        "o", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Arbusto anacardiáceo, cuya corteza contiene mucho tanino y se emplea como curtiente (Rhus coriaria).", 
+        "Madera de este árbol, sustantivo masculino AMÉRICA Bramadera (juguete). -", 
+        "Sustantivo femenino EL SALVADOR Especie de culebra.", 
+        "VENEZUELA Barranco en las inmediaciones de una vivienda rústica, donde se arroja la basura."
+      ], 
+      "n_definitions": 4, 
+      "word": "zumaque", 
+      "includes": [
+        "z", 
+        "u", 
+        "m", 
+        "a", 
+        "q", 
+        "u", 
+        "e"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Hacer una cosa ruido continuado y bronco.", 
+        "Producirse un zumbido dentro de los oídos.", 
+        "(figurado,) (familiar) Estar una cosa tan inmediata que falte poco para llegar a ella.", 
+        "Verbo transitivo (familiar) Dar [un golpe]; causar [un daño].", 
+        "ANDALUCÍA, SALAMANCA Azuzar. -", 
+        "Verbo transitivo / pronominal (figurado) Dar broma o chasco [a uno].", 
+        "Verbo transitivo AMÉRICA (vulgar) Arrojar, lanzar, echar fuera. -", 
+        "Verbo intransitivo ANTILLAS, COLOMBIA Desparecer, irse con presteza. -", 
+        "Verbo pronominal CUBA. Desmedirse, propasarse.", 
+        "PUERTO RICO Tirarse, arrojarse, abalanzarse. FR. ¡zumbando! , expr. fam., con rapidez, decisión, energía, etc."
+      ], 
+      "n_definitions": 10, 
+      "word": "zumbar", 
+      "includes": [
+        "z", 
+        "u", 
+        "m", 
+        "b", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Cuerda que se arrolla al peón para hacerle bailar."
+      ], 
+      "n_definitions": 1, 
+      "word": "zumbel", 
+      "includes": [
+        "z", 
+        "u", 
+        "m", 
+        "b", 
+        "e", 
+        "l"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino (familiar,) (poco usado) Expresión exterior de semblante ceñudo. zumbido", 
+        "Sustantivo masculino Acción de zumbar.", 
+        "Efecto de zumbar.", 
+        "(familiar) Golpe o porrazo dado a alguien."
+      ], 
+      "n_definitions": 4, 
+      "word": "zumbel", 
+      "includes": [
+        "z", 
+        "u", 
+        "m", 
+        "b", 
+        "e", 
+        "l"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Cencerro que lleva el cabestro y que suena más fuerte que los demás.", 
+        "(figurado) Que frecuentemente anda burlándose."
+      ], 
+      "n_definitions": 2, 
+      "word": "zumbón", 
+      "includes": [
+        "z", 
+        "u", 
+        "m", 
+        "b", 
+        "o", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que arroja zumo."
+      ], 
+      "n_definitions": 1, 
+      "word": "zumiento", 
+      "includes": [
+        "z", 
+        "u", 
+        "m", 
+        "i", 
+        "e", 
+        "n", 
+        "t", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Líquido que se extrae de las flores, hierbas, frutos, etc.", 
+        "(figurado) Utilidad y provecho que se saca de una cosa."
+      ], 
+      "n_definitions": 2, 
+      "word": "zumo", 
+      "includes": [
+        "z", 
+        "u", 
+        "m", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Abrazadera o anillo de metal, usado como refuerzo.", 
+        "Refuerzo metálico, gralte. de acero, para juntar y atar elementos constructivos de un edificio en ruinas.", 
+        "CONSTRUCCIÓN Armadura helicoidal en una columna de hormigón armado."
+      ], 
+      "n_definitions": 3, 
+      "word": "zuncho", 
+      "includes": [
+        "z", 
+        "u", 
+        "n", 
+        "c", 
+        "h", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Poso del vino.", 
+        "Vino turbio por estar revuelto con el poso.", 
+        "Líquido de mal aspecto y sabor.", 
+        "(figurado) Lo más inútil y   despreciable de cualquier cosa.", 
+        "BOLIVIA, VENEZUELA Aguardiente de mala calidad."
+      ], 
+      "n_definitions": 5, 
+      "word": "zupia", 
+      "includes": [
+        "z", 
+        "u", 
+        "p", 
+        "i", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Unión o costura de las cosas zurcidas."
+      ], 
+      "n_definitions": 1, 
+      "word": "zurcido", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "c", 
+        "i", 
+        "d", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Que zurce."
+      ], 
+      "n_definitions": 1, 
+      "word": "zurcidor", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "c", 
+        "i", 
+        "d", 
+        "o", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Coser [la rotura de una tela] de modo que la unión resulte disimulada; suplir con puntadas entrecruzadas [lo que falta en el agujero de un tejido].", 
+        "(figurado) Unir sutilmente [una cosa] con otra.", 
+        "(figurado) Combinar [varias mentiras] para dar apariencia de verdad a lo que se relata."
+      ], 
+      "n_definitions": 3, 
+      "word": "zurcir", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "c", 
+        "i", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino AMÉRICA Golpe dado con la mano izquierda.", 
+        "DEPORTES En el juego del fútbol, disparo con la pierna izquierda."
+      ], 
+      "n_definitions": 2, 
+      "word": "zurdazo", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "d", 
+        "a", 
+        "z", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Que usa de la mano izquierda del modo y para lo que las demás personas usan la derecha. -", 
+        "Sustantivo femenino (figurado) Mano izquierda. -", 
+        "Adjetivo Relativo a la mano zurda.", 
+        "A zurdas, con la mano zurda; (figurado,) al contrario de como se debía hacer.", 
+        "(figurado) No ser ˜, ser hábil, inteligente y experimentado."
+      ], 
+      "n_definitions": 5, 
+      "word": "zurdo", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "d", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo intransitivo Hacer arrullos la paloma."
+      ], 
+      "n_definitions": 1, 
+      "word": "zurear", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "e", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Zuro (palomo)."
+      ], 
+      "n_definitions": 1, 
+      "word": "zurito", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "i", 
+        "t", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo [palomo] Silvestre."
+      ], 
+      "n_definitions": 1, 
+      "word": "zuro", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Acción de zurrar las pieles.", 
+        "Continuación del trabajo en cualquier materia.", 
+        "(figurado) Reyerta, pendencia, riña.", 
+        "Castigo, paliza, tunda.", 
+        "Sangría (bebida)."
+      ], 
+      "n_definitions": 5, 
+      "word": "zurra", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Bebida popular que en varias regiones de España se hace con vino y diversos ingredientes.", 
+        "Bebida refrescante hecha con vino tinto y limón helado.", 
+        "LOGROÑO Bebida fuerte con alcoholes de muy diferente graduación, combinado con melocotón y pera.   zurrapa", 
+        "Sustantivo femenino Brizna o sedimento formado en el poso de los líquidos.", 
+        "(figurado) Cosa vil y despreciable.", 
+        "(figurado,) (poco usado) Muchacho desmedrado y feo. -", 
+        "Sustantivo femenino, plural ANDALUCÍA Requesón."
+      ], 
+      "n_definitions": 7, 
+      "word": "zurracapote", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "a", 
+        "c", 
+        "a", 
+        "p", 
+        "o", 
+        "t", 
+        "e"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que tiene zurrapas."
+      ], 
+      "n_definitions": 1, 
+      "word": "zurrapiento", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "a", 
+        "p", 
+        "i", 
+        "e", 
+        "n", 
+        "t", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo transitivo Curtir y adobar [las pieles].", 
+        "(figurado) Castigar [a uno] esp. con azotes o golpes; traer [a uno] a mal traer en una riña.", 
+        "(figurado) Censurar [a uno] con dureza. FR. Zurra, que es tarde, expr. fam. con que se zahiere la impertinente insistencia de uno."
+      ], 
+      "n_definitions": 3, 
+      "word": "zurrar", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Verbo pronominal (poco usado) Irse de vientre uno involuntariamente.", 
+        "(figurado,) (familiar,) (poco usado) Estar poseído de un gran temor o miedo."
+      ], 
+      "n_definitions": 2, 
+      "word": "zurrar", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "a", 
+        "r"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Zurriago.", 
+        "Pez marino de cuerpo muy alargado, de color blanquecino, y que tiene el hábito de introducirse y vivir en la cavidad visceral de las holoturias (Carapus  dentatus).", 
+        "ANDALUCÍA Alondra.", 
+        "EXTREMADURA Mujer de vida licenciosa."
+      ], 
+      "n_definitions": 4, 
+      "word": "zurriaga", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "i", 
+        "a", 
+        "g", 
+        "a"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Golpe dado con el zurriago o con otra cosa flexible.", 
+        "(figurado) Desgracia o mal suceso inesperado.", 
+        "(figurado) Mal trato o desdén de quien no se esperaba."
+      ], 
+      "n_definitions": 3, 
+      "word": "zurriagazo", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "i", 
+        "a", 
+        "g", 
+        "a", 
+        "z", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Látigo con que se castiga.", 
+        "Correa con que los muchachos hacen bailar la peonza.", 
+        "(figurado) Hombre torpe y de poco valor."
+      ], 
+      "n_definitions": 3, 
+      "word": "zurriago", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "i", 
+        "a", 
+        "g", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino (poco usado) Sujeto vil y despreciable.", 
+        "Conjunto de personas de la ínfima plebe o de malos procederes.", 
+        "Barullo, confusión."
+      ], 
+      "n_definitions": 3, 
+      "word": "zurriburri", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "i", 
+        "b", 
+        "u", 
+        "r", 
+        "r", 
+        "i"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Sonido bronco, desapacible y confuso."
+      ], 
+      "n_definitions": 1, 
+      "word": "zurrido", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "i", 
+        "d", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Golpe, esp. con palo.   zurrir", 
+        "Verbo intransitivo Sonar bronca y confusamente una cosa."
+      ], 
+      "n_definitions": 2, 
+      "word": "zurrido", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "i", 
+        "d", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Bolsa grande de pellejo o cuero, como la usada por los pastores.", 
+        "Bolsa formada por las membranas que envuelven el feto y el líquido que le rodea.", 
+        "Cáscara primera y más tierna en que están encerrados algunos frutos.", 
+        "Quiste (membrana).", 
+        "Armuelle  silvestre (Chenopodium bonus-henricus).", 
+        "ANDALUCÍA (figurado) Joroba.", 
+        "ZAMORA Capullo en que se encierra la larva de la lagarta."
+      ], 
+      "n_definitions": 7, 
+      "word": "zurrón", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "o", 
+        "n"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Cazador furtivo."
+      ], 
+      "n_definitions": 1, 
+      "word": "zurronero", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "r", 
+        "o", 
+        "n", 
+        "e", 
+        "r", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Pedazo rollizo de materia blanda.", 
+        "(por extensión,) (familiar) Mojón (excremento).", 
+        "(figurado) Miedo, pánico."
+      ], 
+      "n_definitions": 3, 
+      "word": "zurullo", 
+      "includes": [
+        "z", 
+        "u", 
+        "r", 
+        "u", 
+        "l", 
+        "l", 
+        "o"
+      ], 
+      "starts": "z"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino, sustantivo femenino Voz usada como complemento o en contraposición de fulano y mengano, en la misma acep. que éstos y siempre después del primero y antes o después del segundo."
+      ], 
+      "n_definitions": 1, 
+      "word": "zutano", 
+      "includes": [
+        "z", 
+        "u", 
+        "t", 
+        "a", 
+        "n", 
+        "o"
+      ], 
+      "starts": "z"
+    }
+  ]
+}

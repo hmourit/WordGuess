@@ -1,0 +1,381 @@
+{
+  "words": [
+    {
+      "definitions": [
+        "Sustantivo femenino PATOLOGÍA Coloración amarillenta exagerada de la piel y mucosas."
+      ], 
+      "n_definitions": 1, 
+      "word": "xantocromía", 
+      "includes": [
+        "x", 
+        "a", 
+        "n", 
+        "t", 
+        "o", 
+        "c", 
+        "r", 
+        "o", 
+        "m", 
+        "i", 
+        "a"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Pigmento amarillo de ciertas células vegetales."
+      ], 
+      "n_definitions": 1, 
+      "word": "xantofila", 
+      "includes": [
+        "x", 
+        "a", 
+        "n", 
+        "t", 
+        "o", 
+        "f", 
+        "i", 
+        "l", 
+        "a"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino PATOLOGÍA Depósito de colesterol que puede observarse en la piel, huesos y tendones, en forma de nódulos."
+      ], 
+      "n_definitions": 1, 
+      "word": "xantoma", 
+      "includes": [
+        "x", 
+        "a", 
+        "n", 
+        "t", 
+        "o", 
+        "m", 
+        "a"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo GEOLOGÍA [roca] Que presenta cristales irregulares, mal formados. xenofilia", 
+        "Sustantivo femenino Simpatía a los extranjeros."
+      ], 
+      "n_definitions": 2, 
+      "word": "xenoblástico", 
+      "includes": [
+        "x", 
+        "e", 
+        "n", 
+        "o", 
+        "b", 
+        "l", 
+        "a", 
+        "s", 
+        "t", 
+        "i", 
+        "c", 
+        "o"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Odio a los extranjeros."
+      ], 
+      "n_definitions": 1, 
+      "word": "xenofobia", 
+      "includes": [
+        "x", 
+        "e", 
+        "n", 
+        "o", 
+        "f", 
+        "o", 
+        "b", 
+        "i", 
+        "a"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Que siente xenofobia."
+      ], 
+      "n_definitions": 1, 
+      "word": "xenófobo", 
+      "includes": [
+        "x", 
+        "e", 
+        "n", 
+        "o", 
+        "f", 
+        "o", 
+        "b", 
+        "o"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino BIOLOGÍA  Fertilización cruzada."
+      ], 
+      "n_definitions": 1, 
+      "word": "xenogamia", 
+      "includes": [
+        "x", 
+        "e", 
+        "n", 
+        "o", 
+        "g", 
+        "a", 
+        "m", 
+        "i", 
+        "a"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Elemento químico del grupo de los gases nobles, incoloro, inodoro y más pesado que el aire; se usa para llenar bombillas y en fotoquímica. Su símbolo es Xe  o , su número atómico", 
+        "Y su peso atómico 131,3."
+      ], 
+      "n_definitions": 2, 
+      "word": "xenón", 
+      "includes": [
+        "x", 
+        "e", 
+        "n", 
+        "o", 
+        "n"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Copia fotográfica obtenida por medio de la xerografía; fotocopia."
+      ], 
+      "n_definitions": 1, 
+      "word": "xerocopia", 
+      "includes": [
+        "x", 
+        "e", 
+        "r", 
+        "o", 
+        "c", 
+        "o", 
+        "p", 
+        "i", 
+        "a"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo [planta] Que vive en un hábitat seco y presenta una serie de modificaciones como adaptación al mismo, por ejemplo, poder   almacenar agua en su parénquima."
+      ], 
+      "n_definitions": 1, 
+      "word": "xerófilo", 
+      "includes": [
+        "x", 
+        "e", 
+        "r", 
+        "o", 
+        "f", 
+        "i", 
+        "l", 
+        "o"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Desecación de la córnea del ojo, con pérdida de la visión."
+      ], 
+      "n_definitions": 1, 
+      "word": "xeroftalmia;", 
+      "includes": [
+        "x", 
+        "e", 
+        "r", 
+        "o", 
+        "f", 
+        "t", 
+        "a", 
+        "l", 
+        "m", 
+        "i", 
+        "a", 
+        ";"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Sistema electrostático, que se utiliza para imprimir en seco.", 
+        "Fotocopia obtenida por este procedimiento."
+      ], 
+      "n_definitions": 2, 
+      "word": "xerografía", 
+      "includes": [
+        "x", 
+        "e", 
+        "r", 
+        "o", 
+        "g", 
+        "r", 
+        "a", 
+        "f", 
+        "i", 
+        "a"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Ambiente climático típico de los desiertos."
+      ], 
+      "n_definitions": 1, 
+      "word": "xerosfera", 
+      "includes": [
+        "x", 
+        "e", 
+        "r", 
+        "o", 
+        "s", 
+        "f", 
+        "e", 
+        "r", 
+        "a"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Decimocuarta letra del alfabeto griego, equivalente a la x  del español."
+      ], 
+      "n_definitions": 1, 
+      "word": "xi", 
+      "includes": [
+        "x", 
+        "i"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo - sustantivo Cartílago en que termina el esternón."
+      ], 
+      "n_definitions": 1, 
+      "word": "xifoides", 
+      "includes": [
+        "x", 
+        "i", 
+        "f", 
+        "o", 
+        "i", 
+        "d", 
+        "e", 
+        "s"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo [insecto] Que roe la madera."
+      ], 
+      "n_definitions": 1, 
+      "word": "xilófago", 
+      "includes": [
+        "x", 
+        "i", 
+        "l", 
+        "o", 
+        "f", 
+        "a", 
+        "g", 
+        "o"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino MÚSICA Instrumento de percusión, compuesto de una serie de varillas de madera de diferente longitud, que se tocan con dos macillos de madera."
+      ], 
+      "n_definitions": 1, 
+      "word": "xilófono", 
+      "includes": [
+        "x", 
+        "i", 
+        "l", 
+        "o", 
+        "f", 
+        "o", 
+        "n", 
+        "o"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo femenino Arte de grabar en madera: ˜ a la fibra, la que las planchas están cortadas en sentido longitudinal o axial del tronco; ˜ a la testa, cuando están cortadas en sentido radial del tronco.", 
+        "Impresión tipográfica hecha con planchas de madera grabadas."
+      ], 
+      "n_definitions": 2, 
+      "word": "xilografía", 
+      "includes": [
+        "x", 
+        "i", 
+        "l", 
+        "o", 
+        "g", 
+        "r", 
+        "a", 
+        "f", 
+        "i", 
+        "a"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Adjetivo Relativo a la xilografía."
+      ], 
+      "n_definitions": 1, 
+      "word": "xilográfico", 
+      "includes": [
+        "x", 
+        "i", 
+        "l", 
+        "o", 
+        "g", 
+        "r", 
+        "a", 
+        "f", 
+        "i", 
+        "c", 
+        "o"
+      ], 
+      "starts": "x"
+    }, 
+    {
+      "definitions": [
+        "Sustantivo masculino Madera\tfosilizada\tcuyas moléculas\torgánicas\tse han sustituido por sílice que se ha dispuesto igual que aquellas, por lo que conserva su estructura."
+      ], 
+      "n_definitions": 1, 
+      "word": "xilópalo", 
+      "includes": [
+        "x", 
+        "i", 
+        "l", 
+        "o", 
+        "p", 
+        "a", 
+        "l", 
+        "o"
+      ], 
+      "starts": "x"
+    }
+  ]
+}
