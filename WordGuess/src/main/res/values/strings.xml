@@ -39,6 +39,7 @@
     <string name="word_name_json">word</string>
     <string name="definitions_json_array_name">definitions</string>
     <string name="send_button_text">Send</string>
+    <string name="next_button_text">Next</string>
 
 
     <string-array name="spanish_alphabet">

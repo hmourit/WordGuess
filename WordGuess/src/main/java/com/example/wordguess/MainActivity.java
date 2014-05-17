@@ -5,6 +5,7 @@ import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.os.CountDownTimer;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -20,16 +21,24 @@ public class MainActivity extends Activity {
     TextView tvDefinition;
     EditText etWord;
     Button butSend;
+    Button butNext;
+
+    // countdown
+    TextView tvCountdown;
+    long timeout = 60000l; // millis
+    long interval = 500l; // millis, with 1000 it's not precise
+    CountDownTimer countDownTimer;
 
     Resources res;
 
     Iterator<Integer> letterIds;
-    boolean debug = false;
+    boolean debugMode = false;
     String currentWord = "";
     int activeLetterId;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
@@ -39,8 +48,80 @@ public class MainActivity extends Activity {
         res = getResources();
 
         letterIds = Utils.getCycleIterator(getResources().obtainTypedArray(R.array.button_ids));
-        activeLetterId = letterIds.next();
-        loadWordAndDefinition((TextView) findViewById(activeLetterId));
+        nextWord();
+
+    }
+
+    @Override
+    protected void onPause() {
+
+        countDownTimer.cancel();
+        super.onPause();
+
+    }
+
+    @Override
+    protected void onResume() {
+
+        startCountdown(timeout);
+        super.onResume();
+
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.main, menu);
+        return true;
+
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
+        int id = item.getItemId();
+        if (id == R.id.action_settings) {
+            return true;
+        }
+        return super.onOptionsItemSelected(item);
+
+    }
+
+    /**
+     * Starts countdown.
+     *
+     * @param millisInFuture
+     */
+    private void startCountdown(long millisInFuture) {
+
+        countDownTimer = new CountDownTimer(millisInFuture, interval) {
+            public void onTick(long millisUntilFinished) {
+                updateCountdown(millisUntilFinished);
+            }
+
+            public void onFinish() {
+                // TODO: Game over screen.
+                updateCountdown(0l);
+            }
+        }.start();
+
+    }
+
+    /**
+     * Updates countdown.
+     */
+    private void updateCountdown(long millisUntilFinished) {
+
+        timeout = millisUntilFinished;
+        if (millisUntilFinished <= 0) {
+            tvCountdown.setText("0");
+        } else {
+            tvCountdown.setText(String.valueOf(timeout / 1000));
+        }
 
     }
 
@@ -48,9 +129,13 @@ public class MainActivity extends Activity {
      * Load UI elements.
      */
     private void loadUI() {
+
         tvDefinition = (TextView) findViewById(R.id.tv_definition);
         etWord = (EditText) findViewById(R.id.et_word);
         butSend = (Button) findViewById(R.id.but_send);
+        butNext = (Button) findViewById(R.id.but_next);
+        tvCountdown = (TextView) findViewById(R.id.tv_countdown);
+
     }
 
     /**
@@ -61,7 +146,7 @@ public class MainActivity extends Activity {
         etWord.setOnLongClickListener(new View.OnLongClickListener() {
             @Override
             public boolean onLongClick(View view) {
-                if (!debug) {
+                if (!debugMode) {
                     activateDebug();
                 } else {
                     deactivateDebug();
@@ -74,18 +159,35 @@ public class MainActivity extends Activity {
         butSend.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // checks introduced word and load next one
+                // checks introduced word and loads next one
                 TextView activeTextViewLetter = (TextView) findViewById(activeLetterId);
                 if (currentWord.equals(etWord.getText().toString().trim().toLowerCase())) {
                     activeTextViewLetter.setBackgroundColor(Color.GREEN);
                 } else {
                     activeTextViewLetter.setBackgroundColor(Color.RED);
                 }
-                etWord.setText("");
-                activeLetterId = letterIds.next();
-                loadWordAndDefinition((TextView) findViewById(activeLetterId));
+                nextWord();
             }
         });
+
+        butNext.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                nextWord();
+            }
+        });
+
+    }
+
+    /**
+     * Loads word for next letter and cleans etWord.
+     */
+    private void nextWord() {
+
+        etWord.setText("");
+        activeLetterId = letterIds.next();
+        loadWordAndDefinition((TextView) findViewById(activeLetterId));
+
     }
 
     /**
@@ -93,7 +195,6 @@ public class MainActivity extends Activity {
      */
     private void activateDebug() {
 
-        res = getResources();
         TypedArray buttonIds = res.obtainTypedArray(R.array.button_ids);
         for (int i = 0; i < buttonIds.length(); i++) {
             int butLetter = buttonIds.getResourceId(i, 0);
@@ -108,7 +209,7 @@ public class MainActivity extends Activity {
         if (!currentWord.equals("")) {
             etWord.setHint(currentWord);
         }
-        debug = true;
+        debugMode = true;
     }
 
     /**
@@ -116,7 +217,6 @@ public class MainActivity extends Activity {
      */
     private void deactivateDebug() {
 
-        res = getResources();
         TypedArray buttonIds = res.obtainTypedArray(R.array.button_ids);
         for (int i = 0; i < buttonIds.length(); i++) {
             int butLetter = buttonIds.getResourceId(i, 0);
@@ -124,44 +224,26 @@ public class MainActivity extends Activity {
         }
 
         etWord.setHint(R.string.word);
-        debug = false;
+        debugMode = false;
     }
 
     /**
      * Loads definition for a word starting with a letter.
      */
     private void loadWordAndDefinition(TextView textView) {
+
         String startsWith = textView.getText().toString().toLowerCase();
         Word w = DBAccess.getRWordStarting(startsWith, res);
         if (w != null) {
             currentWord = w.getName().toLowerCase();
             tvDefinition.setText(w.getRandomDefinition());
-            if (debug) {
+            if (debugMode) {
                 etWord.setHint(w.getName());
             }
         } else {
             // TODO: react to error
         }
-    }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.main, menu);
-        return true;
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-        if (id == R.id.action_settings) {
-            return true;
-        }
-        return super.onOptionsItemSelected(item);
     }
 
 }
