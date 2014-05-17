@@ -23,11 +23,16 @@ public class DBAccess {
 
     private static Random random = new Random();
 
-    public static Word getRWordStarting(String starts, Resources res){
+    public static Word getRWordStarting(String starts, Resources res) {
         String text = "";
         Word result_word = null;
         try {
-            String filename = starts + ".json";
+            String filename;
+            if (starts.equals("ñ")) {
+                filename = "nn.json";
+            } else {
+                filename = starts + ".json";
+            }
             InputStream inputStream = res.getAssets().open(filename);
             Log.d("BLA", inputStream.toString());
             text = fromInputStreamToString(inputStream);
@@ -41,18 +46,19 @@ public class DBAccess {
             JSONObject word = (JSONObject) words.get(index);
 
             String name = word.getString(res.getString(R.string.word_name_json));
+            String starts_with = word.getString(res.getString(R.string.word_starts_json));
 
-            JSONArray jdefinitions = word.getJSONArray(res.getString(R.string.definitions_json_array_name));
+            JSONArray jDefinitions = word.getJSONArray(res.getString(R.string.definitions_json_array_name));
             List<String> list = new ArrayList<String>();
-            for (int i=0; i<jdefinitions.length(); i++) {
-                list.add(jdefinitions.getString(i));
+            for (int i = 0; i < jDefinitions.length(); i++) {
+                list.add(jDefinitions.getString(i));
             }
 
             int n_def = list.size();
 
             String[] definitions = list.toArray(new String[n_def]);
 
-            result_word = new Word(name, definitions, n_def);
+            result_word = new Word(name, definitions, n_def, starts_with);
 
         } catch (JSONException e) {
             e.printStackTrace();

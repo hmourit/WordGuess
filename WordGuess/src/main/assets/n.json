@@ -2204,7 +2204,7 @@
         "i", 
         "d", 
         "e", 
-        "n", 
+        "e", 
         "o"
       ], 
       "starts": "n"
@@ -4577,7 +4577,7 @@
       "includes": [
         "n", 
         "i", 
-        "n", 
+        "i", 
         "a"
       ], 
       "starts": "n"
@@ -4593,7 +4593,7 @@
       "includes": [
         "n", 
         "i", 
-        "n", 
+        "i", 
         "a", 
         "t", 
         "o"
@@ -4609,7 +4609,7 @@
       "includes": [
         "n", 
         "i", 
-        "n", 
+        "i", 
         "e", 
         "r", 
         "a"
@@ -4626,7 +4626,7 @@
       "includes": [
         "n", 
         "i", 
-        "n", 
+        "i", 
         "e", 
         "r", 
         "i", 
@@ -4645,7 +4645,7 @@
       "includes": [
         "n", 
         "i", 
-        "n", 
+        "i", 
         "e", 
         "z"
       ], 
@@ -4668,7 +4668,7 @@
       "includes": [
         "n", 
         "i", 
-        "n", 
+        "i", 
         "o"
       ], 
       "starts": "n"
@@ -7851,231 +7851,6 @@
         "r", 
         "a", 
         "l"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Adjetivo (familiar) Pequeño. -", 
-        "Sustantivo (familiar) Niño pequeño."
-      ], 
-      "n_definitions": 2, 
-      "word": "ñajo", 
-      "includes": [
-        "n", 
-        "a", 
-        "j", 
-        "o"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Sustantivo masculino Planta dioscórea originaria de Asia, de tallos endebles, hojas grandes, flores pequeñas y verdosas y raíz tuberculosa comestible (Dioscorea batatas).", 
-        "Raíz de esta planta.", 
-        "CUBA. Persona inculta y torpe. -", 
-        "Adjetivo AMÉRICA (familiar) Muy grande."
-      ], 
-      "n_definitions": 4, 
-      "word": "ñame", 
-      "includes": [
-        "n", 
-        "a", 
-        "m", 
-        "e"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Sustantivo masculino Ave reiforme, parecida al avestruz, pero con tres dedos en cada pata (Rhea americana)."
-      ], 
-      "n_definitions": 1, 
-      "word": "ñandú", 
-      "includes": [
-        "n", 
-        "a", 
-        "n", 
-        "d", 
-        "u"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Sustantivo masculino Conjunto de cosas inútiles y ridículas.", 
-        "Naque."
-      ], 
-      "n_definitions": 2, 
-      "word": "ñaque", 
-      "includes": [
-        "n", 
-        "a", 
-        "q", 
-        "u", 
-        "e"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Sustantivo masculino (familiar) Sujeto o cosa muy despreciable.", 
-        "LA MANCHA. Cosa digna de estima. ñoclo", 
-        "Sustantivo masculino Especie de melindre de harina, azúcar, huevos, vino y anís."
-      ], 
-      "n_definitions": 3, 
-      "word": "ñiquiñaque", 
-      "includes": [
-        "n", 
-        "i", 
-        "q", 
-        "u", 
-        "i", 
-        "n", 
-        "a", 
-        "q", 
-        "u", 
-        "e"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Adjetivo VENEZUELA [ganado] Gacho de una oreja."
-      ], 
-      "n_definitions": 1, 
-      "word": "ñoclo", 
-      "includes": [
-        "n", 
-        "o", 
-        "c", 
-        "l", 
-        "o"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Sustantivo femenino Acción o dicho propio de persona ñoña."
-      ], 
-      "n_definitions": 1, 
-      "word": "ñoñería", 
-      "includes": [
-        "n", 
-        "o", 
-        "n", 
-        "e", 
-        "r", 
-        "i", 
-        "a"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Sustantivo femenino Calidad de ñoño.", 
-        "Ñoñería."
-      ], 
-      "n_definitions": 2, 
-      "word": "ñoñez", 
-      "includes": [
-        "n", 
-        "o", 
-        "n", 
-        "e", 
-        "z"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Adjetivo - sustantivo (familiar) [pers.] Sumamente apocado y quejumbroso.", 
-        "[cosa] Soso, de poca sustancia. -", 
-        "Sustantivo masculino CANARIAS (familiar) Dedo del pie. -", 
-        "Adjetivo - sustantivo AMÉRICA Viejo, chocho.", 
-        "PERÚ, PUERTO RICO, REPÚBLICA DOMINICANA Engreído, inclinado a los mimos y lagoterías."
-      ], 
-      "n_definitions": 5, 
-      "word": "ñoño", 
-      "includes": [
-        "n", 
-        "o", 
-        "n", 
-        "o"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Sustantivo masculino plural Pasta italiana preparada con patatas, harina de trigo, mantequilla, leche, huevo y queso rallado, dividida en trocitos, y que se cocina con distintos ingredientes. -", 
-        "sustantivo masculino Panecillo de masa de maíz, de arroz o de patata."
-      ], 
-      "n_definitions": 2, 
-      "word": "ñoqui", 
-      "includes": [
-        "n", 
-        "o", 
-        "q", 
-        "u", 
-        "i"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Sustantivo femenino Pimiento muy picante que se utiliza seco para condimentar."
-      ], 
-      "n_definitions": 1, 
-      "word": "ñora", 
-      "includes": [
-        "n", 
-        "o", 
-        "r", 
-        "a"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Sustantivo femenino MURCIA Noria."
-      ], 
-      "n_definitions": 1, 
-      "word": "ñora", 
-      "includes": [
-        "n", 
-        "o", 
-        "r", 
-        "a"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Sustantivo femenino (familiar) Excremento."
-      ], 
-      "n_definitions": 1, 
-      "word": "ñórdiga", 
-      "includes": [
-        "n", 
-        "o", 
-        "r", 
-        "d", 
-        "i", 
-        "g", 
-        "a"
-      ], 
-      "starts": "n"
-    }, 
-    {
-      "definitions": [
-        "Sustantivo masculino Antílope propio del África del sur (Connochætes taurinus).   -o", 
-        "Sufijo átono de nombres de acción derivados de verbos. (especialmente) acción momentánea; a veces designa los derechos pagados por la acción de que se trata."
-      ], 
-      "n_definitions": 2, 
-      "word": "ñu", 
-      "includes": [
-        "n", 
-        "u"
       ], 
       "starts": "n"
     }
