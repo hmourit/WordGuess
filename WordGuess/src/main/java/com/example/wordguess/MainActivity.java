@@ -105,6 +105,7 @@ public class MainActivity extends Activity {
             public void onClick(View view) {
                 // checks introduced word and load next one
                 TextView activeTextViewLetter = (TextView) findViewById(activeLetterId);
+                activeTextViewLetter.setTextColor(Color.BLACK);
                 if (currentWord.getName().toLowerCase().equals(etWord.getText().toString().trim().toLowerCase())) {
                     activeTextViewLetter.setBackgroundColor(Color.GREEN);
                     wordState.put(currentWord.getStarts_with(), new Pair<>(currentWord, true));
@@ -174,6 +175,7 @@ public class MainActivity extends Activity {
         } else {
             // TODO: react to error
         }*/
+        textView.setTextColor(Color.rgb(59,156,171));
         String startsWith = textView.getText().toString().toLowerCase();
         Pair<Word, Boolean> wordDef = wordState.get(startsWith);
         currentWord = wordDef.first;
