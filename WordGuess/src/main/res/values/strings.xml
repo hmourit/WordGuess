@@ -37,6 +37,7 @@
     <string name="write_word">Write the word:</string>
     <string name="words_json_array_name">words</string>
     <string name="word_name_json">word</string>
+    <string name="word_starts_json">starts</string>
     <string name="definitions_json_array_name">definitions</string>
     <string name="send_button_text">Send</string>
 
@@ -71,4 +72,7 @@
         <item>@string/Z</item>
     </string-array>
 
+    <string name="state_map">wordMap</string>
+    <string name="activeLetter">activeLetter</string>
+    <string name="debug">debug</string>
 </resources>
