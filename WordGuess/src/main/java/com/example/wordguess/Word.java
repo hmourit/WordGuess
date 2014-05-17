@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Arrays;
 import java.util.Random;
 
-public class Word{
+public class Word implements Serializable{
     private String name;
     private String starts_with;
     private String[] definitions;

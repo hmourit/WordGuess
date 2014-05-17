@@ -16,6 +16,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -37,9 +38,9 @@ public class MainActivity extends Activity {
     ProgressDialog  progress;
     CreateGameAsync task;
 
-    //Map saving for each letter a Word and a Boolean indicating whether the word has been guessed(true) or not(false).
-    //If the word has never been accessed then this Boolean would be null.
-    HashMap<String,Pair<Word, Boolean>> wordState;
+    //Map saving for each letter a Word and an Integer indicating whether the word has been guessed(1) or not(0).
+    //If the word has never been accessed then this int would be 2.
+    HashMap<String,Pair<Word, Integer>> wordState;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -108,10 +109,10 @@ public class MainActivity extends Activity {
                 activeTextViewLetter.setTextColor(Color.BLACK);
                 if (currentWord.getName().toLowerCase().equals(etWord.getText().toString().trim().toLowerCase())) {
                     activeTextViewLetter.setBackgroundColor(Color.GREEN);
-                    wordState.put(currentWord.getStarts_with(), new Pair<>(currentWord, true));
+                    wordState.put(currentWord.getStarts_with(), new Pair<>(currentWord, 1));
                 } else {
                     activeTextViewLetter.setBackgroundColor(Color.RED);
-                    wordState.put(currentWord.getStarts_with(), new Pair<>(currentWord, false));
+                    wordState.put(currentWord.getStarts_with(), new Pair<>(currentWord, 0));
                 }
                 etWord.setText("");
                 activeLetterId = letterIds.next();
@@ -177,7 +178,7 @@ public class MainActivity extends Activity {
         }*/
         textView.setTextColor(Color.rgb(59,156,171));
         String startsWith = textView.getText().toString().toLowerCase();
-        Pair<Word, Boolean> wordDef = wordState.get(startsWith);
+        Pair<Word, Integer> wordDef = wordState.get(startsWith);
         currentWord = wordDef.first;
         tvDefinition.setText(wordDef.first.getActive_def());
         if (debug) {
@@ -188,7 +189,7 @@ public class MainActivity extends Activity {
     @Override
     protected void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
-        outState.putSerializable(res.getString(R.string.state_map),wordState);
+        outState.putSerializable(res.getString(R.string.state_map), wordState);
         outState.putInt(res.getString(R.string.activeLetter), activeLetterId);
         outState.putBoolean(res.getString(R.string.debug), debug);
     }
@@ -203,15 +204,13 @@ public class MainActivity extends Activity {
         for (int i = 0; i < buttonIds.length(); i++) {
             int butLetter = buttonIds.getResourceId(i, 0);
             TextView tv = (TextView) findViewById(butLetter);
-            Pair<Word, Boolean> content = wordState.get(tv.getText().toString().toLowerCase());
-            if (content.second != null){
-                if (content.second.booleanValue()){
-                    tv.setBackgroundColor(Color.GREEN);
-                }else{
-                    tv.setBackgroundColor(Color.RED);
-                }
+            Pair<Word, Integer> content = wordState.get(tv.getText().toString().toLowerCase());
+            switch(content.second){
+                case 0: tv.setBackgroundColor(Color.RED);
+                        break;
+                case 1: tv.setBackgroundColor(Color.GREEN);
+                        break;
             }
-
         }
     }
 
@@ -256,7 +255,7 @@ public class MainActivity extends Activity {
                 Word w = DBAccess.getRWordStarting(letter, res);
                 w.setActive_def();
                 if(w != null){
-                    wordState.put(letter, new Pair<Word,Boolean>(w, null));
+                    wordState.put(letter, new Pair<Word,Integer>(w, 2));
                 }else{
                     // TODO: react to error
                 }
