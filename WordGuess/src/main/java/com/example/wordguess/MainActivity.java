@@ -174,10 +174,17 @@ public class MainActivity extends Activity {
     private void updateCountdown(long millisUntilFinished) {
 
         timeout = millisUntilFinished;
-        if (millisUntilFinished <= 0) {
-            tvCountdown.setText("0");
-        } else {
+        if (millisUntilFinished <= 10000l) {
+            tvCountdown.setTextColor(Color.RED);
+        }
+        if (millisUntilFinished > 0) {
             tvCountdown.setText(String.valueOf(timeout / 1000));
+        } else {
+            tvCountdown.setText("0");
+            tvDefinition.setText("");
+            butSend.setEnabled(false);
+            butNext.setEnabled(false);
+            etWord.setEnabled(false);
         }
 
     }
