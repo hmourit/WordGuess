@@ -4,45 +4,45 @@ import java.io.Serializable;
 import java.util.Arrays;
 import java.util.Random;
 
-public class Word implements Serializable{
+public class Word implements Serializable {
     private String name;
-    private String starts_with;
+    private String startsWith;
     private String[] definitions;
-    private int n_definitions;
+    private int nDefinitions;
     private Random random;
-    private String active_def;
+    private String activeDef;
 
-    public Word(String name, String[] definitions, int n_definitions, String starts_with) {
+    public Word(String name, String[] definitions, int nDefinitions, String startsWith) {
         this.name = name;
         this.definitions = definitions;
-        this.n_definitions = n_definitions;
+        this.nDefinitions = nDefinitions;
         this.random = new Random();
-        this.starts_with = starts_with;
+        this.startsWith = startsWith;
     }
 
     public String getName() {
         return name;
     }
 
-    public String getStarts_with(){
-        return starts_with;
+    public String getStartsWith() {
+        return startsWith;
     }
 
-    public String getActive_def(){
-        return active_def;
+    public String getActiveDef() {
+        return activeDef;
     }
 
-    public void setActive_def(){
+    public void setActiveDef() {
         String result;
-        if(this.n_definitions == 1){
+        if (this.nDefinitions == 1) {
             result = this.definitions[0];
-        }else{
-            int index = random.nextInt(this.n_definitions);
+        } else {
+            int index = random.nextInt(this.nDefinitions);
 
             result = this.definitions[index];
         }
 
-        this.active_def = result;
+        this.activeDef = result;
     }
 
     @Override
@@ -52,11 +52,11 @@ public class Word implements Serializable{
 
         Word word = (Word) o;
 
-        if (n_definitions != word.n_definitions) return false;
-        if (!active_def.equals(word.active_def)) return false;
+        if (nDefinitions != word.nDefinitions) return false;
+        if (!activeDef.equals(word.activeDef)) return false;
         if (!Arrays.equals(definitions, word.definitions)) return false;
         if (!name.equals(word.name)) return false;
-        if (!starts_with.equals(word.starts_with)) return false;
+        if (!startsWith.equals(word.startsWith)) return false;
 
         return true;
     }
@@ -64,10 +64,10 @@ public class Word implements Serializable{
     @Override
     public int hashCode() {
         int result = name.hashCode();
-        result = 31 * result + starts_with.hashCode();
+        result = 31 * result + startsWith.hashCode();
         result = 31 * result + Arrays.hashCode(definitions);
-        result = 31 * result + n_definitions;
-        result = 31 * result + active_def.hashCode();
+        result = 31 * result + nDefinitions;
+        result = 31 * result + activeDef.hashCode();
         return result;
     }
 

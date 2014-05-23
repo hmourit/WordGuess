@@ -40,6 +40,7 @@
     <string name="word_starts_json">starts</string>
     <string name="definitions_json_array_name">definitions</string>
     <string name="send_button_text">Send</string>
+    <string name="next_button_text">Next</string>
 
 
     <string-array name="spanish_alphabet">
@@ -75,4 +76,5 @@
     <string name="state_map">wordMap</string>
     <string name="activeLetter">activeLetter</string>
     <string name="debug">debug</string>
+    <string name="timer">timer</string>
 </resources>
