@@ -32,15 +32,15 @@
     <string name="X">X</string>
     <string name="Y">Y</string>
     <string name="Z">Z</string>
-    <string name="word">Word</string>
-    <string name="definition">Definition:</string>
-    <string name="write_word">Write the word:</string>
+    <string name="word">Palabra</string>
+    <string name="definition">Definición:</string>
+    <string name="write_word">Respuesta:</string>
     <string name="words_json_array_name">words</string>
     <string name="word_name_json">word</string>
     <string name="word_starts_json">starts</string>
     <string name="definitions_json_array_name">definitions</string>
-    <string name="send_button_text">Send</string>
-    <string name="next_button_text">Next</string>
+    <string name="send_button_text">Enviar</string>
+    <string name="next_button_text">Siguiente</string>
 
 
     <string-array name="spanish_alphabet">
@@ -87,4 +87,6 @@
     <string name="pref_precharged_words_key">precharged_words</string>
     <string name="pref_precharged_words_summary">Número de palabras cargadas antes de comenzar la partida</string>
     <string name="pref_precharged_words_default">1</string>
+    <string name="creating_game">Creando partida</string>
+    <string name="looking_for_word">Buscando palabra que empiece por </string>
 </resources>

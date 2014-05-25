@@ -18,7 +18,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.util.HashMap;
 import java.util.Iterator;
@@ -369,8 +368,8 @@ public class MainActivity extends Activity {
         @Override
         protected void onPreExecute() {
             progress.setMax(wordBuffer);
-            progress.setMessage("Creando partida");
-            progress.setTitle("WordGuess");
+            progress.setMessage(getString(R.string.creating_game));
+            progress.setTitle(getString(R.string.app_name));
             progress.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
             progress.setCancelable(false);
             progress.show();
@@ -392,7 +391,8 @@ public class MainActivity extends Activity {
                 } else {
                     // TODO: react to error
                 }
-                publishProgress("Creando palabra empezando por: " + letter, String.valueOf(i + 1));
+                publishProgress(getString(R.string.looking_for_word) + letter.toUpperCase(),
+                        String.valueOf(i + 1));
             }
             return null;
         }
@@ -406,7 +406,6 @@ public class MainActivity extends Activity {
             if (Integer.parseInt(values[1]) == wordBuffer) {
                 loadWordAndDefinition((TextView) findViewById(activeLetterId));
                 startCountdown(remainingTime);
-                Toast.makeText(getApplicationContext(), "Now!", Toast.LENGTH_LONG).show();
             }
         }
 
