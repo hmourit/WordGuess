@@ -130,7 +130,7 @@ public class MainActivity extends Activity {
     private void createNewGame() {
         activeLetterId = letterIds.next();
         progress = new ProgressDialog(this);
-        task = new CreateGameAsync();
+        task = new CreateGameAsync(3);
         task.execute();
     }
 
@@ -305,6 +305,7 @@ public class MainActivity extends Activity {
         textView.setTypeface(textView.getTypeface(), Typeface.BOLD);
         textView.setTextColor(Color.rgb(4, 189, 218));
         String startsWith = textView.getText().toString().toLowerCase();
+        while(!wordState.containsKey(startsWith)){}
         Pair<Word, Integer> wordDef = wordState.get(startsWith);
         currentWord = wordDef.getFirst();
         tvDefinition.setText(wordDef.getFirst().getActiveDef());
@@ -337,9 +338,18 @@ public class MainActivity extends Activity {
 
     private class CreateGameAsync extends AsyncTask<Void, String, Void> {
 
+        private int wordBuffer = 1;
+
+        CreateGameAsync(int wb){
+            if(wb > 0 || wb <= getResources().getStringArray(R.array.spanish_alphabet).length){
+                wordBuffer = wb;
+            }
+        }
+
+
         @Override
         protected void onPreExecute() {
-            progress.setMax(res.getIntArray(R.array.spanish_alphabet).length);
+            progress.setMax(wordBuffer);
             progress.setMessage("Creando partida");
             progress.setTitle("WordGuess");
             progress.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
@@ -352,6 +362,9 @@ public class MainActivity extends Activity {
             String[] letters = res.getStringArray(R.array.spanish_alphabet);
 
             for (int i = 0; i < letters.length; i++) {
+                if(i == wordBuffer){
+                    progress.dismiss();
+                }
                 String letter = letters[i].toLowerCase();
                 Word w = DBAccess.getRWordStarting(letter, res);
                 if (w != null) {
@@ -367,15 +380,21 @@ public class MainActivity extends Activity {
 
         @Override
         protected void onProgressUpdate(String... values) {
-            progress.setProgress(Integer.parseInt(values[1]));
-            progress.setMessage(values[0]);
+            if(progress !=null){
+                progress.setProgress(Integer.parseInt(values[1]));
+                progress.setMessage(values[0]);
+            }
+            if(Integer.parseInt(values[1]) == wordBuffer){
+                loadWordAndDefinition((TextView) findViewById(activeLetterId));
+                startCountdown(timeout);
+            }
         }
 
         @Override
         protected void onPostExecute(Void aVoid) {
-            progress.cancel();
-            loadWordAndDefinition((TextView) findViewById(activeLetterId));
-            startCountdown(timeout);
+            if(progress != null){
+                progress.cancel();
+            }
         }
     }
 
