@@ -76,4 +76,5 @@
     <string name="state_map">wordMap</string>
     <string name="activeLetter">activeLetter</string>
     <string name="debug">debug</string>
+    <string name="timer">timer</string>
 </resources>

@@ -5,10 +5,10 @@ import android.app.ProgressDialog;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.graphics.Color;
+import android.graphics.Typeface;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.CountDownTimer;
-import android.util.Pair;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -225,7 +225,6 @@ public class MainActivity extends Activity {
             public void onClick(View view) {
                 // checks introduced word and loads next one
                 TextView activeTextViewLetter = (TextView) findViewById(activeLetterId);
-                activeTextViewLetter.setTextColor(Color.BLACK);
                 if (currentWord.getName().toLowerCase().equals(etWord.getText().toString().trim().toLowerCase())) {
                     activeTextViewLetter.setBackgroundColor(Color.GREEN);
                     wordState.put(currentWord.getStartsWith(), new Pair<>(currentWord, 1));
@@ -250,7 +249,10 @@ public class MainActivity extends Activity {
      * Loads word for next letter and cleans etWord.
      */
     private void nextWord() {
-
+        TextView activeTextViewLetter = (TextView) findViewById(activeLetterId);
+        activeTextViewLetter.setTextAppearance(this.getApplicationContext(), android.R.style.TextAppearance_Medium);
+        activeTextViewLetter.setTypeface(activeTextViewLetter.getTypeface(), Typeface.BOLD);
+        activeTextViewLetter.setTextColor(Color.BLACK);
         etWord.setText("");
         activeLetterId = letterIds.next();
         loadWordAndDefinition((TextView) findViewById(activeLetterId));
@@ -299,13 +301,15 @@ public class MainActivity extends Activity {
      * Loads definition for a word starting with a letter.
      */
     private void loadWordAndDefinition(TextView textView) {
-        textView.setTextColor(Color.rgb(59, 156, 171));
+        textView.setTextAppearance(this.getApplicationContext(),android.R.style.TextAppearance_Large);
+        textView.setTypeface(textView.getTypeface(), Typeface.BOLD);
+        textView.setTextColor(Color.rgb(4, 189, 218));
         String startsWith = textView.getText().toString().toLowerCase();
         Pair<Word, Integer> wordDef = wordState.get(startsWith);
-        currentWord = wordDef.first;
-        tvDefinition.setText(wordDef.first.getActiveDef());
+        currentWord = wordDef.getFirst();
+        tvDefinition.setText(wordDef.getFirst().getActiveDef());
         if (debugMode) {
-            etWord.setHint(wordDef.first.getName());
+            etWord.setHint(wordDef.getFirst().getName());
         }
     }
 
@@ -320,7 +324,7 @@ public class MainActivity extends Activity {
             int butLetter = buttonIds.getResourceId(i, 0);
             TextView tv = (TextView) findViewById(butLetter);
             Pair<Word, Integer> content = wordState.get(tv.getText().toString().toLowerCase());
-            switch (content.second) {
+            switch (content.getSecond()) {
                 case 0:
                     tv.setBackgroundColor(Color.RED);
                     break;
