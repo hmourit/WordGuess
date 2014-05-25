@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="@string/pref_timeout_key"
+        android:title="@string/pref_timeout_title"
+        android:summary="@string/pref_timeout_summary"
+        android:defaultValue="@string/pref_timeout_default_str"
+        android:numeric="integer" />
+    <EditTextPreference
+        android:key="@string/pref_precharged_words_key"
+        android:title="@string/pref_precharged_words_title"
+        android:summary="@string/pref_precharged_words_summary"
+        android:defaultValue="@string/pref_precharged_words_default"
+        android:numeric="integer" />
+
+</PreferenceScreen>

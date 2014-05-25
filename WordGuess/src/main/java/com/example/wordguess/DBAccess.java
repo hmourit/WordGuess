@@ -1,7 +1,6 @@
 package com.example.wordguess;
 
 import android.content.res.Resources;
-import android.util.Log;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -34,7 +33,6 @@ public class DBAccess {
                 filename = starts + ".json";
             }
             InputStream inputStream = res.getAssets().open(filename);
-            Log.d("BLA", inputStream.toString());
             text = fromInputStreamToString(inputStream);
         } catch (IOException e) {
             e.printStackTrace();

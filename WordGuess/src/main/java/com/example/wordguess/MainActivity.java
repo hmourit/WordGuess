@@ -2,6 +2,8 @@ package com.example.wordguess;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
+import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.graphics.Color;
@@ -9,12 +11,14 @@ import android.graphics.Typeface;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.CountDownTimer;
+import android.preference.PreferenceManager;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.HashMap;
 import java.util.Iterator;
@@ -29,7 +33,7 @@ public class MainActivity extends Activity {
 
     // countdown
     TextView tvCountdown;
-    long timeout = 60000l; // millis
+    long remainingTime; // millis
     long interval = 500l; // millis, with 1000 it's not precise
     CountDownTimer countDownTimer;
     boolean countDownPaused = false;
@@ -87,7 +91,7 @@ public class MainActivity extends Activity {
     @Override
     protected void onResume() {
         if (countDownPaused) {
-            startCountdown(timeout);
+            startCountdown(remainingTime);
             countDownPaused = false;
         }
         super.onResume();
@@ -111,6 +115,7 @@ public class MainActivity extends Activity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
         if (id == R.id.action_settings) {
+            startActivity(new Intent(this, SettingsActivity.class));
             return true;
         }
         return super.onOptionsItemSelected(item);
@@ -120,18 +125,28 @@ public class MainActivity extends Activity {
     @Override
     protected void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
-        outState.putSerializable(res.getString(R.string.state_map), wordState);
-        outState.putInt(res.getString(R.string.activeLetter), activeLetterId);
-        outState.putBoolean(res.getString(R.string.debug), debugMode);
+        outState.putSerializable(getString(R.string.state_map), wordState);
+        outState.putInt(getString(R.string.activeLetter), activeLetterId);
+        outState.putBoolean(getString(R.string.debug), debugMode);
+        outState.putLong(getString(R.string.remaining_key), remainingTime);
     }
 
     /**
      * Retrieves words for a new game.
      */
     private void createNewGame() {
+        SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
+        String timeoutStr = sharedPreferences.getString(
+                getString(R.string.pref_timeout_key),
+                getString(R.string.pref_timeout_default_str));
+        remainingTime = Long.valueOf(timeoutStr) * 1000;
+
         activeLetterId = letterIds.next();
         progress = new ProgressDialog(this);
-        task = new CreateGameAsync(3);
+        String prechargedWordsStr = sharedPreferences.getString(
+                getString(R.string.pref_precharged_words_key),
+                getString(R.string.pref_precharged_words_default));
+        task = new CreateGameAsync(Integer.valueOf(prechargedWordsStr));
         task.execute();
     }
 
@@ -145,8 +160,11 @@ public class MainActivity extends Activity {
                 .getSerializable(res.getString(R.string.state_map));
         activeLetterId = savedInstanceState.getInt(res.getString(R.string.activeLetter));
         debugMode = savedInstanceState.getBoolean(res.getString(R.string.debug));
+        remainingTime = savedInstanceState.getLong(getString(R.string.remaining_key));
         setBackgroundColors();
         loadWordAndDefinition((TextView) findViewById(activeLetterId));
+        startCountdown(remainingTime);
+
     }
 
     /**
@@ -174,12 +192,12 @@ public class MainActivity extends Activity {
      */
     private void updateCountdown(long millisUntilFinished) {
 
-        timeout = millisUntilFinished;
+        remainingTime = millisUntilFinished;
         if (millisUntilFinished <= 10000l) {
             tvCountdown.setTextColor(Color.RED);
         }
         if (millisUntilFinished > 0) {
-            tvCountdown.setText(String.valueOf(timeout / 1000));
+            tvCountdown.setText(String.valueOf(remainingTime / 1000));
         } else {
             tvCountdown.setText("0");
             tvDefinition.setText("");
@@ -302,11 +320,12 @@ public class MainActivity extends Activity {
      * Loads definition for a word starting with a letter.
      */
     private void loadWordAndDefinition(TextView textView) {
-        textView.setTextAppearance(this.getApplicationContext(),android.R.style.TextAppearance_Large);
+        textView.setTextAppearance(getApplicationContext(), android.R.style.TextAppearance_Large);
         textView.setTypeface(textView.getTypeface(), Typeface.BOLD);
         textView.setTextColor(Color.rgb(4, 189, 218));
         String startsWith = textView.getText().toString().toLowerCase();
-        while(!wordState.containsKey(startsWith)){}
+        while (!wordState.containsKey(startsWith)) {
+        }
         Pair<Word, Integer> wordDef = wordState.get(startsWith);
         currentWord = wordDef.getFirst();
         tvDefinition.setText(wordDef.getFirst().getActiveDef());
@@ -319,7 +338,6 @@ public class MainActivity extends Activity {
      * Sets the textview background color to RED if a word was guessed wrongly or to GREEN otherwise.
      * Called after restoring the state of the application.
      */
-
     private void setBackgroundColors() {
         TypedArray buttonIds = res.obtainTypedArray(R.array.button_ids);
         for (int i = 0; i < buttonIds.length(); i++) {
@@ -341,8 +359,8 @@ public class MainActivity extends Activity {
 
         private int wordBuffer = 1;
 
-        CreateGameAsync(int wb){
-            if(wb > 0 || wb <= getResources().getStringArray(R.array.spanish_alphabet).length){
+        CreateGameAsync(int wb) {
+            if (wb > 0 || wb <= getResources().getStringArray(R.array.spanish_alphabet).length) {
                 wordBuffer = wb;
             }
         }
@@ -363,7 +381,7 @@ public class MainActivity extends Activity {
             String[] letters = res.getStringArray(R.array.spanish_alphabet);
 
             for (int i = 0; i < letters.length; i++) {
-                if(i == wordBuffer){
+                if (i == wordBuffer) {
                     progress.dismiss();
                 }
                 String letter = letters[i].toLowerCase();
@@ -381,19 +399,20 @@ public class MainActivity extends Activity {
 
         @Override
         protected void onProgressUpdate(String... values) {
-            if(progress !=null){
+            if (progress != null) {
                 progress.setProgress(Integer.parseInt(values[1]));
                 progress.setMessage(values[0]);
             }
-            if(Integer.parseInt(values[1]) == wordBuffer){
+            if (Integer.parseInt(values[1]) == wordBuffer) {
                 loadWordAndDefinition((TextView) findViewById(activeLetterId));
-                startCountdown(timeout);
+                startCountdown(remainingTime);
+                Toast.makeText(getApplicationContext(), "Now!", Toast.LENGTH_LONG).show();
             }
         }
 
         @Override
         protected void onPostExecute(Void aVoid) {
-            if(progress != null){
+            if (progress != null) {
                 progress.cancel();
             }
         }

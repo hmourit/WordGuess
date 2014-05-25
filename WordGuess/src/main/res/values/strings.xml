@@ -77,4 +77,14 @@
     <string name="activeLetter">activeLetter</string>
     <string name="debug">debug</string>
     <string name="timer">timer</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="pref_timeout_key">timeout</string>
+    <string name="pref_timeout_title">Tiempo de juego</string>
+    <string name="pref_timeout_summary">Tiempo disponible para acertar todas las palabras.</string>
+    <string name="remaining_key">remaining_time</string>
+    <string name="pref_timeout_default_str">60</string>
+    <string name="pref_precharged_words_title">Palabras precargadas</string>
+    <string name="pref_precharged_words_key">precharged_words</string>
+    <string name="pref_precharged_words_summary">Número de palabras cargadas antes de comenzar la partida</string>
+    <string name="pref_precharged_words_default">1</string>
 </resources>
