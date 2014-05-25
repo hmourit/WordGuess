@@ -90,5 +90,17 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="new_game">Partida Nueva</string>
     <string name="continue_game">Continuar</string>
+    <string name="save_word_name_json">word_name</string>
+    <string name="save_act_definition_json">definition</string>
+    <string name="save_starts_word_json">starts</string>
+    <string name="action_save">Guardar y Salir</string>
+    <string name="save_file">save_file</string>
+    <string name="save_pair_json_first">word</string>
+    <string name="save_pair_json_second">state</string>
+    <string name="save_json_state_map">stateMap</string>
+    <string name="save_time_json">remainingTime</string>
+    <string name="save_active_word">activeWord</string>
+    <string name="continue_game_intent_action">android.wordguess.action.CONTINUE_GAME</string>
+    <string name="new_game_intent_action">android.wordguess.action.NEW_GAME</string>
 
 </resources>

@@ -33,7 +33,7 @@ public class DBAccess {
                 filename = starts + ".json";
             }
             InputStream inputStream = res.getAssets().open(filename);
-            text = fromInputStreamToString(inputStream);
+            text = Utils.fromInputStreamToString(inputStream);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -65,24 +65,4 @@ public class DBAccess {
         return result_word;
     }
 
-    /**
-     * read a file and converting it to String using StringWriter
-     */
-    private static String fromInputStreamToString(InputStream inputStream) throws IOException {
-
-        char[] buff = new char[1024];
-        Writer stringWriter = new StringWriter();
-
-        try {
-            Reader bReader = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"));
-            int n;
-            while ((n = bReader.read(buff)) != -1) {
-                stringWriter.write(buff, 0, n);
-            }
-        } finally {
-            stringWriter.close();
-            inputStream.close();
-        }
-        return stringWriter.toString();
-    }
 }

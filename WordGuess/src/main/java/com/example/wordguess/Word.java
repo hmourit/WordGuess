@@ -1,5 +1,10 @@
 package com.example.wordguess;
 
+import android.content.res.Resources;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.io.Serializable;
 import java.util.Arrays;
 import java.util.Random;
@@ -18,6 +23,17 @@ public class Word implements Serializable {
         this.nDefinitions = nDefinitions;
         this.random = new Random();
         this.startsWith = startsWith;
+    }
+
+    public Word(JSONObject obj, Resources res){
+        try {
+            this.name = obj.getString(res.getString(R.string.save_word_name_json));
+            this.activeDef = obj.getString(res.getString(R.string.save_act_definition_json));
+            this.startsWith = obj.getString(res.getString(R.string.save_starts_word_json));
+            this.random = new Random();
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
     }
 
     public String getName() {
@@ -43,6 +59,18 @@ public class Word implements Serializable {
         }
 
         this.activeDef = result;
+    }
+
+    public JSONObject toJsonObject(Resources res){
+        JSONObject obj = new JSONObject();
+        try {
+            obj.put(res.getString(R.string.save_word_name_json), this.name);
+            obj.put(res.getString(R.string.save_act_definition_json), this.activeDef);
+            obj.put(res.getString(R.string.save_starts_word_json), this.startsWith);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        return obj;
     }
 
     @Override
