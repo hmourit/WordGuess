@@ -78,6 +78,7 @@ public class MainActivity extends Activity {
         if (countDownTimer != null) {
             countDownTimer.cancel();
             countDownTimer = null;
+            countDownPaused = true;
         }
         super.onPause();
 
