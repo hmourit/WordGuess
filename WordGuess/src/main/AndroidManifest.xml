@@ -9,8 +9,8 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.wordguess.GameActivity"
-            android:label="@string/app_name" >
-        </activity>
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"></activity>
         <activity
             android:name="com.example.wordguess.SettingsActivity"
             android:label="@string/title_activity_settings" />
