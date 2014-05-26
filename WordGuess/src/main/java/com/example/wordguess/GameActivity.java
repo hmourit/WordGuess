@@ -29,7 +29,6 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -81,13 +80,13 @@ public class GameActivity extends Activity {
         if (savedInstanceState != null) {
             restorePreviousState(savedInstanceState);
         } else {
-            Intent sender=getIntent();
-            if(sender != null && sender.getAction().equals(res.getString(R.string.continue_game_intent_action))){
+            Intent sender = getIntent();
+            if (sender != null && sender.getAction().equals(res.getString(R.string.continue_game_intent_action))) {
                 restoreGame();
                 setBackgroundColors();
                 loadWordAndDefinition((TextView) findViewById(activeLetterId));
                 startCountdown(remainingTime);
-            }else{
+            } else {
                 createNewGame();
             }
         }
@@ -135,7 +134,7 @@ public class GameActivity extends Activity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
         if (id == R.id.action_save) {
-            while(wordState.size() < res.getStringArray(R.array.spanish_alphabet).length){
+            while (wordState.size() < res.getStringArray(R.array.spanish_alphabet).length) {
                 //Wait for all words to load
             }
             JSONObject obj = new JSONObject();
@@ -143,11 +142,11 @@ public class GameActivity extends Activity {
                 String[] keys = new String[res.getStringArray(R.array.spanish_alphabet).length];
                 wordState.keySet().toArray(keys);
                 JSONArray words = new JSONArray();
-                for(String key: keys){
+                for (String key : keys) {
                     Pair<Word, Integer> p = wordState.get(key);
                     JSONObject pair = new JSONObject();
                     pair.put(res.getString(R.string.save_pair_json_first), p.getFirst().toJsonObject(res));
-                    pair.put(res.getString(R.string.save_pair_json_second),p.getSecond());
+                    pair.put(res.getString(R.string.save_pair_json_second), p.getSecond());
                     words.put(pair);
                 }
                 obj.put(res.getString(R.string.save_json_state_map), words);
@@ -159,8 +158,7 @@ public class GameActivity extends Activity {
             String FILENAME = getResources().getString(R.string.save_file) + ".json";
             FileOutputStream fos = null;
             try {
-                fos = openFileOutput(FILENAME,
-                        Context.MODE_WORLD_READABLE);
+                fos = openFileOutput(FILENAME, Context.MODE_PRIVATE);
             } catch (FileNotFoundException e) {
                 e.printStackTrace();
             }
@@ -177,7 +175,7 @@ public class GameActivity extends Activity {
 
     }
 
-    private void restoreGame(){
+    private void restoreGame() {
         String text = "";
         try {
             String filename = res.getString(R.string.save_file) + ".json";
@@ -196,11 +194,11 @@ public class GameActivity extends Activity {
                 list.add(words.getJSONObject(i));
             }
 
-            for(JSONObject o: list){
+            for (JSONObject o : list) {
                 JSONObject object = o.getJSONObject(res.getString(R.string.save_pair_json_first));
                 String starts = object.getString(res.getString(R.string.save_starts_word_json));
                 int state = o.getInt(res.getString(R.string.save_pair_json_second));
-                wordState.put(starts,new Pair<Word, Integer>(new Word(object,res),state));
+                wordState.put(starts, new Pair<Word, Integer>(new Word(object, res), state));
             }
 
         } catch (JSONException e) {
