@@ -330,7 +330,8 @@
             android:layout_height="fill_parent"
             android:layout_weight="1"
             android:text="New Text"
-            android:id="@+id/tv_definition" />
+            android:id="@+id/tv_definition"
+            android:textSize="8pt" />
 
     </ScrollView>
 
