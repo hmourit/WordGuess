@@ -1,5 +1,9 @@
 package com.example.wordguess;
 
+import android.content.res.Resources;
+
+import org.json.JSONObject;
+
 import java.io.Serializable;
 
 public class Pair<F, S> implements Serializable {

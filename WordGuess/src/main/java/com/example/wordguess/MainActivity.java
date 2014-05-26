@@ -13,10 +13,28 @@ import android.view.ViewGroup;
 import android.os.Build;
 import android.widget.Button;
 
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class MainActivity extends Activity {
 
     Button new_game;
     Button cont_game;
+
+    private boolean checkSaveFile(){
+        boolean result = false;
+        String filename = getResources().getString(R.string.save_file) + ".json";
+        ArrayList<String> files = new ArrayList<>(Arrays.asList(fileList()));
+        if(files.contains(filename)){
+            result = true;
+        }
+        return result;
+    }
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +43,13 @@ public class MainActivity extends Activity {
 
         new_game = (Button) findViewById(R.id.but_start);
         cont_game = (Button) findViewById(R.id.but_cont);
+
+
+        if(checkSaveFile()){
+            cont_game.setEnabled(true);
+        }else{
+            cont_game.setEnabled(false);
+        }
         setCallbacks();
 
         /*if (savedInstanceState == null) {
@@ -34,11 +59,32 @@ public class MainActivity extends Activity {
         }*/
     }
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+        if(checkSaveFile()){
+            cont_game.setEnabled(true);
+        }else{
+            cont_game.setEnabled(false);
+        }
+    }
+
     private void setCallbacks(){
         new_game.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(view.getContext(), GameActivity.class));
+                Intent i = new Intent(view.getContext(), GameActivity.class);
+                i.setAction(getResources().getString(R.string.new_game_intent_action));
+                startActivity(i);
+            }
+        });
+
+        cont_game.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(view.getContext(), GameActivity.class);
+                i.setAction(getResources().getString(R.string.continue_game_intent_action));
+                startActivity(i);
             }
         });
     }

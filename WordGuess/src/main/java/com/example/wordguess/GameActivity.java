@@ -2,6 +2,7 @@ package com.example.wordguess;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Resources;
@@ -19,8 +20,20 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+import org.json.JSONTokener;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.List;
 
 
 public class GameActivity extends Activity {
@@ -68,7 +81,15 @@ public class GameActivity extends Activity {
         if (savedInstanceState != null) {
             restorePreviousState(savedInstanceState);
         } else {
-            createNewGame();
+            Intent sender=getIntent();
+            if(sender != null && sender.getAction().equals(res.getString(R.string.continue_game_intent_action))){
+                restoreGame();
+                setBackgroundColors();
+                loadWordAndDefinition((TextView) findViewById(activeLetterId));
+                startCountdown(remainingTime);
+            }else{
+                createNewGame();
+            }
         }
         if (debugMode) {
             activateDebug();
@@ -101,7 +122,7 @@ public class GameActivity extends Activity {
     public boolean onCreateOptionsMenu(Menu menu) {
 
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.main, menu);
+        getMenuInflater().inflate(R.menu.game_settings, menu);
         return true;
 
     }
@@ -113,11 +134,78 @@ public class GameActivity extends Activity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-        if (id == R.id.action_settings) {
+        if (id == R.id.action_save) {
+            while(wordState.size() < res.getStringArray(R.array.spanish_alphabet).length){
+                //Wait for all words to load
+            }
+            JSONObject obj = new JSONObject();
+            try {
+                String[] keys = new String[res.getStringArray(R.array.spanish_alphabet).length];
+                wordState.keySet().toArray(keys);
+                JSONArray words = new JSONArray();
+                for(String key: keys){
+                    Pair<Word, Integer> p = wordState.get(key);
+                    JSONObject pair = new JSONObject();
+                    pair.put(res.getString(R.string.save_pair_json_first), p.getFirst().toJsonObject(res));
+                    pair.put(res.getString(R.string.save_pair_json_second),p.getSecond());
+                    words.put(pair);
+                }
+                obj.put(res.getString(R.string.save_json_state_map), words);
+                obj.put(res.getString(R.string.save_time_json), remainingTime);
+                obj.put(res.getString(R.string.save_active_word), activeLetterId);
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+            String FILENAME = getResources().getString(R.string.save_file) + ".json";
+            FileOutputStream fos = null;
+            try {
+                fos = openFileOutput(FILENAME,
+                        Context.MODE_WORLD_READABLE);
+            } catch (FileNotFoundException e) {
+                e.printStackTrace();
+            }
+            try {
+                fos.write(obj.toString().getBytes());
+                fos.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            finish();
             return true;
         }
         return super.onOptionsItemSelected(item);
 
+    }
+
+    private void restoreGame(){
+        String text = "";
+        try {
+            String filename = res.getString(R.string.save_file) + ".json";
+            FileInputStream inputStream = openFileInput(filename);
+            text = Utils.fromInputStreamToString(inputStream);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        try {
+            JSONObject jsonObject = (JSONObject) new JSONTokener(text).nextValue();
+            remainingTime = jsonObject.getInt(res.getString(R.string.save_time_json));
+            activeLetterId = jsonObject.getInt(res.getString(R.string.save_active_word));
+            JSONArray words = jsonObject.getJSONArray(res.getString(R.string.save_json_state_map));
+            List<JSONObject> list = new ArrayList<JSONObject>();
+            for (int i = 0; i < words.length(); i++) {
+                list.add(words.getJSONObject(i));
+            }
+
+            for(JSONObject o: list){
+                JSONObject object = o.getJSONObject(res.getString(R.string.save_pair_json_first));
+                String starts = object.getString(res.getString(R.string.save_starts_word_json));
+                int state = o.getInt(res.getString(R.string.save_pair_json_second));
+                wordState.put(starts,new Pair<Word, Integer>(new Word(object,res),state));
+            }
+
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
     }
 
     @Override

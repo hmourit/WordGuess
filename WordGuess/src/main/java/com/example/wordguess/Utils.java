@@ -2,6 +2,13 @@ package com.example.wordguess;
 
 import android.content.res.TypedArray;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.Reader;
+import java.io.StringWriter;
+import java.io.Writer;
 import java.util.Iterator;
 
 /**
@@ -33,5 +40,27 @@ public class Utils {
 
             }
         };
+    }
+
+
+    /**
+     * read a file and converting it to String using StringWriter
+     */
+    public static String fromInputStreamToString(InputStream inputStream) throws IOException {
+
+        char[] buff = new char[1024];
+        Writer stringWriter = new StringWriter();
+
+        try {
+            Reader bReader = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"));
+            int n;
+            while ((n = bReader.read(buff)) != -1) {
+                stringWriter.write(buff, 0, n);
+            }
+        } finally {
+            stringWriter.close();
+            inputStream.close();
+        }
+        return stringWriter.toString();
     }
 }
